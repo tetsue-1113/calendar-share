@@ -1,69 +1,69 @@
 from __future__ import print_function
 import datetime
-import os.path
 import pytz
-
+import os.path
 from google.oauth2.credentials import Credentials
-from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
+from google.auth.transport.requests import Request
 
-# 📌 GoogleカレンダーID（マイカレンダーなら "primary"）
+# トークンとクレデンシャルのファイルパス
+TOKEN_PATH = 'token.json'
+CREDENTIALS_PATH = 'credentials.json'
+
+# Google CalendarのID（"primary"ならマイカレンダー）
 CALENDAR_ID = 'primary'
 
-# 🔐 認証スコープ（カレンダー編集権限）
-SCOPES = ['https://www.googleapis.com/auth/calendar']
+# 東京のタイムゾーン
+JST = pytz.timezone('Asia/Tokyo')
 
-# 📅 追加したいイベント（ここは例。今後はschedulesから生成）
-TEST_EVENTS = [
-    {
-        'summary': 'NG',
-        'start': datetime.datetime(2025, 6, 1, 13, 0),
-        'end': datetime.datetime(2025, 6, 1, 14, 0),
-    },
-    {
-        'summary': 'NG',
-        'start': datetime.datetime(2025, 6, 2, 10, 30),
-        'end': datetime.datetime(2025, 6, 2, 12, 0),
-    }
-]
 
-def authorize_calendar():
-    """認証してGoogle Calendar APIのサービスを返す"""
+def load_credentials():
+    """トークンまたは認証情報を読み込む"""
     creds = None
-    if os.path.exists('token.json'):
-        creds = Credentials.from_authorized_user_file('token.json', SCOPES)
+    if os.path.exists(TOKEN_PATH):
+        creds = Credentials.from_authorized_user_file(TOKEN_PATH)
     if not creds or not creds.valid:
         if creds and creds.expired and creds.refresh_token:
             creds.refresh(Request())
         else:
-            flow = InstalledAppFlow.from_client_secrets_file('credentials.json', SCOPES)
-            creds = flow.run_local_server(port=0)
-        with open('token.json', 'w') as token:
-            token.write(creds.to_json())
-    return build('calendar', 'v3', credentials=creds)
+            raise Exception("有効な認証情報が存在しません。'token.json'を再作成してください。")
+    return creds
 
-def insert_event(service, event):
-    """前後90分を加味してイベントをGoogleカレンダーに追加"""
-    timezone = pytz.timezone("Asia/Tokyo")
 
-    adjusted_start = event['start'] - datetime.timedelta(minutes=90)
-    adjusted_end = event['end'] + datetime.timedelta(minutes=90)
+def create_event(service, start_dt, end_dt, summary):
+    """イベントを作成してGoogleカレンダーに登録する"""
+    # 前後1時間（60分）を加算
+    is_allday = start_dt.hour == 0 and start_dt.minute == 0 and end_dt.hour == 23 and end_dt.minute == 59
 
-    event_body = {
-        'summary': 'NG',
+    if not is_allday:
+        start_dt = start_dt - datetime.timedelta(minutes=60)
+        end_dt = end_dt + datetime.timedelta(minutes=60)
+
+    # ISO形式に変換
+    start_iso = start_dt.isoformat()
+    end_iso = end_dt.isoformat()
+
+    event = {
+        'summary': summary,
         'start': {
-            'dateTime': adjusted_start.isoformat(),
+            'dateTime': start_iso,
             'timeZone': 'Asia/Tokyo',
         },
         'end': {
-            'dateTime': adjusted_end.isoformat(),
+            'dateTime': end_iso,
             'timeZone': 'Asia/Tokyo',
-        }
+        },
     }
-    created = service.events().insert(calendarId=CALENDAR_ID, body=event_body).execute()
-    print(f"✅ 登録完了: {created.get('start').get('dateTime')} - NG")
 
-if __name__ == '__main__':
-    service = authorize_calendar()
-    for e in TEST_EVENTS:
-        insert_event(service, e)
+    service.events().insert(calendarId=CALENDAR_ID, body=event).execute()
+
+
+def main(events):
+    """
+    events: List[Dict] 形式で [{'summary': 'NG 山田太郎', 'start': datetime, 'end': datetime}, ...]
+    """
+    creds = load_credentials()
+    service = build('calendar', 'v3', credentials=creds)
+
+    for e in events:
+        create_event(service, e['start'], e['end'], e['summary'])

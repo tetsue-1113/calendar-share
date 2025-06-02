@@ -10,7 +10,10 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 
-from calendar_utils import authorize_calendar, insert_event  # 🔽 Googleカレンダー連携用
+from calendar_utils import authorize_calendar, insert_event
+
+# ✅ GoogleカレンダーID（NG用）
+NG_CALENDAR_ID = "c_e360256dca0cfae181f48a877df0fb4c835645a801efb3e85f3c72ba7008a3c2@group.calendar.google.com"
 
 # 設定
 LOGIN_URL = "https://artsvision-schedule.com/login"
@@ -57,7 +60,6 @@ try:
     schedules = []
     today = datetime.now()
 
-    # 🎯 先3ヶ月分のスケジュールを巡回
     for offset in range(0, 3):
         target_date = today + timedelta(days=offset * 30)
         year = target_date.year
@@ -67,8 +69,11 @@ try:
         driver.get(schedule_url)
         print(f"📅 {year}年{month}月を取得中...")
 
-        WebDriverWait(driver, 10)
+        WebDriverWait(driver, 10).until(
+            EC.presence_of_all_elements_located((By.CSS_SELECTOR, "a.schedule"))
+        )
         schedule_elements = driver.find_elements(By.CSS_SELECTOR, "a.schedule")
+
         for schedule in schedule_elements:
             try:
                 day_element = schedule.find_element(By.XPATH, "./preceding::div[@class='day '][1]")
@@ -90,7 +95,6 @@ try:
 
     print(f"✅ スケジュール総数: {len(schedules)} 件")
 
-    # 🔍 詳細取得
     for schedule in schedules:
         driver.get(schedule["detail_url"])
         print(f"🔍 詳細: {schedule['detail_url']}")
@@ -114,7 +118,6 @@ try:
         schedule["description"] = desc
         schedule["uid"] = generate_uid(schedule)
 
-    # 📤 ICSファイルを再生成（上書き）
     def create_ics_file(schedules, file_path):
         ics_content = """BEGIN:VCALENDAR
 VERSION:2.0
@@ -123,9 +126,8 @@ CALSCALE:GREGORIAN
 """
         for schedule in schedules:
             date = schedule["date"]
-            time_range = schedule["time_range"]
             try:
-                start_str, end_str = time_range.split(" - ")
+                start_str, end_str = schedule["time_range"].split(" - ")
             except:
                 start_str, end_str = "00:00", "23:59"
 
@@ -156,7 +158,7 @@ END:VEVENT
 
     create_ics_file(schedules, output_ics_path)
 
-    # 📅 Googleカレンダー登録（前後90分追加、タイトルは固定「NG」）
+    # 🔄 Googleカレンダーへ登録
     service = authorize_calendar()
     for schedule in schedules:
         date = schedule["date"]
@@ -166,16 +168,21 @@ END:VEVENT
             start_str, end_str = "00:00", "23:59"
 
         try:
-            start_dt = parse_time_with_overflow(date, start_str) - timedelta(minutes=90)
-            end_dt = parse_time_with_overflow(date, end_str) + timedelta(minutes=90)
+            start_dt = parse_time_with_overflow(date, start_str)
+            end_dt = parse_time_with_overflow(date, end_str)
+
+            if not (start_str == "00:00" and end_str == "23:59"):
+                start_dt -= timedelta(minutes=60)
+                end_dt += timedelta(minutes=60)
+
         except Exception as e:
             print(f"⚠️ Googleカレンダー用の時間変換エラー: {e}")
             continue
 
-        insert_event(service, "NG", start_dt, end_dt)
+        insert_event(service, schedule["title"], start_dt, end_dt, calendar_id=NG_CALENDAR_ID, uid=schedule["uid"])
 
 except Exception as e:
     print(f"❌ エラー発生: {e}")
 finally:
     driver.quit()
-    print("🛑 ブラウザを閉じます。")    
+    print("🛑 ブラウザを閉じます。")
