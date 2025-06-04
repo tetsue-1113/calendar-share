@@ -11,26 +11,26 @@ UID:550bf80e3d709850c1d22dadd6a24f535cb7b613682b5bbffc6018456aad6968
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250602T100500
-DTEND;TZID=Asia/Tokyo:20250602T102500
+DTSTART;TZID=Asia/Tokyo:20250603T100500
+DTEND;TZID=Asia/Tokyo:20250603T102500
 SUMMARY:【テープAD】「ブレス」
 DESCRIPTION:【スタジオ名】\n松田ビル地下スタジオ\n\n【メモ】\n・INSPIONエッジ制作「ブレス」役：宇田川アイア（担当：加茂下）\n 
-UID:e1dbd22c5dfa1323e64036544c4757a1e1c1279c54f028125347522f880e663b
+UID:b5a1958f804bd8ebe37ddcb32bfd772876310b252d1c2fc8e7e9a570e81448df
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250604T160000
-DTEND;TZID=Asia/Tokyo:20250604T190000
+DTSTART;TZID=Asia/Tokyo:20250603T160000
+DTEND;TZID=Asia/Tokyo:20250603T190000
 SUMMARY:【Rec】Paradox Live　3rdシーズン第3戦　ユニット楽曲
 DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n先ほど留守電にも残させて頂きましたが、歌唱ディレクターの野口さんが緊急入院されてしまったとのことで、\n \n一旦6／4はバラシでリスケになります。目処見えたら改めてご連絡させて頂きます。\n 
-UID:59ca65cc2f9de7bebad19140aec6df46f11cb114b991dff684e5ef940ed0527b
+UID:9cad8244602fd2a80d9bcdd35ca9ee77c79730bbb85c1ba1dee9b17f2c2603b9
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250605T000000
-DTEND;TZID=Asia/Tokyo:20250605T235900
+DTSTART;TZID=Asia/Tokyo:20250605T160000
+DTEND;TZID=Asia/Tokyo:20250605T180000
 SUMMARY:①鬼人幻燈抄 CMナレーション
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【マネージャー名】\n山本 愛実\n\n【メモ】\n6／3はバラシになりました。\n6／5は引き続きkeepをお願いいたします。
+DESCRIPTION:【スタジオ名】\nスタジオアルジエ\n\n【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【マネージャー名】\n山本 愛実
 UID:ac73587624d7c2d4e8add0480de28c7da5cb8a6b287065865d782efd9d96923a
 LOCATION:未指定
 END:VEVENT
