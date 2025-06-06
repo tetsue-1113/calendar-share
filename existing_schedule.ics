@@ -19,11 +19,11 @@ UID:b5a1958f804bd8ebe37ddcb32bfd772876310b252d1c2fc8e7e9a570e81448df
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250603T160000
-DTEND;TZID=Asia/Tokyo:20250603T190000
+DTSTART;TZID=Asia/Tokyo:20250604T160000
+DTEND;TZID=Asia/Tokyo:20250604T190000
 SUMMARY:【Rec】Paradox Live　3rdシーズン第3戦　ユニット楽曲
 DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n先ほど留守電にも残させて頂きましたが、歌唱ディレクターの野口さんが緊急入院されてしまったとのことで、\n \n一旦6／4はバラシでリスケになります。目処見えたら改めてご連絡させて頂きます。\n 
-UID:9cad8244602fd2a80d9bcdd35ca9ee77c79730bbb85c1ba1dee9b17f2c2603b9
+UID:59ca65cc2f9de7bebad19140aec6df46f11cb114b991dff684e5ef940ed0527b
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -35,27 +35,19 @@ UID:ac73587624d7c2d4e8add0480de28c7da5cb8a6b287065865d782efd9d96923a
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250606T163000
-DTEND;TZID=Asia/Tokyo:20250606T193000
+DTSTART;TZID=Asia/Tokyo:20250605T163000
+DTEND;TZID=Asia/Tokyo:20250605T193000
 SUMMARY:①Paradox Live　GP
 DESCRIPTION:【スタジオ名】\n新宿村スタジオ　WEST　B202\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n※追記事項増えたため再度通知させて頂きます。\n・宣伝施策用に、お名前とコメントのご記入をお願いいたします（手書き掲載）\n \n　詳細は別途メールでお送りいたします。\n・プレゼント施策用に、Tシャツ3枚にサインのご記入お願いいたします。\n 
-UID:dbaf489ffb46aa36bbdca47067a217937b0e5c85b8edff5290e711090db30ff5
+UID:5ea3f31b36f565e33b3c1ffa60cc2dc6fee1714ce3b5ef407a85c41d1934eaef
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250609T170000
 DTEND;TZID=Asia/Tokyo:20250609T200000
-SUMMARY:①【Rec】Paradox Live　3rdシーズン第3戦　ユニット楽曲　※どちらか
-DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子
-UID:a4428cb744ec4c333da3e854cfff1cdb3e675c20c2140693937e43f9b7bc67ea
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250610T170000
-DTEND;TZID=Asia/Tokyo:20250610T200000
-SUMMARY:①【Rec】Paradox Live　3rdシーズン第3戦　ユニット楽曲　※どちらか
-DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子
-UID:697d1391961520dc0c0aebb81f4cf89b14dea426ed6958c69d71750dae355a78
+SUMMARY:①【Rec】Paradox Live　3rdシーズン第3戦　ユニット楽曲
+DESCRIPTION:【スタジオ名】\n渋谷NWPスタジオ\n\n【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n◇渋谷NWPスタジオ\nhttps://www.nwp.co.jp/studio\n東京都渋谷区南平台2-12 南平台久保ビルB1F\nJR・東急東横線・井の頭線・渋谷駅 徒歩10分\n井の頭線 神泉駅 徒歩10分
+UID:820fce9e48766ba9b0c98dc2407bcac28587740a073778d345ae160679ab62c3
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -104,6 +96,14 @@ DTEND;TZID=Asia/Tokyo:20250618T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
 UID:23a49fbd9bbe2c57f8dcb5e178e6dd73ec91912e4840b9c36357221da81585bd
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250620T100000
+DTEND;TZID=Asia/Tokyo:20250620T150000
+SUMMARY:①喫茶しーぷい　パンフレット撮影
+DESCRIPTION:【制作会社名】\n株式会社Thread Cloth\n\n【マネージャー名】\n山本 愛実
+UID:76ef8c4a598f435fab18594699e6cece60d4343e4aad727b9df0f555dde51546
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
