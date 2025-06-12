@@ -54,40 +54,40 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250611T160000
 DTEND;TZID=Asia/Tokyo:20250611T200000
 SUMMARY:①全力回避フラグちゃん!
-DESCRIPTION:【スタジオ名】\nG-angle恵比寿スタジオ（予定）\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■YouTubeアニメ「全力回避フラグちゃん!」\n■お役：レローゼ\n■3月より終わりの時間が20時となります。（収録が4時間以内で終わるため）\n 
+DESCRIPTION:【スタジオ名】\nG-angle恵比寿スタジオ\n\n【制作会社名】\n株式会社　Plott\n\n【ディレクター名】\n田中様\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n台本はslackにて手配されておりますので、ご確認のほどどうぞよろしくお願いいたします！\n 
 UID:db3a9dd85234ec14297e1d1be7bcc108baea9fd6de0785dea6cd1d297f125b3d
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250612T160000
-DTEND;TZID=Asia/Tokyo:20250612T173000
+DTSTART;TZID=Asia/Tokyo:20250611T160000
+DTEND;TZID=Asia/Tokyo:20250611T173000
 SUMMARY:①新月同行　アプリ収録
 DESCRIPTION:【スタジオ名】\nジーアングル離れ　響st\n\n【制作会社名】\n(株)ジーアングル\n\n【ディレクター名】\nメーカーの方\n\n【マネージャー名】\n小林 聡華
-UID:cd174f79d51c55bdaa444ae039b723b44a97c35108439253c98f4d24ef47b2bd
+UID:a81c8cf3479904efa2ce6323fa45fb003b1e2fe947ab78dd4c2d41eb417056f1
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250613T000000
-DTEND;TZID=Asia/Tokyo:20250613T235900
+DTSTART;TZID=Asia/Tokyo:20250613T110000
+DTEND;TZID=Asia/Tokyo:20250613T111500
 SUMMARY:①【テープAD】ショタおに(仮)
 DESCRIPTION:【スタジオ名】\n松田ビル地下スタジオ\n\n【メモ】\n・アルエットスタジオ制作「ショタおに(仮)」役：清水悠（担当：兼丸）\n 
 UID:fc201ddfde3161701a4c9bc3aa6f7a7a13d5ee30752b1004016a7ede07ca0e9f
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250614T000000
-DTEND;TZID=Asia/Tokyo:20250614T235900
-SUMMARY:①Paradox Live　ファンミーティングイベント　※ここもやる
-DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子
-UID:e5ccdf2e7585aa51a7473b32e41eec9fc39c4a93f22c2220cf645b416ae52726
+DTSTART;TZID=Asia/Tokyo:20250614T133000
+DTEND;TZID=Asia/Tokyo:20250614T204000
+SUMMARY:①Paradox Live Dope Space Express
+DESCRIPTION:【スタジオ名】\nJR関内駅南口改札→横浜BUNTAI\n\n【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n・13：30　JR関内駅南口改札にて堤と待ち合わせ\n・ヘアメイク、衣装つき\n・PKG化あり、配信あり、1週間アーカイブあり\n\n◆14日の宿泊つきまして\n宿泊ホテルですが、「アパホテル＆リゾート横浜ベイタワー」になります。\n \n住所：〒231-0002　神奈川県横浜市中区海岸通5丁目25番3（会場から車で10分程度）\n \nURL：https://www.apahotel.com/resort/yokohama/access/\n \nチェックインにつきましてはこちらで事前に済ましておきますので、\n \n14日の会場にてルームキーをお渡しさせていただければと思います。\n \n（一応住谷様のダミーネームにつきましては「スダ トモキ」でとっております）\n \n \nなおホテルまでの移動については、\n14日の終演後にこちらでバスを手配しておりますので、\nそちらに乗っていただき、ホテルまでご案内できればと思います。\n 
+UID:3f2e8c1db19841ca6c020130636a5ce3207b8d7b66ed8109330381740f52a33d
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250615T000000
-DTEND;TZID=Asia/Tokyo:20250615T235900
-SUMMARY:①Paradox Live　ファンミーティングイベント　※本番日
-DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子
-UID:7cb41698ec49f620ae19cef99f5b13ca61e9d3f1a7a9da1284873bd6209bab8b
+DTSTART;TZID=Asia/Tokyo:20250615T091000
+DTEND;TZID=Asia/Tokyo:20250615T204000
+SUMMARY:①Paradox Live Dope Space　2回まわし
+DESCRIPTION:【スタジオ名】\nホテルロビー→横浜BUNTAI\n\n【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n・09：10　ホテルロビー集合\n・ヘアメイク、衣装つき\n・PKG化あり、配信あり、1週間アーカイブあり\n・帰りは東京までのバスが出る予定ですが、当日乗車の有無を確認させてくださいませ！\n 
+UID:41bc6b2846342bd535cc86719c79027c3f21c9f732a9509828fdbf62b16ab9d9
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -118,7 +118,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250620T100000
 DTEND;TZID=Asia/Tokyo:20250620T150000
 SUMMARY:①喫茶しーぷい　パンフレット撮影
-DESCRIPTION:【制作会社名】\n株式会社Thread Cloth\n\n【マネージャー名】\n山本 愛実
+DESCRIPTION:【スタジオ名】\nロビンスタジオ\n\n【制作会社名】\n株式会社Thread Cloth\n\n【マネージャー名】\n山本 愛実\n\n【メモ】\n・メイク付き、衣装自前\n・住谷様（10：00〜14：00）保住様（11：00〜15：00）\n※パンフレット及びブロマイド、コレクションカードにて使用するカットとして、複数のパターン及び、インタビュー及び、イベント内容のお打合せを予定しておりま\n す。\n※基本的には１着のみのご用意で問題ございませんが、場所によってのお着替えなどをご用意いただければ幸いです。但し、強制ではございませんので、出来る範囲で\n 構いません。\n\n＜スタジオ＞\nロビンスタジオ\n（https://www.studiopine.info/robin)\n東京都文京区関口1-14-10　塩谷ビル2F
 UID:e1691016f8988df58e5b5db866ee7c712b1ec5007c30d2fb501ebb1b731cfafe
 LOCATION:未指定
 END:VEVENT
@@ -189,9 +189,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250727T000000
 DTEND;TZID=Asia/Tokyo:20250727T235900
-SUMMARY:①「田邊幸輔のオレを外へと連れ出して。」イベントゲスト
+SUMMARY:①「田邊幸輔のオレを外へと連れ出して。」イベントゲスト　※第１部ゲスト予定
 DESCRIPTION:【制作会社名】\n(株)ベルガモ\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n2回公演のうちいずれかの公演1回ずつ
-UID:46c0c705da5a9f70c0d88c6af38d8719c672c2fcd42ba888e3ec22e32f5ed57e
+UID:b36415d763f88e5550ce18b2c0e7200997698c765b7de54d880f5d51ba389e11
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -296,6 +296,14 @@ DTEND;TZID=Asia/Tokyo:20250828T235900
 SUMMARY:⑦魔法少女まじつれえ
 DESCRIPTION:【制作会社名】\n(株)スタジオマウス\n\n【マネージャー名】\n小林 聡華
 UID:703a4ee0f96479c1482cb2bac88069936194b394b19c54aef5ee66b962682a2c
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250831T000000
+DTEND;TZID=Asia/Tokyo:20250831T235900
+SUMMARY:①竹田海渡・坂田将吾のここキャン！」イベントゲスト
+DESCRIPTION:【制作会社名】\n(株)ベルガモ\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n日程：8月31日(日)\n場所：中野セントラルパークカンファレンス ルーム１\n出演：竹田海渡・坂田将吾・ゲスト１名\n時間：ヘアメイク・リハーサル・本番込みで４時間～4時間半(2公演のうちいずれか１公演)\n \n　　　13:00～17:00／16:00～20:00（予定）\n内容：トークイベント\n出演料：4万円\n備考：ヘアメイク弊社手配、衣装自前
+UID:3f4189151322e9d88b9c1b68febc00b371bff5301052e373322a83b81f1a2852
 LOCATION:未指定
 END:VEVENT
 END:VCALENDAR
