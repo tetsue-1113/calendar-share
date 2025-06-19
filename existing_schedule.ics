@@ -59,11 +59,11 @@ UID:db3a9dd85234ec14297e1d1be7bcc108baea9fd6de0785dea6cd1d297f125b3d
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250611T160000
-DTEND;TZID=Asia/Tokyo:20250611T173000
+DTSTART;TZID=Asia/Tokyo:20250612T160000
+DTEND;TZID=Asia/Tokyo:20250612T173000
 SUMMARY:①新月同行　アプリ収録
 DESCRIPTION:【スタジオ名】\nジーアングル離れ　響st\n\n【制作会社名】\n(株)ジーアングル\n\n【ディレクター名】\nメーカーの方\n\n【マネージャー名】\n小林 聡華
-UID:a81c8cf3479904efa2ce6323fa45fb003b1e2fe947ab78dd4c2d41eb417056f1
+UID:cd174f79d51c55bdaa444ae039b723b44a97c35108439253c98f4d24ef47b2bd
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -101,17 +101,17 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250618T130000
 DTEND;TZID=Asia/Tokyo:20250618T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:c0101bfcc725033ef5e49386dff28db47598235e60080874057d51d1e3024342
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n■台本は添付をご確認お願いいたします！\n■公式SNS用に写真撮影入ります。
+UID:5e92e0424606fbc5b1335553e181a3e283e3a1e372778f85c00365d431147ded
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250619T200000
-DTEND;TZID=Asia/Tokyo:20250619T220000
-SUMMARY:①今日ログ
-DESCRIPTION:【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕
-UID:3b6345dc9f93d5b2d612a92c20d096bbae318cbe35499a7c20928944fa7eedf0
+DTSTART;TZID=Asia/Tokyo:20250620T000000
+DTEND;TZID=Asia/Tokyo:20250620T235900
+SUMMARY:【テープAD】I.ADORE
+DESCRIPTION:【メモ】\nステイラック「I.ADORE」（担当：山村）
+UID:e89bef4e73ecbe8a52d5ce160a6f3fa4e490bf04d99f14c4a3109989c4a6d409
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -134,8 +134,16 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250626T200000
 DTEND;TZID=Asia/Tokyo:20250626T220000
 SUMMARY:①今日ログ
-DESCRIPTION:【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕
+DESCRIPTION:【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n6/19はバラシになりました6/26の方で収録を行う予定です
 UID:7cb73aaba523b294e94ffa3636319e6ff86ea3f58fb57c6bb7a48dc5d30d88a2
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250630T000000
+DTEND;TZID=Asia/Tokyo:20250630T235900
+SUMMARY:①ラジ友Summer Fes 2025　イベントグッズ用撮影
+DESCRIPTION:【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:36c05808ae68f83c866eaad80928d43d330b1519387174ab77d82cea5b9ef319
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
