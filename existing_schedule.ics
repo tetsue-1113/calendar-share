@@ -139,11 +139,43 @@ UID:36c05808ae68f83c866eaad80928d43d330b1519387174ab77d82cea5b9ef319
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250701T160000
+DTEND;TZID=Asia/Tokyo:20250701T210000
+SUMMARY:①少年と犬　オーディオブック
+DESCRIPTION:【スタジオ名】\nR-studio（吉祥寺）\n\n【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n【スタジオ住所】東京都武蔵野市吉祥寺南町2-29-12　東伸⾃動⾞ビル2F\n 
+UID:a6e61bb99a93cfe533de03b64ad740d30273cbc72eee0f7dfaa136c794df4450
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250702T130000
 DTEND;TZID=Asia/Tokyo:20250702T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
 UID:d6aa3bb9e6c5fe04cf1523cd6afb53253f303ba33665efb685a16f26b2ee7777
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250707T160000
+DTEND;TZID=Asia/Tokyo:20250707T210000
+SUMMARY:①【スタジオAD】I.ADORE（アイアドア）
+DESCRIPTION:【制作会社名】\n(株)ステイラック\n\n【マネージャー名】\n山村 綾香
+UID:9b95d34d639ee442dd71bd210f518513ad3a08d6cd5d2dca208b23f0d70065ce
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250708T140000
+DTEND;TZID=Asia/Tokyo:20250708T210000
+SUMMARY:①【スタジオAD】I.ADORE（アイアドア）
+DESCRIPTION:【制作会社名】\n(株)ステイラック\n\n【マネージャー名】\n山村 綾香
+UID:c021c6010658af875bfbd82dcb320d6d037e443ece5ef26c930c53f591694c0b
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250708T160000
+DTEND;TZID=Asia/Tokyo:20250708T210000
+SUMMARY:②少年と犬　オーディオブック
+DESCRIPTION:【スタジオ名】\nR-sudio（吉祥寺）\n\n【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n【スタジオ住所】東京都武蔵野市吉祥寺南町2-29-12　東伸⾃動⾞ビル2F\n 
+UID:94be2d41d19fc7fbad419777bcaaedf17b4227a259c129a5f936b2bced68be3f
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -163,11 +195,27 @@ UID:81fff1a1217a7ee241ef0d69f1f4fcbce85f5845f656b8c2bafd538edf7e8a9b
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250715T160000
+DTEND;TZID=Asia/Tokyo:20250715T210000
+SUMMARY:①少年と犬　オーディオブック
+DESCRIPTION:【スタジオ名】\nR-studio（吉祥寺）\n\n【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n【スタジオ住所】東京都武蔵野市吉祥寺南町2-29-12　東伸⾃動⾞ビル2F\n 
+UID:aee8ca55bbe40ec8241f420c1ad6033ca21a2c1cea5d88b5b11a1951a70b1033
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250716T130000
 DTEND;TZID=Asia/Tokyo:20250716T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
 UID:649ca3309185c1eb9c8d0e29a1886bbf2e3fb4b8cb130e7f531abbfff69c5ac6
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250722T160000
+DTEND;TZID=Asia/Tokyo:20250722T210000
+SUMMARY:①少年と犬　オーディオブック
+DESCRIPTION:【スタジオ名】\nR-studio（吉祥寺）\n\n【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n【スタジオ住所】東京都武蔵野市吉祥寺南町2-29-12　東伸⾃動⾞ビル2F\n 
+UID:ca5d6df1422ece0fc9c8fa71f80097432a8f9f569962c686cef3ad92d544627e
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -192,6 +240,14 @@ DTEND;TZID=Asia/Tokyo:20250727T235900
 SUMMARY:①「田邊幸輔のオレを外へと連れ出して。」イベントゲスト　※第１部ゲスト予定
 DESCRIPTION:【制作会社名】\n(株)ベルガモ\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n2回公演のうちいずれかの公演1回ずつ
 UID:b36415d763f88e5550ce18b2c0e7200997698c765b7de54d880f5d51ba389e11
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250729T160000
+DTEND;TZID=Asia/Tokyo:20250729T210000
+SUMMARY:①少年と犬　オーディオブック
+DESCRIPTION:【スタジオ名】\nR-studio（吉祥寺）\n\n【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n【スタジオ住所】東京都武蔵野市吉祥寺南町2-29-12　東伸⾃動⾞ビル2F\n 
+UID:dc0e92033f2b829935db8048cb8f2a5c1b856e718d1eeec0c2e636624606e251
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
