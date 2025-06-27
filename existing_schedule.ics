@@ -118,7 +118,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250625T160000
 DTEND;TZID=Asia/Tokyo:20250625T200000
 SUMMARY:①全力回避フラグちゃん!
-DESCRIPTION:【スタジオ名】\nG-angle恵比寿スタジオ（予定）\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■YouTubeアニメ「全力回避フラグちゃん!」\n■お役：レローゼ\n■3月より終わりの時間が20時となります。（収録が4時間以内で終わるため）\n 
+DESCRIPTION:【スタジオ名】\nG-angle恵比寿スタジオ\n\n【制作会社名】\n株式会社　Plott\n\n【ディレクター名】\n田中様\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n台本はslackに共有されております！
 UID:83febbbaa36c87470fac6f277f5bd2b1c79b11411c58b2be83cf39a947a72dcf
 LOCATION:未指定
 END:VEVENT
@@ -126,24 +126,16 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250626T200000
 DTEND;TZID=Asia/Tokyo:20250626T220000
 SUMMARY:①今日ログ
-DESCRIPTION:【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n6/19はバラシになりました6/26の方で収録を行う予定です
+DESCRIPTION:【スタジオ名】\nマリン・エンタテインメント4F会議室\n\n【制作会社名】\n(株)マリン･エンタテインメント\n\n【ディレクター名】\nご担当：西川路さま\n\n【マネージャー名】\n杉山　裕
 UID:7cb73aaba523b294e94ffa3636319e6ff86ea3f58fb57c6bb7a48dc5d30d88a2
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250630T000000
-DTEND;TZID=Asia/Tokyo:20250630T235900
+DTSTART;TZID=Asia/Tokyo:20250630T133000
+DTEND;TZID=Asia/Tokyo:20250630T160000
 SUMMARY:①ラジ友Summer Fes 2025　イベントグッズ用撮影
-DESCRIPTION:【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+DESCRIPTION:【スタジオ名】\nひみつきち\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n【スタジオ住所】杉並区高円寺南4－7－1藤和シティーコープ高円寺南　春木屋ビル202号\n \n■メイク付き、衣装自前にてお願いいたします。（夏らしい服でお願いいたします）\n \n■付属：SNS用のオフショット撮影、宣伝用の動画撮影、サイン・コメントのご記入をお願いいたします。\n \n■タイムスケジュール、グッズ案内容は添付をご確認お願いいたします！\n 
 UID:36c05808ae68f83c866eaad80928d43d330b1519387174ab77d82cea5b9ef319
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250701T160000
-DTEND;TZID=Asia/Tokyo:20250701T210000
-SUMMARY:①少年と犬　オーディオブック
-DESCRIPTION:【スタジオ名】\nR-studio（吉祥寺）\n\n【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n【スタジオ住所】東京都武蔵野市吉祥寺南町2-29-12　東伸⾃動⾞ビル2F\n 
-UID:a6e61bb99a93cfe533de03b64ad740d30273cbc72eee0f7dfaa136c794df4450
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -152,6 +144,14 @@ DTEND;TZID=Asia/Tokyo:20250702T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
 UID:d6aa3bb9e6c5fe04cf1523cd6afb53253f303ba33665efb685a16f26b2ee7777
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250705T160000
+DTEND;TZID=Asia/Tokyo:20250705T210000
+SUMMARY:①少年と犬　オーディオブック
+DESCRIPTION:【スタジオ名】\nR-studio（吉祥寺）\n\n【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n【スタジオ住所】東京都武蔵野市吉祥寺南町2-29-12　東伸⾃動⾞ビル2F\n \n\n▼収録スケジュール\n【1回目】7/5(土)16時～21時\n【2回目】7/10(木)16時～21時\n【3回目】7/12(土)16時～21時\n【4回目】7/14(月)16時～21時\n【5回目】7/19(土)16時～21時
+UID:70317043cd742b7f459378fb8061b70b15fc0bb9a54ce26a152367f75004ec94
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -171,14 +171,6 @@ UID:c021c6010658af875bfbd82dcb320d6d037e443ece5ef26c930c53f591694c0b
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250708T160000
-DTEND;TZID=Asia/Tokyo:20250708T210000
-SUMMARY:②少年と犬　オーディオブック
-DESCRIPTION:【スタジオ名】\nR-sudio（吉祥寺）\n\n【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n【スタジオ住所】東京都武蔵野市吉祥寺南町2-29-12　東伸⾃動⾞ビル2F\n 
-UID:94be2d41d19fc7fbad419777bcaaedf17b4227a259c129a5f936b2bced68be3f
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250709T130000
 DTEND;TZID=Asia/Tokyo:20250709T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
@@ -195,11 +187,27 @@ UID:81fff1a1217a7ee241ef0d69f1f4fcbce85f5845f656b8c2bafd538edf7e8a9b
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250715T160000
-DTEND;TZID=Asia/Tokyo:20250715T210000
+DTSTART;TZID=Asia/Tokyo:20250710T160000
+DTEND;TZID=Asia/Tokyo:20250710T210000
 SUMMARY:①少年と犬　オーディオブック
-DESCRIPTION:【スタジオ名】\nR-studio（吉祥寺）\n\n【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n【スタジオ住所】東京都武蔵野市吉祥寺南町2-29-12　東伸⾃動⾞ビル2F\n 
-UID:aee8ca55bbe40ec8241f420c1ad6033ca21a2c1cea5d88b5b11a1951a70b1033
+DESCRIPTION:【スタジオ名】\nR-studio（吉祥寺）\n\n【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n【スタジオ住所】東京都武蔵野市吉祥寺南町2-29-12　東伸⾃動⾞ビル2F\n \n\n▼収録スケジュール\n【1回目】7/5(土)16時～21時\n【2回目】7/10(木)16時～21時\n【3回目】7/12(土)16時～21時\n【4回目】7/14(月)16時～21時\n【5回目】7/19(土)16時～21時
+UID:1d24a110991ddb6ee02ba8e17bd6ccdb0c8947cc0d85983c4042f0ae32b04e4c
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250712T160000
+DTEND;TZID=Asia/Tokyo:20250712T210000
+SUMMARY:①少年と犬　オーディオブック
+DESCRIPTION:【スタジオ名】\nR-studio（吉祥寺）\n\n【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n【スタジオ住所】東京都武蔵野市吉祥寺南町2-29-12　東伸⾃動⾞ビル2F\n \n\n▼収録スケジュール\n【1回目】7/5(土)16時～21時\n【2回目】7/10(木)16時～21時\n【3回目】7/12(土)16時～21時\n【4回目】7/14(月)16時～21時\n【5回目】7/19(土)16時～21時
+UID:8c846239f9faf8519a8334fa3fd29be064fda9c7a4a48f760437e660d687d9a0
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250714T160000
+DTEND;TZID=Asia/Tokyo:20250714T210000
+SUMMARY:①少年と犬　オーディオブック
+DESCRIPTION:【スタジオ名】\nR-studio（吉祥寺）\n\n【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n【スタジオ住所】東京都武蔵野市吉祥寺南町2-29-12　東伸⾃動⾞ビル2F\n \n\n▼収録スケジュール\n【1回目】7/5(土)16時～21時\n【2回目】7/10(木)16時～21時\n【3回目】7/12(土)16時～21時\n【4回目】7/14(月)16時～21時\n【5回目】7/19(土)16時～21時
+UID:64c5f42871cf11390cd5c2153e9d848c892a241e5fbee3daf114129a86750ceb
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -211,11 +219,11 @@ UID:649ca3309185c1eb9c8d0e29a1886bbf2e3fb4b8cb130e7f531abbfff69c5ac6
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250722T160000
-DTEND;TZID=Asia/Tokyo:20250722T210000
+DTSTART;TZID=Asia/Tokyo:20250719T160000
+DTEND;TZID=Asia/Tokyo:20250719T210000
 SUMMARY:①少年と犬　オーディオブック
-DESCRIPTION:【スタジオ名】\nR-studio（吉祥寺）\n\n【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n【スタジオ住所】東京都武蔵野市吉祥寺南町2-29-12　東伸⾃動⾞ビル2F\n 
-UID:ca5d6df1422ece0fc9c8fa71f80097432a8f9f569962c686cef3ad92d544627e
+DESCRIPTION:【スタジオ名】\nR-studio（吉祥寺）\n\n【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n【スタジオ住所】東京都武蔵野市吉祥寺南町2-29-12　東伸⾃動⾞ビル2F\n \n\n▼収録スケジュール\n【1回目】7/5(土)16時～21時\n【2回目】7/10(木)16時～21時\n【3回目】7/12(土)16時～21時\n【4回目】7/14(月)16時～21時\n【5回目】7/19(土)16時～21時
+UID:25aa830da02ea7de3b5f615f88ec8725545a7f9fccae688627c3585a908f3ed1
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -243,19 +251,27 @@ UID:b36415d763f88e5550ce18b2c0e7200997698c765b7de54d880f5d51ba389e11
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250729T160000
-DTEND;TZID=Asia/Tokyo:20250729T210000
-SUMMARY:①少年と犬　オーディオブック
-DESCRIPTION:【スタジオ名】\nR-studio（吉祥寺）\n\n【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n【スタジオ住所】東京都武蔵野市吉祥寺南町2-29-12　東伸⾃動⾞ビル2F\n 
-UID:dc0e92033f2b829935db8048cb8f2a5c1b856e718d1eeec0c2e636624606e251
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250730T130000
 DTEND;TZID=Asia/Tokyo:20250730T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
 UID:c4808376565ef5adeb9504481b998b7b2aa96e8a04d98a0d3821dd863a399279
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250802T000000
+DTEND;TZID=Asia/Tokyo:20250802T235900
+SUMMARY:②I.ADORE（アイアドア）
+DESCRIPTION:【制作会社名】\n(株)ステイラック\n\n【マネージャー名】\n山村 綾香
+UID:ddd6d34e6b0da909a1304f3bc75dd96d3853450ce58931e0a637f1c103162d02
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250804T000000
+DTEND;TZID=Asia/Tokyo:20250804T235900
+SUMMARY:②I.ADORE（アイアドア）
+DESCRIPTION:【制作会社名】\n(株)ステイラック\n\n【マネージャー名】\n山村 綾香
+UID:fb6f191e238738981a50bc40972bbe51b5ea9ba0317b148fc8ac54889299c8c9
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -283,6 +299,22 @@ UID:3a1f08d3c68d19dd4782acf1ab6d63f17a76a035b5d12834a111573fb9c11e49
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250809T000000
+DTEND;TZID=Asia/Tokyo:20250809T235900
+SUMMARY:②I.ADORE（アイアドア）
+DESCRIPTION:【制作会社名】\n(株)ステイラック\n\n【マネージャー名】\n山村 綾香
+UID:4876cd07ba452ddd2722066cc552400bcdfff9b930356296335d2d354352c57d
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250811T000000
+DTEND;TZID=Asia/Tokyo:20250811T235900
+SUMMARY:②I.ADORE（アイアドア）
+DESCRIPTION:【制作会社名】\n(株)ステイラック\n\n【マネージャー名】\n山村 綾香
+UID:2da98ee66096933ebcad51cc691902bc37fc5968521f9ec32a883b480e39b33b
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250813T130000
 DTEND;TZID=Asia/Tokyo:20250813T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
@@ -304,6 +336,22 @@ DTEND;TZID=Asia/Tokyo:20250816T235900
 SUMMARY:①ラジ友Summer Fes 2025　イベント
 DESCRIPTION:【スタジオ名】\n全電通労働会館\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n【会場】東京都千代田区神田駿河台3丁目6　https://zhall.or.jp/access.html\n \n■2023年に開催しました『ラジ友Spring FES』と同じ形で出演者と内容を変えてトークをメインにした、3公演お送りする予定です。\n 
 UID:8e511488132168450940cf510b89aa7b4a631d06fb887eb5de70518fcfc1fd6b
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250816T000000
+DTEND;TZID=Asia/Tokyo:20250816T235900
+SUMMARY:②I.ADORE（アイアドア）
+DESCRIPTION:【制作会社名】\n(株)ステイラック\n\n【マネージャー名】\n山村 綾香
+UID:40bae03e20fd3b18cf1d3fb8864b92826d8bf34a0a9bbd5efac0283bbf28c2a3
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250818T000000
+DTEND;TZID=Asia/Tokyo:20250818T235900
+SUMMARY:②I.ADORE（アイアドア）
+DESCRIPTION:【制作会社名】\n(株)ステイラック\n\n【マネージャー名】\n山村 綾香
+UID:13e76f4a86aca15074424f7a503c55d88f9bfea80b1343d863a5650e7d88a54d
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -331,6 +379,22 @@ UID:345315a51ad9529f5b75e9dbf02016f2c56b225ddbd06adf95632c4490326885
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250823T000000
+DTEND;TZID=Asia/Tokyo:20250823T235900
+SUMMARY:②I.ADORE（アイアドア）
+DESCRIPTION:【制作会社名】\n(株)ステイラック\n\n【マネージャー名】\n山村 綾香
+UID:af43770424fce5a81e521c8fa05e65fd33fab8d742ebc441091ab1e30c2b464d
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250825T000000
+DTEND;TZID=Asia/Tokyo:20250825T235900
+SUMMARY:②I.ADORE（アイアドア）
+DESCRIPTION:【制作会社名】\n(株)ステイラック\n\n【マネージャー名】\n山村 綾香
+UID:8152865c8a369715db8acdb9ee0408227323d9c707c5bbb0fd7577c6a78931c0
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250827T130000
 DTEND;TZID=Asia/Tokyo:20250827T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
@@ -355,11 +419,19 @@ UID:703a4ee0f96479c1482cb2bac88069936194b394b19c54aef5ee66b962682a2c
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250831T000000
-DTEND;TZID=Asia/Tokyo:20250831T235900
-SUMMARY:①竹田海渡・坂田将吾のここキャン！」イベントゲスト
-DESCRIPTION:【制作会社名】\n(株)ベルガモ\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n日程：8月31日(日)\n場所：中野セントラルパークカンファレンス ルーム１\n出演：竹田海渡・坂田将吾・ゲスト１名\n時間：ヘアメイク・リハーサル・本番込みで４時間～4時間半(2公演のうちいずれか１公演)\n \n　　　13:00～17:00／16:00～20:00（予定）\n内容：トークイベント\n出演料：4万円\n備考：ヘアメイク弊社手配、衣装自前
-UID:3f4189151322e9d88b9c1b68febc00b371bff5301052e373322a83b81f1a2852
+DTSTART;TZID=Asia/Tokyo:20250830T000000
+DTEND;TZID=Asia/Tokyo:20250830T235900
+SUMMARY:②I.ADORE（アイアドア）
+DESCRIPTION:【制作会社名】\n(株)ステイラック\n\n【マネージャー名】\n山村 綾香
+UID:e0573a78e1be69e65b21d21594d07de8355a5776c40756552312a8dfd56d3fc4
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250831T133000
+DTEND;TZID=Asia/Tokyo:20250831T170000
+SUMMARY:①竹田海渡・坂田将吾のここキャン！」イベントゲスト　※第１部
+DESCRIPTION:【制作会社名】\n(株)ベルガモ\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n【開催概要】\nイベントタイトル　\n「ここキャン夏祭り2025」\n開催日時　2025年8月31日　日曜日\n第1部    開場15:00　開演15:30　終演16:45\n第2部 　 開場17:30　開演18:00　終演19:15\n会場　　　中野セントラルパークカンファレンス ルーム1(東京都中野区中野 4-10-2 中野セントラルパークサウス1F)\n \n出　　演　竹田海渡・坂田将吾　\nゲ ス ト　住谷哲栄(第1部)／徳留慎乃佑(第２部)\n【タイムスケジュール】(敬称略)\n12:00　スタッフ集合、坂田将吾入り メイク\n12:45　竹田海渡入り メイク\n13:30　住谷哲栄入り メイク\n14:15　リハーサル\n15:00　開場\n15:30　開演\n16:00　徳留慎乃佑入り メイク\n16:45　第1部終演　→第１部ゲスト 解散\n17:00　2部リハーサル\n17:30　開場\n18:00　開演\n19:15　終演　→第２部ゲスト解散、ここキャンお話会\n21:00　完全撤収\n備考：ヘアメイクあり、衣装自前
+UID:f18ada82e6190bc2ff56eef089f7e7006584c169c2f342d3713e6550d87bb5d5
 LOCATION:未指定
 END:VEVENT
 END:VCALENDAR
