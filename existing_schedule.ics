@@ -3,11 +3,12 @@ VERSION:2.0
 PRODID:-//Your Organization//Your Calendar 1.0//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250702T130000
-DTEND;TZID=Asia/Tokyo:20250702T150000
+
+DTSTART;TZID=Asia/Tokyo:20250701T130000
+DTEND;TZID=Asia/Tokyo:20250701T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n■台本は添付をご確認お願いいたします！\n■公式SNS用写真撮影入ります。
-UID:a12226bda2132f2c38bee021e9ec50e396f08a90da3288f6bde1c40ee4fe45cd
+UID:aa38e39033b2588b8288f534fca1330bd810ecd9882407752f0c1d19862ccb38
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -16,6 +17,7 @@ DTEND;TZID=Asia/Tokyo:20250704T235900
 SUMMARY:①【テープAD】桃源暗鬼 2期
 DESCRIPTION:【スタジオ名】\n松田ビル地下スタジオ\n\n【メモ】\n・アルエットスタジオ制作「桃源暗鬼 2期」役：メールに記載します（担当：兼丸）\n 
 UID:1915e899fb074c8ce98f0d2f7685636bbdb9d4a9bebbf8280b00f02b96448345
+
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -144,6 +146,7 @@ DTEND;TZID=Asia/Tokyo:20250704T235900
 SUMMARY:①【テープAD】桃源暗鬼 2期
 DESCRIPTION:【スタジオ名】\n松田ビル地下スタジオ\n\n【メモ】\n・アルエットスタジオ制作「桃源暗鬼 2期」役：メールに記載します（担当：兼丸）\n 
 UID:1915e899fb074c8ce98f0d2f7685636bbdb9d4a9bebbf8280b00f02b96448345
+
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -160,6 +163,14 @@ DTEND;TZID=Asia/Tokyo:20250707T210000
 SUMMARY:①【スタジオAD】I.ADORE（アイアドア）
 DESCRIPTION:【制作会社名】\n(株)ステイラック\n\n【マネージャー名】\n山村 綾香
 UID:9b95d34d639ee442dd71bd210f518513ad3a08d6cd5d2dca208b23f0d70065ce
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250708T000000
+DTEND;TZID=Asia/Tokyo:20250708T235900
+SUMMARY:【テープAD】アニドルカラーズ
+DESCRIPTION:【メモ】\nアスレーベン制作「アニドルカラーズ」役名：③ 涼風 真宙\n 
+UID:3a597994617a62c7f92380c8132e263321f3f4ee10f7ca6eb2f672d7aefbd5da
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -320,6 +331,191 @@ DTEND;TZID=Asia/Tokyo:20250813T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
 UID:8038b7b40664cb7fb079870275790117d14c4c78df2f356de96faa0de954d712
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250813T160000
+DTEND;TZID=Asia/Tokyo:20250813T180000
+SUMMARY:②東京ディバンカー　追加収録
+DESCRIPTION:【制作会社名】\n(株)ジーアングル\n\n【ディレクター名】\nメーカーの方\n\n【マネージャー名】\n小林 聡華
+UID:7479900af896963baa739b5de76ca654162d5fe1df66af60755bf49b521e6baf
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250814T000000
+DTEND;TZID=Asia/Tokyo:20250814T235900
+SUMMARY:⑦魔法少女まじつれえ
+DESCRIPTION:【制作会社名】\n(株)スタジオマウス\n\n【マネージャー名】\n小林 聡華
+UID:1b38e6fbf2d99259053ff0c870a2c11525f74cc440298d3f254dfee8dd935f92
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250816T000000
+DTEND;TZID=Asia/Tokyo:20250816T235900
+SUMMARY:①ラジ友Summer Fes 2025　イベント
+DESCRIPTION:【スタジオ名】\n全電通労働会館\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n【会場】東京都千代田区神田駿河台3丁目6　https://zhall.or.jp/access.html\n \n■2023年に開催しました『ラジ友Spring FES』と同じ形で出演者と内容を変えてトークをメインにした、3公演お送りする予定です。\n 
+UID:8e511488132168450940cf510b89aa7b4a631d06fb887eb5de70518fcfc1fd6b
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250816T000000
+DTEND;TZID=Asia/Tokyo:20250816T235900
+SUMMARY:②I.ADORE（アイアドア）
+DESCRIPTION:【制作会社名】\n(株)ステイラック\n\n【マネージャー名】\n山村 綾香
+UID:40bae03e20fd3b18cf1d3fb8864b92826d8bf34a0a9bbd5efac0283bbf28c2a3
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250818T000000
+DTEND;TZID=Asia/Tokyo:20250818T235900
+SUMMARY:②I.ADORE（アイアドア）
+DESCRIPTION:【制作会社名】\n(株)ステイラック\n\n【マネージャー名】\n山村 綾香
+UID:13e76f4a86aca15074424f7a503c55d88f9bfea80b1343d863a5650e7d88a54d
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250820T130000
+DTEND;TZID=Asia/Tokyo:20250820T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:592f907a1a8569033e089837d1e0bb1ba37a24f2eb76e504cb459435a9d0015f
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250820T160000
+DTEND;TZID=Asia/Tokyo:20250820T200000
+SUMMARY:①全力回避フラグちゃん!
+DESCRIPTION:【スタジオ名】\nG-angle恵比寿スタジオ（予定）\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■YouTubeアニメ「全力回避フラグちゃん!」\n■お役：レローゼ\n■3月より終わりの時間が20時となります。（収録が4時間以内で終わるため）\n 
+UID:21bca73323852e5221f09cd19d699a3effebda3c2b10ce1da3ac91ca420fdd5c
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250821T000000
+DTEND;TZID=Asia/Tokyo:20250821T235900
+SUMMARY:⑦魔法少女まじつれえ
+DESCRIPTION:【制作会社名】\n(株)スタジオマウス\n\n【マネージャー名】\n小林 聡華
+UID:345315a51ad9529f5b75e9dbf02016f2c56b225ddbd06adf95632c4490326885
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250823T000000
+DTEND;TZID=Asia/Tokyo:20250823T235900
+SUMMARY:②I.ADORE（アイアドア）
+DESCRIPTION:【制作会社名】\n(株)ステイラック\n\n【マネージャー名】\n山村 綾香
+UID:af43770424fce5a81e521c8fa05e65fd33fab8d742ebc441091ab1e30c2b464d
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250825T000000
+DTEND;TZID=Asia/Tokyo:20250825T235900
+SUMMARY:②I.ADORE（アイアドア）
+DESCRIPTION:【制作会社名】\n(株)ステイラック\n\n【マネージャー名】\n山村 綾香
+UID:8152865c8a369715db8acdb9ee0408227323d9c707c5bbb0fd7577c6a78931c0
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250827T130000
+DTEND;TZID=Asia/Tokyo:20250827T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:4c89fc206f26adc167fdf79ac438925d935e0d7504fb0855686cea13fceb16ec
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250828T000000
+DTEND;TZID=Asia/Tokyo:20250828T235900
+
+SUMMARY:⑦魔法少女まじつれえ
+DESCRIPTION:【制作会社名】\n(株)スタジオマウス\n\n【マネージャー名】\n小林 聡華
+UID:703a4ee0f96479c1482cb2bac88069936194b394b19c54aef5ee66b962682a2c
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250830T000000
+DTEND;TZID=Asia/Tokyo:20250830T235900
+SUMMARY:②I.ADORE（アイアドア）
+DESCRIPTION:【制作会社名】\n(株)ステイラック\n\n【マネージャー名】\n山村 綾香
+UID:e0573a78e1be69e65b21d21594d07de8355a5776c40756552312a8dfd56d3fc4
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250831T133000
+DTEND;TZID=Asia/Tokyo:20250831T170000
+SUMMARY:①竹田海渡・坂田将吾のここキャン！」イベントゲスト　※第１部
+DESCRIPTION:【制作会社名】\n(株)ベルガモ\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n【開催概要】\nイベントタイトル　\n「ここキャン夏祭り2025」\n開催日時　2025年8月31日　日曜日\n第1部    開場15:00　開演15:30　終演16:45\n第2部 　 開場17:30　開演18:00　終演19:15\n会場　　　中野セントラルパークカンファレンス ルーム1(東京都中野区中野 4-10-2 中野セントラルパークサウス1F)\n \n出　　演　竹田海渡・坂田将吾　\nゲ ス ト　住谷哲栄(第1部)／徳留慎乃佑(第２部)\n【タイムスケジュール】(敬称略)\n12:00　スタッフ集合、坂田将吾入り メイク\n12:45　竹田海渡入り メイク\n13:30　住谷哲栄入り メイク\n14:15　リハーサル\n15:00　開場\n15:30　開演\n16:00　徳留慎乃佑入り メイク\n16:45　第1部終演　→第１部ゲスト 解散\n17:00　2部リハーサル\n17:30　開場\n18:00　開演\n19:15　終演　→第２部ゲスト解散、ここキャンお話会\n21:00　完全撤収\n備考：ヘアメイクあり、衣装自前
+UID:f18ada82e6190bc2ff56eef089f7e7006584c169c2f342d3713e6550d87bb5d5
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250802T000000
+DTEND;TZID=Asia/Tokyo:20250802T235900
+SUMMARY:②I.ADORE（アイアドア）
+DESCRIPTION:【制作会社名】\n(株)ステイラック\n\n【マネージャー名】\n山村 綾香
+UID:ddd6d34e6b0da909a1304f3bc75dd96d3853450ce58931e0a637f1c103162d02
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250804T000000
+DTEND;TZID=Asia/Tokyo:20250804T235900
+SUMMARY:②I.ADORE（アイアドア）
+DESCRIPTION:【制作会社名】\n(株)ステイラック\n\n【マネージャー名】\n山村 綾香
+UID:fb6f191e238738981a50bc40972bbe51b5ea9ba0317b148fc8ac54889299c8c9
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250806T130000
+DTEND;TZID=Asia/Tokyo:20250806T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:6d5106484a63fc436dc574946d7d379fbb7a8f9fe774b873cf2e0d338623ff54
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250806T160000
+DTEND;TZID=Asia/Tokyo:20250806T200000
+SUMMARY:①全力回避フラグちゃん!
+DESCRIPTION:【スタジオ名】\nG-angle恵比寿スタジオ（予定）\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■YouTubeアニメ「全力回避フラグちゃん!」\n■お役：レローゼ\n■3月より終わりの時間が20時となります。（収録が4時間以内で終わるため）\n 
+UID:44bc2bbb1567f73b86e55b3185a3649159a2fd36ccaec3cfc461e1a545706571
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250807T000000
+DTEND;TZID=Asia/Tokyo:20250807T235900
+SUMMARY:⑦魔法少女まじつれえ
+DESCRIPTION:【制作会社名】\n(株)スタジオマウス\n\n【マネージャー名】\n小林 聡華
+UID:3a1f08d3c68d19dd4782acf1ab6d63f17a76a035b5d12834a111573fb9c11e49
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250809T000000
+DTEND;TZID=Asia/Tokyo:20250809T235900
+SUMMARY:②I.ADORE（アイアドア）
+DESCRIPTION:【制作会社名】\n(株)ステイラック\n\n【マネージャー名】\n山村 綾香
+UID:4876cd07ba452ddd2722066cc552400bcdfff9b930356296335d2d354352c57d
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250811T000000
+DTEND;TZID=Asia/Tokyo:20250811T235900
+SUMMARY:②I.ADORE（アイアドア）
+DESCRIPTION:【制作会社名】\n(株)ステイラック\n\n【マネージャー名】\n山村 綾香
+UID:2da98ee66096933ebcad51cc691902bc37fc5968521f9ec32a883b480e39b33b
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250813T130000
+DTEND;TZID=Asia/Tokyo:20250813T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:8038b7b40664cb7fb079870275790117d14c4c78df2f356de96faa0de954d712
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250813T160000
+DTEND;TZID=Asia/Tokyo:20250813T180000
+SUMMARY:②東京ディバンカー　追加収録
+DESCRIPTION:【制作会社名】\n(株)ジーアングル\n\n【ディレクター名】\nメーカーの方\n\n【マネージャー名】\n小林 聡華
+UID:7479900af896963baa739b5de76ca654162d5fe1df66af60755bf49b521e6baf
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
