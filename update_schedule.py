@@ -1,7 +1,9 @@
 import os
+import hashlib
 from datetime import datetime, timedelta
 from pathlib import Path
 from bs4 import BeautifulSoup
+import pytz
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
@@ -22,6 +24,7 @@ EMAIL = "tetsue1113@gmail.com"
 PASSWORD = "567artsvision"
 output_ics_path = Path("existing_schedule.ics")
 timezone = "Asia/Tokyo"
+tokyo = pytz.timezone(timezone)
 
 # ChromeDriverの設定
 options = Options()
@@ -40,14 +43,16 @@ def format_description(description):
     return "\\n".join(formatted_lines)
 
 def generate_uid(schedule):
-    return f"{schedule['title']}:{schedule['date'].isoformat()}"
+    raw = f"{schedule['title']}:{schedule['date'].isoformat()}"
+    return hashlib.sha256(raw.encode()).hexdigest()
 
 def parse_time_with_overflow(date, time_str):
     hour, minute = map(int, time_str.split(":"))
     if hour >= 24:
         date += timedelta(days=1)
         hour -= 24
-    return datetime(date.year, date.month, date.day, hour, minute)
+    dt = datetime(date.year, date.month, date.day, hour, minute)
+    return tokyo.localize(dt)
 
 try:
     print("ログイン中...")
@@ -58,7 +63,7 @@ try:
     print("ログイン成功！")
 
     schedules = []
-    today = datetime.now()
+    today = datetime.now(tokyo)
 
     for offset in range(0, 3):
         target_date = today + timedelta(days=offset * 30)
@@ -69,16 +74,14 @@ try:
         driver.get(schedule_url)
         print(f"📅 {year}年{month}月を取得中...")
 
-        WebDriverWait(driver, 10).until(
-            EC.presence_of_all_elements_located((By.CSS_SELECTOR, "a.schedule"))
-        )
+        WebDriverWait(driver, 10)
         schedule_elements = driver.find_elements(By.CSS_SELECTOR, "a.schedule")
-
         for schedule in schedule_elements:
             try:
                 day_element = schedule.find_element(By.XPATH, "./preceding::div[@class='day '][1]")
                 current_day = int(day_element.text.strip())
                 event_date = datetime(year, month, current_day)
+                event_date = tokyo.localize(event_date)
 
                 title = schedule.find_element(By.CSS_SELECTOR, ".title").text
                 time_range = schedule.find_element(By.CSS_SELECTOR, ".time").text
@@ -97,7 +100,6 @@ try:
 
     for schedule in schedules:
         driver.get(schedule["detail_url"])
-        print(f"🔍 詳細: {schedule['detail_url']}")
         WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "detail-title")))
 
         detail_sections = {
@@ -126,8 +128,9 @@ CALSCALE:GREGORIAN
 """
         for schedule in schedules:
             date = schedule["date"]
+            time_range = schedule["time_range"]
             try:
-                start_str, end_str = schedule["time_range"].split(" - ")
+                start_str, end_str = time_range.split(" - ")
             except:
                 start_str, end_str = "00:00", "23:59"
 
@@ -158,7 +161,6 @@ END:VEVENT
 
     create_ics_file(schedules, output_ics_path)
 
-    # 🔄 Googleカレンダーへ登録
     service = authorize_calendar()
     for schedule in schedules:
         date = schedule["date"]
@@ -179,7 +181,7 @@ END:VEVENT
             print(f"⚠️ Googleカレンダー用の時間変換エラー: {e}")
             continue
 
-        insert_event(service, schedule["title"], start_dt, end_dt, calendar_id=NG_CALENDAR_ID, uid=schedule["uid"])
+        insert_event(service, "NG", start_dt, end_dt, calendar_id=NG_CALENDAR_ID, uid=schedule["uid"])
 
 except Exception as e:
     print(f"❌ エラー発生: {e}")
