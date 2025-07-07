@@ -19,27 +19,27 @@ UID:1915e899fb074c8ce98f0d2f7685636bbdb9d4a9bebbf8280b00f02b96448345
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250704T160000
-DTEND;TZID=Asia/Tokyo:20250704T210000
+DTSTART;TZID=Asia/Tokyo:20250705T160000
+DTEND;TZID=Asia/Tokyo:20250705T210000
 SUMMARY:①少年と犬　オーディオブック
 DESCRIPTION:【スタジオ名】\nR-studio（吉祥寺）\n\n【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n【スタジオ住所】東京都武蔵野市吉祥寺南町2-29-12　東伸⾃動⾞ビル2F\n \n\n▼収録スケジュール\n【1回目】7/5(土)16時～21時\n【2回目】7/10(木)16時～21時\n【3回目】7/12(土)16時～21時\n【4回目】7/14(月)16時～21時\n【5回目】7/19(土)16時～21時
-UID:6d4170df884525c69674db562273eba34ad9603657ee541b6d9b891dac601777
+UID:70317043cd742b7f459378fb8061b70b15fc0bb9a54ce26a152367f75004ec94
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250708T000000
-DTEND;TZID=Asia/Tokyo:20250708T235900
+DTSTART;TZID=Asia/Tokyo:20250707T133000
+DTEND;TZID=Asia/Tokyo:20250707T140000
 SUMMARY:【テープAD】アニドルカラーズ
-DESCRIPTION:【メモ】\nアスレーベン制作「アニドルカラーズ」役名：③ 涼風 真宙\n 
-UID:3a597994617a62c7f92380c8132e263321f3f4ee10f7ca6eb2f672d7aefbd5da
+DESCRIPTION:【スタジオ名】\n松田ビル地下スタジオ\n\n【メモ】\nアスレーベン制作「アニドルカラーズ」役名：③ 涼風 真宙\n 
+UID:577cbdcbcda9211d6807b70559082f9e21d843ad72a00300fd1b5398cdb124ad
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250708T175500
-DTEND;TZID=Asia/Tokyo:20250708T185500
+DTSTART;TZID=Asia/Tokyo:20250707T175500
+DTEND;TZID=Asia/Tokyo:20250707T185500
 SUMMARY:①【スタジオAD】I.ADORE（アイアドア）
 DESCRIPTION:【スタジオ名】\nAllyスタジオ・改(アリィスタジオ・カイ）\n\n【制作会社名】\n(株)ステイラック\n\n【ディレクター名】\nご担当：松木さま\n\n【マネージャー名】\n山村 綾香\n\n【メモ】\n■7/8の方で決定お願いいたします！\n■役：音明　白黒熊\n■歌唱とセリフでのオーディションです。資料とスタジオ地図は追ってメールにてお送りいたします。\n 
-UID:c021c6010658af875bfbd82dcb320d6d037e443ece5ef26c930c53f591694c0b
+UID:9b95d34d639ee442dd71bd210f518513ad3a08d6cd5d2dca208b23f0d70065ce
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250709T160000
 DTEND;TZID=Asia/Tokyo:20250709T200000
 SUMMARY:①全力回避フラグちゃん!
-DESCRIPTION:【スタジオ名】\nG-angle恵比寿スタジオ（予定）\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■YouTubeアニメ「全力回避フラグちゃん!」\n■お役：レローゼ\n■3月より終わりの時間が20時となります。（収録が4時間以内で終わるため）\n 
+DESCRIPTION:【スタジオ名】\nG-angle恵比寿スタジオ\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n台本はslackにて共有済みですので、ご確認のほどどうぞよろしくお願いいたします！\n 
 UID:81fff1a1217a7ee241ef0d69f1f4fcbce85f5845f656b8c2bafd538edf7e8a9b
 LOCATION:未指定
 END:VEVENT
