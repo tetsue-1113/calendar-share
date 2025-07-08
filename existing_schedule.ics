@@ -27,27 +27,19 @@ UID:70317043cd742b7f459378fb8061b70b15fc0bb9a54ce26a152367f75004ec94
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250708T133000
-DTEND;TZID=Asia/Tokyo:20250708T140000
+DTSTART;TZID=Asia/Tokyo:20250707T133000
+DTEND;TZID=Asia/Tokyo:20250707T140000
 SUMMARY:【テープAD】アニドルカラーズ
 DESCRIPTION:【スタジオ名】\n松田ビル地下スタジオ\n\n【メモ】\nアスレーベン制作「アニドルカラーズ」役名：③ 涼風 真宙\n 
 UID:577cbdcbcda9211d6807b70559082f9e21d843ad72a00300fd1b5398cdb124ad
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250708T175500
-DTEND;TZID=Asia/Tokyo:20250708T185500
+DTSTART;TZID=Asia/Tokyo:20250707T175500
+DTEND;TZID=Asia/Tokyo:20250707T185500
 SUMMARY:①【スタジオAD】I.ADORE（アイアドア）
 DESCRIPTION:【スタジオ名】\nAllyスタジオ・改(アリィスタジオ・カイ）\n\n【制作会社名】\n(株)ステイラック\n\n【ディレクター名】\nご担当：松木さま\n\n【マネージャー名】\n山村 綾香\n\n【メモ】\n■7/8の方で決定お願いいたします！\n■役：音明　白黒熊\n■歌唱とセリフでのオーディションです。資料とスタジオ地図は追ってメールにてお送りいたします。\n 
 UID:9b95d34d639ee442dd71bd210f518513ad3a08d6cd5d2dca208b23f0d70065ce
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250709T130000
-DTEND;TZID=Asia/Tokyo:20250709T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:3364eaabdb188cdfce0eb9a89ffda5bc4d403043e721f3452593edec0f65847b
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -85,9 +77,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250716T130000
 DTEND;TZID=Asia/Tokyo:20250716T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:649ca3309185c1eb9c8d0e29a1886bbf2e3fb4b8cb130e7f531abbfff69c5ac6
+UID:1ae427181dcb506a7fd151854645d3c209823c237d8e1125fbaa8002bddd8a4d
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -96,14 +88,6 @@ DTEND;TZID=Asia/Tokyo:20250719T210000
 SUMMARY:①少年と犬　オーディオブック
 DESCRIPTION:【スタジオ名】\nR-studio（吉祥寺）\n\n【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n【スタジオ住所】東京都武蔵野市吉祥寺南町2-29-12　東伸⾃動⾞ビル2F\n \n\n▼収録スケジュール\n【1回目】7/5(土)16時～21時\n【2回目】7/10(木)16時～21時\n【3回目】7/12(土)16時～21時\n【4回目】7/14(月)16時～21時\n【5回目】7/19(土)16時～21時
 UID:25aa830da02ea7de3b5f615f88ec8725545a7f9fccae688627c3585a908f3ed1
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250723T130000
-DTEND;TZID=Asia/Tokyo:20250723T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:1b942a0539c1fc589f5d71f63699de3467bcc40bbd364a7316775d2d639c96e9
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -133,9 +117,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250730T130000
 DTEND;TZID=Asia/Tokyo:20250730T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:c4808376565ef5adeb9504481b998b7b2aa96e8a04d98a0d3821dd863a399279
+UID:91c7d0a7870643015402a18add30d9d33d3fa3493f30b2a64d69a912812dff72
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -152,14 +136,6 @@ DTEND;TZID=Asia/Tokyo:20250804T235900
 SUMMARY:②I.ADORE（アイアドア）
 DESCRIPTION:【制作会社名】\n(株)ステイラック\n\n【マネージャー名】\n山村 綾香
 UID:fb6f191e238738981a50bc40972bbe51b5ea9ba0317b148fc8ac54889299c8c9
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250806T130000
-DTEND;TZID=Asia/Tokyo:20250806T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:6d5106484a63fc436dc574946d7d379fbb7a8f9fe774b873cf2e0d338623ff54
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -197,9 +173,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250813T130000
 DTEND;TZID=Asia/Tokyo:20250813T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:8038b7b40664cb7fb079870275790117d14c4c78df2f356de96faa0de954d712
+UID:7a5185cd28a85f73f316102ed28b28a9b244f014cba99089ed523077f78b77c0
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -243,14 +219,6 @@ UID:13e76f4a86aca15074424f7a503c55d88f9bfea80b1343d863a5650e7d88a54d
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250820T130000
-DTEND;TZID=Asia/Tokyo:20250820T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:592f907a1a8569033e089837d1e0bb1ba37a24f2eb76e504cb459435a9d0015f
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250820T160000
 DTEND;TZID=Asia/Tokyo:20250820T200000
 SUMMARY:①全力回避フラグちゃん!
@@ -280,14 +248,6 @@ DTEND;TZID=Asia/Tokyo:20250825T235900
 SUMMARY:②I.ADORE（アイアドア）
 DESCRIPTION:【制作会社名】\n(株)ステイラック\n\n【マネージャー名】\n山村 綾香
 UID:8152865c8a369715db8acdb9ee0408227323d9c707c5bbb0fd7577c6a78931c0
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250827T130000
-DTEND;TZID=Asia/Tokyo:20250827T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:4c89fc206f26adc167fdf79ac438925d935e0d7504fb0855686cea13fceb16ec
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
