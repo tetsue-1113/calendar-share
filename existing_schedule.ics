@@ -102,32 +102,40 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250724T200000
 DTEND;TZID=Asia/Tokyo:20250724T220000
 SUMMARY:①今日ログ
-DESCRIPTION:【制作会社名】\n(株)マリン･エンタテインメント
+DESCRIPTION:【スタジオ名】\nマリン・エンタテインメント4F会議室\n\n【制作会社名】\n(株)マリン･エンタテインメント\n\n【ディレクター名】\nご担当：西川路さん\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n■台本、スタジオ地図は別途メールにてお送りしました
 UID:06444bc916df26945033867cca86f5445877267dc92a9c7594a7955574281d90
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250727T000000
-DTEND;TZID=Asia/Tokyo:20250727T235900
-SUMMARY:①「田邊幸輔のオレを外へと連れ出して。」イベントゲスト　※第１部ゲスト予定
-DESCRIPTION:【制作会社名】\n(株)ベルガモ\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n2回公演のうちいずれかの公演1回ずつ
-UID:b36415d763f88e5550ce18b2c0e7200997698c765b7de54d880f5d51ba389e11
+DTSTART;TZID=Asia/Tokyo:20250727T131500
+DTEND;TZID=Asia/Tokyo:20250727T170000
+SUMMARY:①「田邊幸輔のオレを外へと連れ出して。」イベントゲスト　昼の部
+DESCRIPTION:【スタジオ名】\n高円寺StudioK 1階\n\n【制作会社名】\n(株)ベルガモ\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n【開催概要】\n「田邊幸輔のオレを真夏のイベントへと連れ出して2025」\n \n開催日時　2025年7月27日　日曜日\n第1部   開場15:00　開演15:30　終演16:45\n会　場　 高円寺StudioK 1階(杉並区高円寺南4-39-17)\n出　演　 田邊幸輔　ゲスト）住谷哲栄(第１部)\n【タイムスケジュール】(敬称略)\n12:00　スタッフ集合\n12:30　田邊幸輔入り メイク\n13:15　住谷哲栄入り メイク\n14:00　リハーサル\n15:00　開場\n15:30　開演\n16:45　第1部終演　→第１部ゲスト解散\nメイクつきます。衣装は自前です。\nギターをお持ちください。\n12時55分にJR高円寺駅改札出たところで杉山と待ち合わせで。\n 
+UID:db465cd9ff5b9f2ba5bc88f77be70a0704c130666aa77c93848cade622bd9bc5
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250730T130000
-DTEND;TZID=Asia/Tokyo:20250730T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:91c7d0a7870643015402a18add30d9d33d3fa3493f30b2a64d69a912812dff72
+DTSTART;TZID=Asia/Tokyo:20250729T130000
+DTEND;TZID=Asia/Tokyo:20250729T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n■台本は添付をご確認お願いいたします！\n■公式SNS用写真撮影入ります。
+UID:43ff76743752576907c753e3ad786f9ea809fe53f17ad40bb4d7e1922910c280
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250730T160000
-DTEND;TZID=Asia/Tokyo:20250730T210000
+DTSTART;TZID=Asia/Tokyo:20250729T180000
+DTEND;TZID=Asia/Tokyo:20250729T190000
 SUMMARY:①P5X
-DESCRIPTION:【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【マネージャー名】\n加茂下 永\n\n【メモ】\n・リスケとなり、7/30でやります
-UID:3bcf363c1d873aebd5f107d01532dc4c70c3af530255944d5687ac7e943ec327
+DESCRIPTION:【スタジオ名】\nスタジオシエラ Cst【入館PASS：7827】\n\n【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【マネージャー名】\n加茂下 永\n\n【メモ】\n○場所：スタジオシエラ Cst、PASS【７８２７】\n東京都新宿区信濃町35 信濃町煉瓦館B1F　\n\n○役：住谷哲栄様 / 複数モブ / 76w\n\n○その他\n・香盤表は添付にてお送りいたします\n・台本はメールにてお送りいたしましたが、念のため下記にもお送りいたします\n \nhttps://98.gigafile.nu/1102-cf85719a0c52a8a7e39e186ad07de9766\nPASS：0725
+UID:137b68631b0d456a13609c4b588a5122b7d0d684fc08ce2dc2886d63b0a80b88
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250803T160000
+DTEND;TZID=Asia/Tokyo:20250803T210000
+SUMMARY:①少年と犬　オーディオブック
+DESCRIPTION:【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華
+UID:0329bc473b63172d911f351fe4cc01d31f124dab75351cb29fc581c3896f03f1
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -136,6 +144,14 @@ DTEND;TZID=Asia/Tokyo:20250806T200000
 SUMMARY:①全力回避フラグちゃん!
 DESCRIPTION:【スタジオ名】\nG-angle恵比寿スタジオ（予定）\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■YouTubeアニメ「全力回避フラグちゃん!」\n■お役：レローゼ\n■3月より終わりの時間が20時となります。（収録が4時間以内で終わるため）\n 
 UID:44bc2bbb1567f73b86e55b3185a3649159a2fd36ccaec3cfc461e1a545706571
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250807T160000
+DTEND;TZID=Asia/Tokyo:20250807T210000
+SUMMARY:①少年と犬　オーディオブック
+DESCRIPTION:【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華
+UID:4857196e0bfba1d1c68ac775fb20d11d924daed686fe467182a28856b65d06fb
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -148,9 +164,9 @@ LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250813T160000
-DTEND;TZID=Asia/Tokyo:20250813T180000
+DTEND;TZID=Asia/Tokyo:20250813T163000
 SUMMARY:①東京ディバンカー　追加収録
-DESCRIPTION:【制作会社名】\n(株)ジーアングル\n\n【ディレクター名】\nメーカーの方\n\n【マネージャー名】\n小林 聡華
+DESCRIPTION:【スタジオ名】\nジーアングル本社　Bst\n\n【制作会社名】\n(株)ジーアングル\n\n【ディレクター名】\nメーカーの方\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n▼台本資料\nhttps://drive.google.com/drive/folders/1m9G2SjlKtQw2y0ZIHcU1hGbCPo55ZVS2?us\n p=sharing
 UID:ebbe3b1c9307b390a9be0e849721189e67306cc5fa266c1fe5f11816dad06342
 LOCATION:未指定
 END:VEVENT
@@ -173,9 +189,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250830T170000
 DTEND;TZID=Asia/Tokyo:20250831T030000
-SUMMARY:③Paradox Live　生放送　※どこか
-DESCRIPTION:【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子
-UID:3b791f4a6805539f287d26853b97b4d26e14d657af0e834723c73958a76f36ba
+SUMMARY:①Paradox Live　生放送　※ここでやります
+DESCRIPTION:【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n＜ご出演者様＞\n・中島 ヨシキ様\n・住谷 哲栄様\n・天月様\n\n※千葉 翔也様スケジュールご確認中
+UID:a0ebf775487dcc09f7d083a11f8fed17d14a7533251188c1d8487872be9921fa
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -184,14 +200,6 @@ DTEND;TZID=Asia/Tokyo:20250831T170000
 SUMMARY:①竹田海渡・坂田将吾のここキャン！」イベントゲスト　※第１部
 DESCRIPTION:【制作会社名】\n(株)ベルガモ\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n【開催概要】\nイベントタイトル　\n「ここキャン夏祭り2025」\n開催日時　2025年8月31日　日曜日\n第1部    開場15:00　開演15:30　終演16:45\n第2部 　 開場17:30　開演18:00　終演19:15\n会場　　　中野セントラルパークカンファレンス ルーム1(東京都中野区中野 4-10-2 中野セントラルパークサウス1F)\n \n出　　演　竹田海渡・坂田将吾　\nゲ ス ト　住谷哲栄(第1部)／徳留慎乃佑(第２部)\n【タイムスケジュール】(敬称略)\n12:00　スタッフ集合、坂田将吾入り メイク\n12:45　竹田海渡入り メイク\n13:30　住谷哲栄入り メイク\n14:15　リハーサル\n15:00　開場\n15:30　開演\n16:00　徳留慎乃佑入り メイク\n16:45　第1部終演　→第１部ゲスト 解散\n17:00　2部リハーサル\n17:30　開場\n18:00　開演\n19:15　終演　→第２部ゲスト解散、ここキャンお話会\n21:00　完全撤収\n備考：ヘアメイクあり、衣装自前
 UID:f18ada82e6190bc2ff56eef089f7e7006584c169c2f342d3713e6550d87bb5d5
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250831T170000
-DTEND;TZID=Asia/Tokyo:20250901T030000
-SUMMARY:③Paradox Live　生放送　※どこか
-DESCRIPTION:【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子
-UID:b7ebf55dc0227ef902662ad86060ee6d7cdb8941911db200733a62620fadd6e1
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -216,22 +224,6 @@ DTEND;TZID=Asia/Tokyo:20250904T235900
 SUMMARY:⑥天幕のジャードゥーガル
 DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n小沼則義\n\n【マネージャー名】\n山本 愛実
 UID:ecfe00cfb0f57a4a3dd55afcb9650b1e9ea8c16225b9c3a64912d1827c97559a
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250906T170000
-DTEND;TZID=Asia/Tokyo:20250907T030000
-SUMMARY:③Paradox Live　生放送　※どこか
-DESCRIPTION:【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子
-UID:fc8056652195d4fe2b73a18573fca682e56ac9365c7addd4762d955d21f14585
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250907T170000
-DTEND;TZID=Asia/Tokyo:20250908T030000
-SUMMARY:③Paradox Live　生放送　※どこか
-DESCRIPTION:【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子
-UID:1f9000876b334b99597abb8f69188022db8a86f152ab704d1e4793dc45eb9bcf
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT

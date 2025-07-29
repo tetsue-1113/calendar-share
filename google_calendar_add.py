@@ -2,13 +2,15 @@ from __future__ import print_function
 import datetime
 import pytz
 import os.path
+from pathlib import Path
 from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
 from google.auth.transport.requests import Request
 
 # トークンとクレデンシャルのファイルパス
-TOKEN_PATH = 'token.json'
-CREDENTIALS_PATH = 'credentials.json'
+BASE_DIR = Path.home() / "Desktop" / "Python"
+TOKEN_PATH = BASE_DIR / "token.json"
+CREDENTIALS_PATH = BASE_DIR / "credentials.json"
 
 # Google CalendarのID（"primary"ならマイカレンダー）
 CALENDAR_ID = 'primary'

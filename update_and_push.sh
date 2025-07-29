@@ -3,8 +3,10 @@
 # -----------------------
 # 🔧 設定（ユーザーに依存しない）
 # -----------------------
-PROJECT_DIR="$HOME/Desktop/jupyter lab/ボイスケ更新"
-PYTHON_PATH="/opt/anaconda3/bin/python3"  # ← 環境によって違う可能性があるため注意
+PROJECT_DIR="$HOME/Desktop/Python/ボイスケ更新"
+PYTHON_PATH="$PROJECT_DIR/.venv/bin/python"
+# 現在のPythonバージョンを表示（仮想環境のものを使用）
+echo "▶️ 使用Python: $($PYTHON_PATH --version)"
 SCRIPT_NAME="update_schedule.py"
 ICS_FILE="existing_schedule.ics"
 
