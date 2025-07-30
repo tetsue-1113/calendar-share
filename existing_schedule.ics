@@ -133,9 +133,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250803T160000
 DTEND;TZID=Asia/Tokyo:20250803T210000
-SUMMARY:①少年と犬　オーディオブック
-DESCRIPTION:【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華
-UID:0329bc473b63172d911f351fe4cc01d31f124dab75351cb29fc581c3896f03f1
+SUMMARY:①少年と犬　オーディオブック【6回目】
+DESCRIPTION:【スタジオ名】\nR-sudio（吉祥寺）\n\n【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n※コンディションを見つつ収録にてお願いいたします！（録りきる形でも大丈夫です）\n 
+UID:b949923cc3a6da61db2bd48ce2b4febc63cd34c1a6ea922c7b1055f6cdf1fe80
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -149,9 +149,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250807T160000
 DTEND;TZID=Asia/Tokyo:20250807T210000
-SUMMARY:①少年と犬　オーディオブック
-DESCRIPTION:【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華
-UID:4857196e0bfba1d1c68ac775fb20d11d924daed686fe467182a28856b65d06fb
+SUMMARY:①少年と犬　オーディオブック　※予備日
+DESCRIPTION:【スタジオ名】\nR-sudio（吉祥寺）\n\n【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華
+UID:472ca2582ba0286b80f4a63d2c19599c7d2186ce4b0e716fccfec4ec9cf67a1d
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
