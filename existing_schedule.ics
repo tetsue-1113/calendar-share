@@ -2,4 +2,292 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Your Organization//Your Calendar 1.0//EN
 CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250802T160000
+DTEND;TZID=Asia/Tokyo:20250802T210000
+SUMMARY:①少年と犬　オーディオブック【6回目】
+DESCRIPTION:【スタジオ名】\nR-sudio（吉祥寺）\n\n【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n※未確認でしたので、再送させていただきます！\n■コンディションを見つつ収録にてお願いいたします！（録りきる形でも大丈夫です）\n 
+UID:20527d49face4ac29646e4f3c02b2bcaf6a9882c3e6fbdd05cdc7e1d11051abe
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250806T160000
+DTEND;TZID=Asia/Tokyo:20250806T200000
+SUMMARY:①全力回避フラグちゃん!
+DESCRIPTION:【スタジオ名】\nG-angle恵比寿スタジオ（予定）\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■YouTubeアニメ「全力回避フラグちゃん!」\n■お役：レローゼ\n■3月より終わりの時間が20時となります。（収録が4時間以内で終わるため）\n 
+UID:0e1264e8569055566cdcc69401707317c952de7b1db59a448ca4d7ed0ce65333
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250807T160000
+DTEND;TZID=Asia/Tokyo:20250807T210000
+SUMMARY:①少年と犬　オーディオブック　※予備日
+DESCRIPTION:【スタジオ名】\nR-sudio（吉祥寺）\n\n【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華
+UID:78d668071dfd14bb51c59824f3e1872cac8e797d0e0efc0caf3bde5ffcb4d270
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250813T130000
+DTEND;TZID=Asia/Tokyo:20250813T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:3330c88cfafb3d5b99ad38a97ea1c7bf8d16d2bd339ec491422bcf8d417dea13
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250813T160000
+DTEND;TZID=Asia/Tokyo:20250813T163000
+SUMMARY:①東京ディバンカー　追加収録
+DESCRIPTION:【スタジオ名】\nジーアングル本社　Bst\n\n【制作会社名】\n(株)ジーアングル\n\n【ディレクター名】\nメーカーの方\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n▼台本資料\nhttps://drive.google.com/drive/folders/1m9G2SjlKtQw2y0ZIHcU1hGbCPo55ZVS2?us\n p=sharing
+UID:6ede7e6df25abeae8b3dafac9941daab458bda2349996bce57c9427d5a9e705d
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250814T200000
+DTEND;TZID=Asia/Tokyo:20250814T220000
+SUMMARY:①今日ログ
+DESCRIPTION:【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕
+UID:aaea4a927fc051294929dd9c372770baa10c6c0f3136c15aebda60d73e35ea88
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250816T000000
+DTEND;TZID=Asia/Tokyo:20250816T235900
+SUMMARY:①ラジ友Summer Fes 2025　イベント
+DESCRIPTION:【スタジオ名】\n全電通労働会館\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n【会場】東京都千代田区神田駿河台3丁目6　https://zhall.or.jp/access.html\n \n■2023年に開催しました『ラジ友Spring FES』と同じ形で出演者と内容を変えてトークをメインにした、3公演お送りする予定です。\n 
+UID:8a654edc4064bf966558c59e1d5cb94e621637ae348120f526df4b8228024219
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250820T160000
+DTEND;TZID=Asia/Tokyo:20250820T200000
+SUMMARY:①全力回避フラグちゃん!
+DESCRIPTION:【スタジオ名】\nG-angle恵比寿スタジオ（予定）\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■YouTubeアニメ「全力回避フラグちゃん!」\n■お役：レローゼ\n■3月より終わりの時間が20時となります。（収録が4時間以内で終わるため）\n 
+UID:a785bf228b08157414f08aa5896282075a298d434d8fbbf07b8ec20f4e2eec3e
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250830T170000
+DTEND;TZID=Asia/Tokyo:20250831T030000
+SUMMARY:①Paradox Live　生放送　※ここでやります
+DESCRIPTION:【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n＜ご出演者様＞\n・中島 ヨシキ様\n・住谷 哲栄様\n・天月様\n\n※千葉 翔也様スケジュールご確認中
+UID:87d5321d6caee83277d090df7746b48eaf17197d9728c5f7a2151a9e79edb3c2
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250831T133000
+DTEND;TZID=Asia/Tokyo:20250831T170000
+SUMMARY:①竹田海渡・坂田将吾のここキャン！」イベントゲスト　※第１部
+DESCRIPTION:【制作会社名】\n(株)ベルガモ\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n【開催概要】\nイベントタイトル　\n「ここキャン夏祭り2025」\n開催日時　2025年8月31日　日曜日\n第1部    開場15:00　開演15:30　終演16:45\n第2部 　 開場17:30　開演18:00　終演19:15\n会場　　　中野セントラルパークカンファレンス ルーム1(東京都中野区中野 4-10-2 中野セントラルパークサウス1F)\n \n出　　演　竹田海渡・坂田将吾　\nゲ ス ト　住谷哲栄(第1部)／徳留慎乃佑(第２部)\n【タイムスケジュール】(敬称略)\n12:00　スタッフ集合、坂田将吾入り メイク\n12:45　竹田海渡入り メイク\n13:30　住谷哲栄入り メイク\n14:15　リハーサル\n15:00　開場\n15:30　開演\n16:00　徳留慎乃佑入り メイク\n16:45　第1部終演　→第１部ゲスト 解散\n17:00　2部リハーサル\n17:30　開場\n18:00　開演\n19:15　終演　→第２部ゲスト解散、ここキャンお話会\n21:00　完全撤収\n備考：ヘアメイクあり、衣装自前
+UID:5edd3a7ed87d0474fc1ced20e468d9646de9dcf54703037be795606148214820
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250903T130000
+DTEND;TZID=Asia/Tokyo:20250903T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:d67644157b967175c451c8f226ea97204e1e0517b276556b9621d67d6e593744
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250903T160000
+DTEND;TZID=Asia/Tokyo:20250903T200000
+SUMMARY:①全力回避フラグちゃん!
+DESCRIPTION:【スタジオ名】\nG-angle恵比寿スタジオ（予定）\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■YouTubeアニメ「全力回避フラグちゃん!」\n■お役：レローゼ\n■3月より終わりの時間が20時となります。（収録が4時間以内で終わるため）\n 
+UID:b00063edad71298966068f97de11ba404cc1be0d03dc483db6dbc753e0ef78e5
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250904T000000
+DTEND;TZID=Asia/Tokyo:20250904T235900
+SUMMARY:⑥天幕のジャードゥーガル
+DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n小沼則義\n\n【マネージャー名】\n山本 愛実
+UID:dac82ca0ca784bc567abf464f35ad6e5028790be71a617e86845bdcd9206b2fb
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250910T130000
+DTEND;TZID=Asia/Tokyo:20250910T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:78a40dfc3afdaf19f699c1a82a023065ed4505b45b7d0eb60c8a7d8dab9ae99c
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250911T000000
+DTEND;TZID=Asia/Tokyo:20250911T235900
+SUMMARY:⑥天幕のジャードゥーガル
+DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n小沼則義\n\n【マネージャー名】\n山本 愛実
+UID:8ab5a102234adbcd9dcfad40f00ee0858d8f9fcde3491207ea76ab051bba53fa
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250917T130000
+DTEND;TZID=Asia/Tokyo:20250917T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:4e625e384a955d764736381292cd7b01f829589e1418f75bdd57980c6a8d3666
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250917T160000
+DTEND;TZID=Asia/Tokyo:20250917T200000
+SUMMARY:①全力回避フラグちゃん!
+DESCRIPTION:【スタジオ名】\nG-angle恵比寿スタジオ（予定）\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■YouTubeアニメ「全力回避フラグちゃん!」\n■お役：レローゼ\n■3月より終わりの時間が20時となります。（収録が4時間以内で終わるため）\n 
+UID:8184bb50708228caacae5d675e3e51039d41d0ca9e8a4cc0aef5766e5de66345
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250918T000000
+DTEND;TZID=Asia/Tokyo:20250918T235900
+SUMMARY:⑥天幕のジャードゥーガル
+DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n小沼則義\n\n【マネージャー名】\n山本 愛実
+UID:7feef4d5cffb79c42bd3f183a7e23f2576702738cbae808add82b7f9cab35f0b
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250920T000000
+DTEND;TZID=Asia/Tokyo:20250920T235900
+SUMMARY:①喫茶しーぷい＠兵庫尼崎
+DESCRIPTION:【制作会社名】\n株式会社Thread Cloth\n\n【マネージャー名】\n山本 愛実
+UID:53f7071b5b282d66714c196866e348288610e236b8b7cd449905fb4d8dd2ac94
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250921T000000
+DTEND;TZID=Asia/Tokyo:20250921T235900
+SUMMARY:①喫茶しーぷい＠兵庫尼崎
+DESCRIPTION:【制作会社名】\n株式会社Thread Cloth\n\n【マネージャー名】\n山本 愛実
+UID:00ea4464cdaf64307844ad3e0c82c287dcbb8bf8eea7af25c31c1a6124e27da8
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250922T000000
+DTEND;TZID=Asia/Tokyo:20250922T235900
+SUMMARY:①イベント明けOFF
+DESCRIPTION:
+UID:48c453f54d4daff859da44944087f5f08fb4af46ed093aee7afed7ae9d9de30f
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250924T130000
+DTEND;TZID=Asia/Tokyo:20250924T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:9efaaa40af211a61a8105ab570fa6b7a0ae9136db1b45a36b8c465d2c51cf1b9
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250925T000000
+DTEND;TZID=Asia/Tokyo:20250925T235900
+SUMMARY:⑥天幕のジャードゥーガル
+DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n小沼則義\n\n【マネージャー名】\n山本 愛実
+UID:f50fdb6e3b5c2f8e8e9939da6b986296e516dba399de345febcea76f9d05005b
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251001T130000
+DTEND;TZID=Asia/Tokyo:20251001T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:ccb7db3770989810b12d078862580150877c3bbfca59ae7494fdb6f51b423122
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251002T000000
+DTEND;TZID=Asia/Tokyo:20251002T235900
+SUMMARY:⑥天幕のジャードゥーガル
+DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n小沼則義\n\n【マネージャー名】\n山本 愛実
+UID:63424cbb281f72861b8b717232233bd60eb18dd9ee845246c3d333750c4fd992
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251008T130000
+DTEND;TZID=Asia/Tokyo:20251008T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:5b076c505b59083b106251b75f9ff4a197967b4159ef59ce71e73599634134af
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251009T000000
+DTEND;TZID=Asia/Tokyo:20251009T235900
+SUMMARY:⑥天幕のジャードゥーガル
+DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n小沼則義\n\n【マネージャー名】\n山本 愛実
+UID:a057fe530532382f6e3228063146d6c9f965a76fb6847c635a73c48464d78e08
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251015T130000
+DTEND;TZID=Asia/Tokyo:20251015T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:7cdcd98bcd5ff909ed24e46536a5b73edddc7efa4d37546504f6bf4b506a3762
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251016T000000
+DTEND;TZID=Asia/Tokyo:20251016T235900
+SUMMARY:⑥天幕のジャードゥーガル
+DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n小沼則義\n\n【マネージャー名】\n山本 愛実
+UID:276e0aeb3584d5278ab8a9202cbc4dbfe215c69b881cff02d9f0f1c7ad93e9f3
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251018T000000
+DTEND;TZID=Asia/Tokyo:20251018T235900
+SUMMARY:①「今日ログ」ファンミ
+DESCRIPTION:【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕
+UID:562f8e16da9ae2ee2d08490c6035a9f01885678677684d97165d5fc6cc39e3e1
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251022T130000
+DTEND;TZID=Asia/Tokyo:20251022T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:7e667d8316b971f28e2627f7ca8bdf00b7f0205e838c4b845a17c70772792da6
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251023T000000
+DTEND;TZID=Asia/Tokyo:20251023T235900
+SUMMARY:⑥天幕のジャードゥーガル
+DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n小沼則義\n\n【マネージャー名】\n山本 愛実
+UID:14bd4da521f1f0a12f24f6e696b83781fd9f7918e5f3ca1156ba67438c5a9b49
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251025T000000
+DTEND;TZID=Asia/Tokyo:20251025T235900
+SUMMARY:①「今日ログ」ファンミ
+DESCRIPTION:【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕
+UID:2bdca751b9d1d9486f5fa8c07cae3e3f06fa018d0f126f802c547eb7a80edb01
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251026T000000
+DTEND;TZID=Asia/Tokyo:20251026T235900
+SUMMARY:①「今日ログ」ファンミ
+DESCRIPTION:【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕
+UID:d51dda98bc7777e0982c51bf892f2c15e0651e99c4688a67ee95987e34110a46
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251029T130000
+DTEND;TZID=Asia/Tokyo:20251029T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:54a22174e12a3c6656441c2541a466bb414c705cfd96d90d4c3a8ac3fa0095d7
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251030T000000
+DTEND;TZID=Asia/Tokyo:20251030T235900
+SUMMARY:⑥天幕のジャードゥーガル
+DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n小沼則義\n\n【マネージャー名】\n山本 愛実
+UID:6fbe397dcd5ee3e55107c2b611c8361d0f2a3d3223bd056b811979bef9788667
+LOCATION:未指定
+END:VEVENT
 END:VCALENDAR
