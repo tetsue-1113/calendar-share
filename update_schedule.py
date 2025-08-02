@@ -3,7 +3,6 @@ import hashlib
 from datetime import datetime, timedelta
 from pathlib import Path
 from bs4 import BeautifulSoup
-import pytz
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
@@ -14,43 +13,23 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 from calendar_utils import authorize_calendar, insert_event
 
-# -----------------------------
-# 📌 設定と定数
-# -----------------------------
-
 # ✅ GoogleカレンダーID（NG用）
 NG_CALENDAR_ID = "c_e360256dca0cfae181f48a877df0fb4c835645a801efb3e85f3c72ba7008a3c2@group.calendar.google.com"
 
-# サイトURLとログイン情報
+# 設定
 LOGIN_URL = "https://artsvision-schedule.com/login"
 SCHEDULE_BASE_URL = "https://artsvision-schedule.com/schedule"
 EMAIL = "tetsue1113@gmail.com"
 PASSWORD = "567artsvision"
-
-# タイムゾーン設定
+output_ics_path = Path("existing_schedule.ics")
 timezone = "Asia/Tokyo"
-tokyo = pytz.timezone(timezone)
 
-# ファイルパス設定
-BASE_DIR = Path.home() / "Desktop" / "Python" / "ボイスケ更新"
-output_ics_path = BASE_DIR / "existing_schedule.ics"
-
-# -----------------------------
-# 🧭 WebDriver（ヘッドレスChrome）の初期化
-# -----------------------------
-
+# ChromeDriverの設定
 options = Options()
 options.add_argument("--headless")
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
-# -----------------------------
-# 関数定義
-# -----------------------------
-
 def format_description(description):
-    """
-    説明文を75バイトごとに改行し、ICSファイルのフォーマットに対応させる。
-    """
     lines = description.split("\n")
     formatted_lines = []
     for line in lines:
@@ -62,27 +41,17 @@ def format_description(description):
     return "\\n".join(formatted_lines)
 
 def generate_uid(schedule):
-    """
-    スケジュールのタイトルと日付から一意のUIDを生成する。
-    """
     raw = f"{schedule['title']}:{schedule['date'].isoformat()}"
     return hashlib.sha256(raw.encode()).hexdigest()
 
 def parse_time_with_overflow(date, time_str):
-    """
-    時刻文字列を解析し、24時越えを考慮してdatetimeオブジェクトを返す。
-    """
     hour, minute = map(int, time_str.split(":"))
     if hour >= 24:
         date += timedelta(days=1)
         hour -= 24
-    dt = datetime(date.year, date.month, date.day, hour, minute)
-    return tokyo.localize(dt)
+    return datetime(date.year, date.month, date.day, hour, minute)
 
 try:
-    # -----------------------------
-    # 🔐 サイトにログイン
-    # -----------------------------
     print("ログイン中...")
     driver.get(LOGIN_URL)
     driver.find_element(By.NAME, "mail_address").send_keys(EMAIL)
@@ -90,11 +59,8 @@ try:
     driver.find_element(By.CSS_SELECTOR, "button.btn-login").click()
     print("ログイン成功！")
 
-    # -----------------------------
-    # 📅 スケジュールページの巡回とデータ抽出
-    # -----------------------------
     schedules = []
-    today = datetime.now(tokyo)
+    today = datetime.now()
 
     for offset in range(0, 3):
         target_date = today + timedelta(days=offset * 30)
@@ -112,7 +78,6 @@ try:
                 day_element = schedule.find_element(By.XPATH, "./preceding::div[@class='day '][1]")
                 current_day = int(day_element.text.strip())
                 event_date = datetime(year, month, current_day)
-                event_date = tokyo.localize(event_date)
 
                 title = schedule.find_element(By.CSS_SELECTOR, ".title").text
                 time_range = schedule.find_element(By.CSS_SELECTOR, ".time").text
@@ -129,9 +94,9 @@ try:
 
     print(f"✅ スケジュール総数: {len(schedules)} 件")
 
-    # 詳細ページから追加情報を取得
     for schedule in schedules:
         driver.get(schedule["detail_url"])
+        print(f"🔍 詳細: {schedule['detail_url']}")
         WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "detail-title")))
 
         detail_sections = {
@@ -152,9 +117,6 @@ try:
         schedule["description"] = desc
         schedule["uid"] = generate_uid(schedule)
 
-    # -----------------------------
-    # 🗓️ ICSファイルの生成
-    # -----------------------------
     def create_ics_file(schedules, file_path):
         ics_content = """BEGIN:VCALENDAR
 VERSION:2.0
@@ -196,9 +158,6 @@ END:VEVENT
 
     create_ics_file(schedules, output_ics_path)
 
-    # -----------------------------
-    # 📤 Googleカレンダーへのイベント登録
-    # -----------------------------
     service = authorize_calendar()
     for schedule in schedules:
         date = schedule["date"]
@@ -211,7 +170,6 @@ END:VEVENT
             start_dt = parse_time_with_overflow(date, start_str)
             end_dt = parse_time_with_overflow(date, end_str)
 
-            # イベント時間の前後に余裕を持たせる（60分）
             if not (start_str == "00:00" and end_str == "23:59"):
                 start_dt -= timedelta(minutes=60)
                 end_dt += timedelta(minutes=60)
@@ -224,10 +182,6 @@ END:VEVENT
 
 except Exception as e:
     print(f"❌ エラー発生: {e}")
-
 finally:
-    # -----------------------------
-    # 🧹 ブラウザ終了処理
-    # -----------------------------
     driver.quit()
     print("🛑 ブラウザを閉じます。")
