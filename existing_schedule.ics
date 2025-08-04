@@ -3,11 +3,11 @@ VERSION:2.0
 PRODID:-//Your Organization//Your Calendar 1.0//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250802T160000
-DTEND;TZID=Asia/Tokyo:20250802T210000
+DTSTART;TZID=Asia/Tokyo:20250803T160000
+DTEND;TZID=Asia/Tokyo:20250803T210000
 SUMMARY:①少年と犬　オーディオブック【6回目】
 DESCRIPTION:【スタジオ名】\nR-sudio（吉祥寺）\n\n【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n※未確認でしたので、再送させていただきます！\n■コンディションを見つつ収録にてお願いいたします！（録りきる形でも大丈夫です）\n 
-UID:20527d49face4ac29646e4f3c02b2bcaf6a9882c3e6fbdd05cdc7e1d11051abe
+UID:fe7e86c0d9b0e71b41fef7cd932e1075060c41908ad21899b66eaf9138fb3d6c
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -16,14 +16,6 @@ DTEND;TZID=Asia/Tokyo:20250806T200000
 SUMMARY:①全力回避フラグちゃん!
 DESCRIPTION:【スタジオ名】\nG-angle恵比寿スタジオ（予定）\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■YouTubeアニメ「全力回避フラグちゃん!」\n■お役：レローゼ\n■3月より終わりの時間が20時となります。（収録が4時間以内で終わるため）\n 
 UID:0e1264e8569055566cdcc69401707317c952de7b1db59a448ca4d7ed0ce65333
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250807T160000
-DTEND;TZID=Asia/Tokyo:20250807T210000
-SUMMARY:①少年と犬　オーディオブック　※予備日
-DESCRIPTION:【スタジオ名】\nR-sudio（吉祥寺）\n\n【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華
-UID:78d668071dfd14bb51c59824f3e1872cac8e797d0e0efc0caf3bde5ffcb4d270
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
