@@ -14,8 +14,16 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250806T160000
 DTEND;TZID=Asia/Tokyo:20250806T200000
 SUMMARY:①全力回避フラグちゃん!
-DESCRIPTION:【スタジオ名】\nG-angle恵比寿スタジオ（予定）\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■YouTubeアニメ「全力回避フラグちゃん!」\n■お役：レローゼ\n■3月より終わりの時間が20時となります。（収録が4時間以内で終わるため）\n 
+DESCRIPTION:【スタジオ名】\nG-angle恵比寿スタジオ\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n台本はslackより共有されておりますので、ご確認くださいませ！\n 
 UID:0e1264e8569055566cdcc69401707317c952de7b1db59a448ca4d7ed0ce65333
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250813T100000
+DTEND;TZID=Asia/Tokyo:20250813T120000
+SUMMARY:①モンギル
+DESCRIPTION:【制作会社名】\n株式会社東北新社\n\n【マネージャー名】\n山村 綾香
+UID:e99c1313371f17c1341fff0ac82a846a29c2aa80ed86686198456b1fb2b2228a
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -32,6 +40,14 @@ DTEND;TZID=Asia/Tokyo:20250813T163000
 SUMMARY:①東京ディバンカー　追加収録
 DESCRIPTION:【スタジオ名】\nジーアングル本社　Bst\n\n【制作会社名】\n(株)ジーアングル\n\n【ディレクター名】\nメーカーの方\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n▼台本資料\nhttps://drive.google.com/drive/folders/1m9G2SjlKtQw2y0ZIHcU1hGbCPo55ZVS2?us\n p=sharing
 UID:6ede7e6df25abeae8b3dafac9941daab458bda2349996bce57c9427d5a9e705d
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250814T100000
+DTEND;TZID=Asia/Tokyo:20250814T190000
+SUMMARY:①モンギル
+DESCRIPTION:【制作会社名】\n株式会社東北新社\n\n【マネージャー名】\n山村 綾香
+UID:ed63ec38595e26636d0937cf6baa91eee7a22655d7482a7dd810846392d3156b
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
