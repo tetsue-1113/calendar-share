@@ -19,27 +19,27 @@ UID:0e1264e8569055566cdcc69401707317c952de7b1db59a448ca4d7ed0ce65333
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250813T100000
-DTEND;TZID=Asia/Tokyo:20250813T120000
+DTSTART;TZID=Asia/Tokyo:20250812T110000
+DTEND;TZID=Asia/Tokyo:20250812T113000
 SUMMARY:①モンギル
-DESCRIPTION:【制作会社名】\n株式会社東北新社\n\n【マネージャー名】\n山村 綾香
-UID:e99c1313371f17c1341fff0ac82a846a29c2aa80ed86686198456b1fb2b2228a
+DESCRIPTION:【スタジオ名】\nサウンドインハナレRst　ダイニチ麹町ビルB1\n\n【制作会社名】\n株式会社東北新社\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山村 綾香\n\n【メモ】\n8月13日(水)　＠サウンドインハナレRst　ダイニチ麹町ビルB1\n \nhttps://sound-inn.com/wordpress/wp-content/themes/sound_inn/pdf/hanare_acce\n ss_map.pdf\n\n11:00-11:30 住谷哲栄さん(ゴブリン盗賊団員/畑仕事中のゴブリン/流浪の行商人/怪しい商人/怯えているオーク)\n 
+UID:9cb7a1db52427391074265f66412e2293a1789feeb80f0d5e5681367c38cbdf6
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250813T130000
-DTEND;TZID=Asia/Tokyo:20250813T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:3330c88cfafb3d5b99ad38a97ea1c7bf8d16d2bd339ec491422bcf8d417dea13
+DTSTART;TZID=Asia/Tokyo:20250812T130000
+DTEND;TZID=Asia/Tokyo:20250812T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n■台本は添付をご確認お願いいたします！\n■公式用写真撮影入ります。
+UID:d4fc50d9ea539bc50a36a87b516212e397b1d8fc97126ae6575152e06e284d1e
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250813T160000
-DTEND;TZID=Asia/Tokyo:20250813T163000
+DTSTART;TZID=Asia/Tokyo:20250812T160000
+DTEND;TZID=Asia/Tokyo:20250812T163000
 SUMMARY:①東京ディバンカー　追加収録
 DESCRIPTION:【スタジオ名】\nジーアングル本社　Bst\n\n【制作会社名】\n(株)ジーアングル\n\n【ディレクター名】\nメーカーの方\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n▼台本資料\nhttps://drive.google.com/drive/folders/1m9G2SjlKtQw2y0ZIHcU1hGbCPo55ZVS2?us\n p=sharing
-UID:6ede7e6df25abeae8b3dafac9941daab458bda2349996bce57c9427d5a9e705d
+UID:57b66dd0a4ab219cf599058caee60027f91b4339856f5548990c3b569b481ec1
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -51,10 +51,10 @@ UID:aaea4a927fc051294929dd9c372770baa10c6c0f3136c15aebda60d73e35ea88
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250816T000000
-DTEND;TZID=Asia/Tokyo:20250816T235900
+DTSTART;TZID=Asia/Tokyo:20250816T095000
+DTEND;TZID=Asia/Tokyo:20250816T150000
 SUMMARY:①ラジ友Summer Fes 2025　イベント
-DESCRIPTION:【スタジオ名】\n全電通労働会館\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n【会場】東京都千代田区神田駿河台3丁目6　https://zhall.or.jp/access.html\n \n■2023年に開催しました『ラジ友Spring FES』と同じ形で出演者と内容を変えてトークをメインにした、3公演お送りする予定です。\n 
+DESCRIPTION:【スタジオ名】\n全電通労働会館\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n※9：50に会場楽屋口前にて、Mg小林と待ち合わせでお願いいたします。\n \n【会場】東京都千代田区神田駿河台3丁目6　https://zhall.or.jp/access.html\n \n\n■メイク付き、衣装自前になります。\n■SNS用写真撮影入ります。\n\n▼資料一式\nhttps://drive.google.com/drive/folders/1Lwe7kv74MAv9zaYRKZz1QHn947jy2kB2?us\n p=drive_link\n⇒楽屋口は「ご案内書」をご確認ください！
 UID:8a654edc4064bf966558c59e1d5cb94e621637ae348120f526df4b8228024219
 LOCATION:未指定
 END:VEVENT
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250830T170000
 DTEND;TZID=Asia/Tokyo:20250831T030000
 SUMMARY:①Paradox Live　生放送　※ここでやります
-DESCRIPTION:【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n＜ご出演者様＞\n・中島 ヨシキ様\n・住谷 哲栄様\n・天月様\n\n※千葉 翔也様スケジュールご確認中
+DESCRIPTION:【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n＜ご出演者様＞\n・中島 ヨシキ様\n・住谷 哲栄様\n・天月様\n\n※千葉 翔也様スケジュールご確認中\n\n＜キャンペーン詳細＞\nハッシュタグ「#書店でパラライ」を付けて、書店で受け取ったオリジナルしおりの写真と、ご希望の賞品名を投稿いただくと、抽選で「Paradox Live」\n キャストのサイン入りしおりが当たります。\n\nさらに、抽選に外れた方の中からも、オリジナルしおりのコンプリートセットが当たるWチャンスをご用意。\n \n\n□賞品「Paradox Live」のキャストサイン入りしおり　各キャスト1名\n \nWチャンス：ノベルティコンプリートセット　10名様\n\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n\n8月30日の投票特番にご出演いただけるキャストの方には\n当日サインをお願いさせていただきます。\n【中島ヨシキ様／住谷哲栄様／天月様】
 UID:87d5321d6caee83277d090df7746b48eaf17197d9728c5f7a2151a9e79edb3c2
 LOCATION:未指定
 END:VEVENT
