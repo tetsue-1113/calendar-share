@@ -62,8 +62,16 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250820T160000
 DTEND;TZID=Asia/Tokyo:20250820T200000
 SUMMARY:①全力回避フラグちゃん!
-DESCRIPTION:【スタジオ名】\nG-angle恵比寿スタジオ（予定）\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■YouTubeアニメ「全力回避フラグちゃん!」\n■お役：レローゼ\n■3月より終わりの時間が20時となります。（収録が4時間以内で終わるため）\n 
+DESCRIPTION:【スタジオ名】\nG-angle恵比寿スタジオ\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n台本はslackより共有されております！
 UID:a785bf228b08157414f08aa5896282075a298d434d8fbbf07b8ec20f4e2eec3e
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250825T160000
+DTEND;TZID=Asia/Tokyo:20250825T210000
+SUMMARY:①PSYREN
+DESCRIPTION:【制作会社名】\n(株)Studio Sound Bee\n\n【マネージャー名】\n堤　涼子
+UID:4f6660d10394ad75d84b317a1fa7fbc7611b7632df83c330f47fcba2770ee1bb
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
