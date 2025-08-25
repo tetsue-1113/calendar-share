@@ -67,11 +67,27 @@ UID:a785bf228b08157414f08aa5896282075a298d434d8fbbf07b8ec20f4e2eec3e
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250825T160000
-DTEND;TZID=Asia/Tokyo:20250825T210000
+DTSTART;TZID=Asia/Tokyo:20250824T160000
+DTEND;TZID=Asia/Tokyo:20250824T210000
 SUMMARY:①PSYREN
-DESCRIPTION:【制作会社名】\n(株)Studio Sound Bee\n\n【マネージャー名】\n堤　涼子
-UID:4f6660d10394ad75d84b317a1fa7fbc7611b7632df83c330f47fcba2770ee1bb
+DESCRIPTION:【スタジオ名】\nスタジオサウンドビー（PW：9082526）\n\n【制作会社名】\n(株)Studio Sound Bee\n\n【ディレクター名】\n本山　哲\n\n【マネージャー名】\n堤　涼子
+UID:205e13575446fb02df4e326038f6727e9c88296fca345d1141441e788ef9a77a
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250827T130000
+DTEND;TZID=Asia/Tokyo:20250827T150000
+SUMMARY:①Paradox Live　ラジオ
+DESCRIPTION:【スタジオ名】\n文化放送　9F　7st\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n・梶原さんと\n・2本録り\n・SNS用に写真撮影のご対応お願いいたします。
+UID:75a2227d5d4a6e427e9dea54cd61b187681de6676d8af08d4d6a3802c0bf1c31
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250829T000000
+DTEND;TZID=Asia/Tokyo:20250829T235900
+SUMMARY:【テープAD】①「ベレジンスキー」
+DESCRIPTION:【メモ】\n・MIT制作「ベレジンスキー」ラウル・シャストル役
+UID:6c729163a2349b020d7c3c8efe869e618d3d01a789453500f43f2a2977042b97
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -99,19 +115,11 @@ UID:d67644157b967175c451c8f226ea97204e1e0517b276556b9621d67d6e593744
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250903T160000
+DTSTART;TZID=Asia/Tokyo:20250903T183000
 DTEND;TZID=Asia/Tokyo:20250903T200000
 SUMMARY:①全力回避フラグちゃん!
-DESCRIPTION:【スタジオ名】\nG-angle恵比寿スタジオ（予定）\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■YouTubeアニメ「全力回避フラグちゃん!」\n■お役：レローゼ\n■3月より終わりの時間が20時となります。（収録が4時間以内で終わるため）\n 
+DESCRIPTION:【スタジオ名】\nplott本社6F（予定）\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■YouTubeアニメ「全力回避フラグちゃん!」\n■お役：レローゼ\n■3月より終わりの時間が20時となります。（収録が4時間以内で終わるため）\n \n■スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F\n 
 UID:b00063edad71298966068f97de11ba404cc1be0d03dc483db6dbc753e0ef78e5
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250904T000000
-DTEND;TZID=Asia/Tokyo:20250904T235900
-SUMMARY:⑥天幕のジャードゥーガル
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n小沼則義\n\n【マネージャー名】\n山本 愛実
-UID:dac82ca0ca784bc567abf464f35ad6e5028790be71a617e86845bdcd9206b2fb
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -123,11 +131,11 @@ UID:78a40dfc3afdaf19f699c1a82a023065ed4505b45b7d0eb60c8a7d8dab9ae99c
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250911T000000
-DTEND;TZID=Asia/Tokyo:20250911T235900
-SUMMARY:⑥天幕のジャードゥーガル
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n小沼則義\n\n【マネージャー名】\n山本 愛実
-UID:8ab5a102234adbcd9dcfad40f00ee0858d8f9fcde3491207ea76ab051bba53fa
+DTSTART;TZID=Asia/Tokyo:20250910T160000
+DTEND;TZID=Asia/Tokyo:20250910T180000
+SUMMARY:①東京ディバンカー　追加収録
+DESCRIPTION:【制作会社名】\n(株)ジーアングル\n\n【ディレクター名】\nメーカーの方\n\n【マネージャー名】\n小林 聡華
+UID:277d739d92137ad4c3db15196d8df154fdc95c956da2b79fb7935e8093c185d3
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -139,19 +147,11 @@ UID:4e625e384a955d764736381292cd7b01f829589e1418f75bdd57980c6a8d3666
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250917T160000
+DTSTART;TZID=Asia/Tokyo:20250917T183000
 DTEND;TZID=Asia/Tokyo:20250917T200000
 SUMMARY:①全力回避フラグちゃん!
-DESCRIPTION:【スタジオ名】\nG-angle恵比寿スタジオ（予定）\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■YouTubeアニメ「全力回避フラグちゃん!」\n■お役：レローゼ\n■3月より終わりの時間が20時となります。（収録が4時間以内で終わるため）\n 
+DESCRIPTION:【スタジオ名】\nplott本社6F（予定）\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■YouTubeアニメ「全力回避フラグちゃん!」\n■お役：レローゼ\n■3月より終わりの時間が20時となります。（収録が4時間以内で終わるため）\n \n■スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F\n 
 UID:8184bb50708228caacae5d675e3e51039d41d0ca9e8a4cc0aef5766e5de66345
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250918T000000
-DTEND;TZID=Asia/Tokyo:20250918T235900
-SUMMARY:⑥天幕のジャードゥーガル
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n小沼則義\n\n【マネージャー名】\n山本 愛実
-UID:7feef4d5cffb79c42bd3f183a7e23f2576702738cbae808add82b7f9cab35f0b
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -187,14 +187,6 @@ UID:9efaaa40af211a61a8105ab570fa6b7a0ae9136db1b45a36b8c465d2c51cf1b9
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250925T000000
-DTEND;TZID=Asia/Tokyo:20250925T235900
-SUMMARY:⑥天幕のジャードゥーガル
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n小沼則義\n\n【マネージャー名】\n山本 愛実
-UID:f50fdb6e3b5c2f8e8e9939da6b986296e516dba399de345febcea76f9d05005b
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20251001T130000
 DTEND;TZID=Asia/Tokyo:20251001T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
@@ -211,14 +203,6 @@ UID:2069d67b53252f2580c891955c1d879665a9c6c711a95aed5ef7252c1fc22f75
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251002T000000
-DTEND;TZID=Asia/Tokyo:20251002T235900
-SUMMARY:⑥天幕のジャードゥーガル
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n小沼則義\n\n【マネージャー名】\n山本 愛実
-UID:63424cbb281f72861b8b717232233bd60eb18dd9ee845246c3d333750c4fd992
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20251008T130000
 DTEND;TZID=Asia/Tokyo:20251008T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
@@ -227,27 +211,11 @@ UID:5b076c505b59083b106251b75f9ff4a197967b4159ef59ce71e73599634134af
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251009T000000
-DTEND;TZID=Asia/Tokyo:20251009T235900
-SUMMARY:⑥天幕のジャードゥーガル
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n小沼則義\n\n【マネージャー名】\n山本 愛実
-UID:a057fe530532382f6e3228063146d6c9f965a76fb6847c635a73c48464d78e08
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20251015T130000
 DTEND;TZID=Asia/Tokyo:20251015T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
 UID:7cdcd98bcd5ff909ed24e46536a5b73edddc7efa4d37546504f6bf4b506a3762
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251016T000000
-DTEND;TZID=Asia/Tokyo:20251016T235900
-SUMMARY:⑥天幕のジャードゥーガル
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n小沼則義\n\n【マネージャー名】\n山本 愛実
-UID:276e0aeb3584d5278ab8a9202cbc4dbfe215c69b881cff02d9f0f1c7ad93e9f3
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -264,14 +232,6 @@ DTEND;TZID=Asia/Tokyo:20251022T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
 UID:7e667d8316b971f28e2627f7ca8bdf00b7f0205e838c4b845a17c70772792da6
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251023T000000
-DTEND;TZID=Asia/Tokyo:20251023T235900
-SUMMARY:⑥天幕のジャードゥーガル
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n小沼則義\n\n【マネージャー名】\n山本 愛実
-UID:14bd4da521f1f0a12f24f6e696b83781fd9f7918e5f3ca1156ba67438c5a9b49
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -304,14 +264,6 @@ DTEND;TZID=Asia/Tokyo:20251029T200000
 SUMMARY:①全力回避フラグちゃん!
 DESCRIPTION:【スタジオ名】\nplott本社6F（予定）\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■男性キャラの出演が少なくなるとのことで、11月以降は月1の収録となります！\n \n■10月以降、スタジオが変更になりますのでお気を付けくださいませ！\n \n（スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F）\n 
 UID:fb06991953264a053f93a44ebc713e30acbb8953c2f00e5908345e9a86f7b495
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251030T000000
-DTEND;TZID=Asia/Tokyo:20251030T235900
-SUMMARY:⑥天幕のジャードゥーガル
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n小沼則義\n\n【マネージャー名】\n山本 愛実
-UID:6fbe397dcd5ee3e55107c2b611c8361d0f2a3d3223bd056b811979bef9788667
 LOCATION:未指定
 END:VEVENT
 END:VCALENDAR
