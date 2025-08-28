@@ -67,35 +67,35 @@ UID:a785bf228b08157414f08aa5896282075a298d434d8fbbf07b8ec20f4e2eec3e
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250824T160000
-DTEND;TZID=Asia/Tokyo:20250824T210000
+DTSTART;TZID=Asia/Tokyo:20250825T160000
+DTEND;TZID=Asia/Tokyo:20250825T210000
 SUMMARY:①PSYREN
 DESCRIPTION:【スタジオ名】\nスタジオサウンドビー（PW：9082526）\n\n【制作会社名】\n(株)Studio Sound Bee\n\n【ディレクター名】\n本山　哲\n\n【マネージャー名】\n堤　涼子
-UID:205e13575446fb02df4e326038f6727e9c88296fca345d1141441e788ef9a77a
+UID:4f6660d10394ad75d84b317a1fa7fbc7611b7632df83c330f47fcba2770ee1bb
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250827T130000
 DTEND;TZID=Asia/Tokyo:20250827T150000
 SUMMARY:①Paradox Live　ラジオ
-DESCRIPTION:【スタジオ名】\n文化放送　9F　7st\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n・梶原さんと\n・2本録り\n・SNS用に写真撮影のご対応お願いいたします。
+DESCRIPTION:【スタジオ名】\n文化放送　9F　7st\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n・梶原さんと\n・2本録り\n・SNS用に写真撮影のご対応お願いいたします。\n※２F受付で収録に来た旨お伝えください。
 UID:75a2227d5d4a6e427e9dea54cd61b187681de6676d8af08d4d6a3802c0bf1c31
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250829T000000
-DTEND;TZID=Asia/Tokyo:20250829T235900
-SUMMARY:【テープAD】①「ベレジンスキー」
-DESCRIPTION:【メモ】\n・MIT制作「ベレジンスキー」ラウル・シャストル役
-UID:6c729163a2349b020d7c3c8efe869e618d3d01a789453500f43f2a2977042b97
+DTSTART;TZID=Asia/Tokyo:20250829T132500
+DTEND;TZID=Asia/Tokyo:20250829T134500
+SUMMARY:①【テープAD】「ベレジンスキー」
+DESCRIPTION:【スタジオ名】\n松田ビル地下スタジオ\n\n【メモ】\n・MIT制作「ベレジンスキー」ラウル・シャストル役
+UID:b7eb72ee042c6228451d80a5321347217b05de12f00a8b1a7c9c20448f014d92
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250830T170000
-DTEND;TZID=Asia/Tokyo:20250831T030000
-SUMMARY:①Paradox Live　生放送　※ここでやります
-DESCRIPTION:【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n＜ご出演者様＞\n・中島 ヨシキ様\n・住谷 哲栄様\n・天月様\n\n※千葉 翔也様スケジュールご確認中\n\n・書店コラボキャンペーン用にサインのご記入をお願いいたします（しおり１点）。\n 
-UID:87d5321d6caee83277d090df7746b48eaf17197d9728c5f7a2151a9e79edb3c2
+DTEND;TZID=Asia/Tokyo:20250830T203000
+SUMMARY:①Paradox Live　「FUTURE」結果発表生配信
+DESCRIPTION:【スタジオ名】\nエイベックス　3F\n\n【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n▼エイベックス株式会社　3階\n〒108-0073　東京都港区三田一丁目4番1号 住友不動産麻布十番ビル\n \nアクセスMAP  https://avex.com/jp/ja/corp/outline/\n\n・メイクつき、衣装自前\n（メイク：M’sの方）\n・プレゼント用にCD2枚にサインのご記入お願いいたします。\n \n・書店コラボキャンペーン用にサインのご記入をお願いいたします（しおり１点）。\n 
+UID:021500e7f9f5eca0fd367ff78e00e58aae223e8c2c9d8ce7b01fe760432e217c
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -120,6 +120,14 @@ DTEND;TZID=Asia/Tokyo:20250903T200000
 SUMMARY:①全力回避フラグちゃん!
 DESCRIPTION:【スタジオ名】\nplott本社6F（予定）\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■YouTubeアニメ「全力回避フラグちゃん!」\n■お役：レローゼ\n■3月より終わりの時間が20時となります。（収録が4時間以内で終わるため）\n \n■スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F\n 
 UID:b00063edad71298966068f97de11ba404cc1be0d03dc483db6dbc753e0ef78e5
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250908T100000
+DTEND;TZID=Asia/Tokyo:20250908T150000
+SUMMARY:① 悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season2
+DESCRIPTION:【制作会社名】\n(株)ダックスプロダクション\n\n【ディレクター名】\n亀山俊樹\n\n【マネージャー名】\n堤　涼子
+UID:7fc938fab49092e27f838e9fd0583e769f66a3c8c895ec13c83d13a5770a4094
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -187,6 +195,22 @@ UID:9efaaa40af211a61a8105ab570fa6b7a0ae9136db1b45a36b8c465d2c51cf1b9
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250925T000000
+DTEND;TZID=Asia/Tokyo:20250925T235900
+SUMMARY:①星屑の王子様
+DESCRIPTION:【制作会社名】\n(株)ハーフ Ｈ・Ｐ STUDIO\n\n【マネージャー名】\n山本 愛実
+UID:408b20a1c441eaacfb0d5cec40d0945037472a19802ae66961d66b8fbfa4be9b
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250929T100000
+DTEND;TZID=Asia/Tokyo:20250929T150000
+SUMMARY:①星屑の王子様
+DESCRIPTION:【制作会社名】\n(株)ハーフ Ｈ・Ｐ STUDIO\n\n【マネージャー名】\n山本 愛実
+UID:eb3837ff099334b1502039e872de88790b2c3cb961e3d56044716396b6a009e0
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20251001T130000
 DTEND;TZID=Asia/Tokyo:20251001T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
@@ -200,6 +224,14 @@ DTEND;TZID=Asia/Tokyo:20251001T200000
 SUMMARY:①全力回避フラグちゃん!
 DESCRIPTION:【スタジオ名】\nplott本社6F（予定）\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■男性キャラの出演が少なくなるとのことで、11月以降は月1の収録となります！\n \n■10月以降、スタジオが変更になりますのでお気を付けくださいませ！\n \n（スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F）\n 
 UID:2069d67b53252f2580c891955c1d879665a9c6c711a95aed5ef7252c1fc22f75
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251002T000000
+DTEND;TZID=Asia/Tokyo:20251002T235900
+SUMMARY:①星屑の王子様
+DESCRIPTION:【制作会社名】\n(株)ハーフ Ｈ・Ｐ STUDIO\n\n【マネージャー名】\n山本 愛実
+UID:09f9797cf3aa6befe559a49bfe6b16d6e9cbd400f42817dcbb5a2e3f99041f20
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
