@@ -29,9 +29,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250910T130000
 DTEND;TZID=Asia/Tokyo:20250910T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:2b87b21cc752ace3b90da3f9458826d72d3f174c6f69d9cd0cd2bebfa719d331
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n■台本は添付をご確認お願いいたします！\n■公式SNS用写真撮影入ります。
+UID:e7ca77894130f46b14aff0fde42db97eb3f9bb8b355a0dbed5b39c3bd253d66b
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
