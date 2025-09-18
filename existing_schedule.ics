@@ -46,32 +46,48 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20250917T183000
 DTEND;TZID=Asia/Tokyo:20250917T200000
 SUMMARY:①全力回避フラグちゃん!
-DESCRIPTION:【スタジオ名】\nplott本社6F（予定）\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■YouTubeアニメ「全力回避フラグちゃん!」\n■お役：レローゼ\n■3月より終わりの時間が20時となります。（収録が4時間以内で終わるため）\n \n■スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F\n 
+DESCRIPTION:【スタジオ名】\nplott本社6F\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■台本はslackより共有いただいております！\n＜その他＞\n【時間】\n・武田さん、梶川さん、岡村さん　16時〜18時\n・保住さん、住谷さん、　18時半〜20時\n\n【住所】\n東京都千代田区神田錦町2-4　ダヴィンチ小川町　Plott本社6F\n 
 UID:8184bb50708228caacae5d675e3e51039d41d0ca9e8a4cc0aef5766e5de66345
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250918T200000
-DTEND;TZID=Asia/Tokyo:20250918T220000
+DTSTART;TZID=Asia/Tokyo:20250917T200000
+DTEND;TZID=Asia/Tokyo:20250917T220000
 SUMMARY:①今日ログラジオ
-DESCRIPTION:【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕
-UID:d5390267c0f81a6888410f9a21bb33f964c04ca2c5c0b110984a822313e3a585
+DESCRIPTION:【スタジオ名】\nマリン・エンタテインメント4F会議室\n\n【制作会社名】\n(株)マリン･エンタテインメント\n\n【ディレクター名】\nご担当：西川路さま\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n■台本、スタジオ地図は添付よりご確認をお願いいたします。\n 
+UID:aedf138ba1c12b6c070bd4d66b1848a18f55d01ec0ea1447f0a5393339629fa5
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250920T000000
-DTEND;TZID=Asia/Tokyo:20250920T235900
-SUMMARY:①喫茶しーぷい＠兵庫尼崎
-DESCRIPTION:【制作会社名】\n株式会社Thread Cloth\n\n【マネージャー名】\n山本 愛実
-UID:53f7071b5b282d66714c196866e348288610e236b8b7cd449905fb4d8dd2ac94
+DTSTART;TZID=Asia/Tokyo:20250919T000000
+DTEND;TZID=Asia/Tokyo:20250919T235900
+SUMMARY:テープAD「尾守つみきと奇日常。」
+DESCRIPTION:【メモ】\n・ビットグルーヴ制作「尾守つみきと奇日常。」役：友孝、松鬼（担当：山本）\n 
+UID:3e5eae57ebd0c71bf6f0ca92eae1e4e4672ba877479151139728b55d602ba007
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250921T000000
-DTEND;TZID=Asia/Tokyo:20250921T235900
-SUMMARY:①喫茶しーぷい＠兵庫尼崎
-DESCRIPTION:【制作会社名】\n株式会社Thread Cloth\n\n【マネージャー名】\n山本 愛実
-UID:00ea4464cdaf64307844ad3e0c82c287dcbb8bf8eea7af25c31c1a6124e27da8
+DTSTART;TZID=Asia/Tokyo:20250919T143000
+DTEND;TZID=Asia/Tokyo:20250919T153000
+SUMMARY:①本人NG　※親知らずの抜糸
+DESCRIPTION:
+UID:d18c0911ce3c5855eeb069ccc25d0871153631bd2d0be06332423561886c61a1
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250920T150000
+DTEND;TZID=Asia/Tokyo:20250921T030000
+SUMMARY:①喫茶しーぷい＠兵庫尼崎　前乗り
+DESCRIPTION:【スタジオ名】\n東京駅→新大阪駅→ワイズホテル阪神尼崎駅前\n\n【制作会社名】\n株式会社Thread Cloth\n\n【マネージャー名】\n山本 愛実\n\n【メモ】\n・保住様と同じ新幹線です。（15:12東京駅発→17:39新大阪駅着）\n \n・新大阪駅の改札を出たところにて、しーぷい上田様と待ち合わせです。（会えなかったら山本までご連絡ください）\n \n・サインをしたブロマイドと新幹線チケット、朗読台本をお忘れなく。\n \n・マネージャーの人数が足りず今回は帯同出来ず…大変申し訳ございません。何かございましたらすぐご連絡ください(;_:)\n \n\n＜宿泊ホテル＞\nワイズホテル阪神尼崎駅前\nhttps://yshotel-amagasaki.com/\n〒660-0883 兵庫県尼崎市神田北通１丁目３\n※チェックインネーム：山本愛実（やまもとめぐみ）\n※チェックインしたら、部屋番号を山本までLINEしてください。\n 
+UID:fc1386689ba4955d25f58c6d4c37319e8cc95026b84b6aae3dd679d6c2ad22e4
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20250921T090000
+DTEND;TZID=Asia/Tokyo:20250921T230000
+SUMMARY:①喫茶しーぷい＠兵庫尼崎　本番
+DESCRIPTION:【スタジオ名】\nホテルロビー→ライクスホール→新大阪駅→東京駅\n\n【制作会社名】\n株式会社Thread Cloth\n\n【マネージャー名】\n山本 愛実\n\n【メモ】\n・メイク付き、衣装自前\n・ブロマイドと朗読台本をお忘れなく！\n\n＜待ち合わせ＞\n9:00にホテルロビーにて、皆様とお待ち合わせをお願いします。\n \n\n＜添付資料＞\n・タイムスケジュール\n・進行台本\n・質問表
+UID:5f49cfe6604742d2d9aeac4af4998b5412a2684521d5b0c0cb344c9477e2143d
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -171,6 +187,22 @@ UID:562f8e16da9ae2ee2d08490c6035a9f01885678677684d97165d5fc6cc39e3e1
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251018T000000
+DTEND;TZID=Asia/Tokyo:20251018T235900
+SUMMARY:②【スタジオAD】尾守つみきと奇日常。
+DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n吉田光平\n\n【マネージャー名】\n山本 愛実
+UID:d698836f8a6ea3ce0aaa24e794699c5db347d3f3204c60db3d95f81a87a900ed
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251019T000000
+DTEND;TZID=Asia/Tokyo:20251019T235900
+SUMMARY:②【スタジオAD】尾守つみきと奇日常。
+DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n吉田光平\n\n【マネージャー名】\n山本 愛実
+UID:c7f3104171bd4d8b8edc622026d2ef78505c8bc262268542a861eed99b044307
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20251022T130000
 DTEND;TZID=Asia/Tokyo:20251022T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
@@ -192,6 +224,14 @@ DTEND;TZID=Asia/Tokyo:20251026T235900
 SUMMARY:①「今日ログ」ファンミ
 DESCRIPTION:【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕
 UID:d51dda98bc7777e0982c51bf892f2c15e0651e99c4688a67ee95987e34110a46
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251026T000000
+DTEND;TZID=Asia/Tokyo:20251026T235900
+SUMMARY:②【スタジオAD】尾守つみきと奇日常。
+DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n吉田光平\n\n【マネージャー名】\n山本 愛実
+UID:137cd3b6e8c7ff69766fc6c4fdddddddb31c2f50495cd583e4f8c254b21e57d8
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
