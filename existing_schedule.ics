@@ -3,155 +3,11 @@ VERSION:2.0
 PRODID:-//Your Organization//Your Calendar 1.0//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250903T140000
-DTEND;TZID=Asia/Tokyo:20250903T160000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録【時間イレギュラー】
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n※確認済みになっていなかったので、再送させていただきます！※\n \n■台本は添付をご確認お願いいたします！\n■公式SNS用写真撮影入ります。
-UID:ad55ea2ec9303bb43376e564f3c69c0ac7ecc961517600062666d24cd4f60459
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250903T183000
-DTEND;TZID=Asia/Tokyo:20250903T200000
-SUMMARY:①全力回避フラグちゃん!
-DESCRIPTION:【スタジオ名】\nplott本社6F\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■今回よりスタジオが変更になりますので、お気をつけくださいませ！\n \n（スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F）\n \n■台本はslackより共有されております！
-UID:b00063edad71298966068f97de11ba404cc1be0d03dc483db6dbc753e0ef78e5
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250908T103000
-DTEND;TZID=Asia/Tokyo:20250908T150000
-SUMMARY:① 悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season2
-DESCRIPTION:【スタジオ名】\nP'sスタジオ AR3（PW：1488）\n\n【制作会社名】\n(株)ダックスプロダクション\n\n【ディレクター名】\n亀山俊樹\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n■スタジオ \nP's STUDIO　AR3\n（〒106-0041 東京都港区麻布台2-3-5 ノアビル B2）\nhttps://www.qooop.co.jp/about/#iikura\n暗証番号：1488
-UID:7fc938fab49092e27f838e9fd0583e769f66a3c8c895ec13c83d13a5770a4094
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250910T130000
-DTEND;TZID=Asia/Tokyo:20250910T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n■台本は添付をご確認お願いいたします！\n■公式SNS用写真撮影入ります。
-UID:e7ca77894130f46b14aff0fde42db97eb3f9bb8b355a0dbed5b39c3bd253d66b
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250910T170000
-DTEND;TZID=Asia/Tokyo:20250910T173000
-SUMMARY:①東京ディバンカー　追加収録
-DESCRIPTION:【スタジオ名】\nジーアングル本社　Bst\n\n【制作会社名】\n(株)ジーアングル\n\n【ディレクター名】\nメーカーの方\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n▼台本資料\nhttps://drive.google.com/drive/folders/1yIBbdqQ8MyEV_e8surJmKD-yw923NSqd?us\n p=sharing
-UID:277d739d92137ad4c3db15196d8df154fdc95c956da2b79fb7935e8093c185d3
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250917T183000
-DTEND;TZID=Asia/Tokyo:20250917T200000
-SUMMARY:①全力回避フラグちゃん!
-DESCRIPTION:【スタジオ名】\nplott本社6F\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■台本はslackより共有いただいております！\n＜その他＞\n【時間】\n・武田さん、梶川さん、岡村さん　16時〜18時\n・保住さん、住谷さん、　18時半〜20時\n\n【住所】\n東京都千代田区神田錦町2-4　ダヴィンチ小川町　Plott本社6F\n 
-UID:8184bb50708228caacae5d675e3e51039d41d0ca9e8a4cc0aef5766e5de66345
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250918T200000
-DTEND;TZID=Asia/Tokyo:20250918T220000
-SUMMARY:①今日ログラジオ
-DESCRIPTION:【スタジオ名】\nマリン・エンタテインメント4F会議室\n\n【制作会社名】\n(株)マリン･エンタテインメント\n\n【ディレクター名】\nご担当：西川路さま\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n■台本、スタジオ地図は添付よりご確認をお願いいたします。\n 
-UID:d5390267c0f81a6888410f9a21bb33f964c04ca2c5c0b110984a822313e3a585
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250919T131000
-DTEND;TZID=Asia/Tokyo:20250919T133000
-SUMMARY:テープAD「尾守つみきと奇日常。」
-DESCRIPTION:【スタジオ名】\n松田ビル地下スタジオ\n\n【メモ】\n・ビットグルーヴ制作「尾守つみきと奇日常。」役：友孝、松鬼（担当：山本）\n 
-UID:3e5eae57ebd0c71bf6f0ca92eae1e4e4672ba877479151139728b55d602ba007
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250919T143000
-DTEND;TZID=Asia/Tokyo:20250919T153000
-SUMMARY:①本人NG　※親知らずの抜糸
-DESCRIPTION:
-UID:d18c0911ce3c5855eeb069ccc25d0871153631bd2d0be06332423561886c61a1
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250920T150000
-DTEND;TZID=Asia/Tokyo:20250921T030000
-SUMMARY:①喫茶しーぷい＠兵庫尼崎　前乗り
-DESCRIPTION:【スタジオ名】\n東京駅→新大阪駅→ワイズホテル阪神尼崎駅前\n\n【制作会社名】\n株式会社Thread Cloth\n\n【マネージャー名】\n山本 愛実\n\n【メモ】\n・保住様と同じ新幹線です。（15:12東京駅発→17:39新大阪駅着）\n \n・新大阪駅の改札を出たところにて、しーぷい上田様と待ち合わせです。（会えなかったら山本までご連絡ください）\n \n・サインをしたブロマイドと新幹線チケット、朗読台本をお忘れなく。\n \n・マネージャーの人数が足りず今回は帯同出来ず…大変申し訳ございません。何かございましたらすぐご連絡ください(;_:)\n \n\n＜宿泊ホテル＞\nワイズホテル阪神尼崎駅前\nhttps://yshotel-amagasaki.com/\n〒660-0883 兵庫県尼崎市神田北通１丁目３\n※チェックインネーム：山本愛実（やまもとめぐみ）\n※チェックインしたら、部屋番号を山本までLINEしてください。\n 
-UID:fc1386689ba4955d25f58c6d4c37319e8cc95026b84b6aae3dd679d6c2ad22e4
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250921T090000
-DTEND;TZID=Asia/Tokyo:20250921T230000
-SUMMARY:①喫茶しーぷい＠兵庫尼崎　本番
-DESCRIPTION:【スタジオ名】\nホテルロビー→ライクスホール→新大阪駅→東京駅\n\n【制作会社名】\n株式会社Thread Cloth\n\n【マネージャー名】\n山本 愛実\n\n【メモ】\n・メイク付き、衣装自前\n・ブロマイドと朗読台本をお忘れなく！\n\n＜待ち合わせ＞\n9:00にホテルロビーにて、皆様とお待ち合わせをお願いします。\n \n\n＜添付資料＞\n・タイムスケジュール\n・進行台本\n・質問表
-UID:5f49cfe6604742d2d9aeac4af4998b5412a2684521d5b0c0cb344c9477e2143d
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250922T000000
-DTEND;TZID=Asia/Tokyo:20250922T235900
-SUMMARY:①イベント明けOFF
-DESCRIPTION:
-UID:48c453f54d4daff859da44944087f5f08fb4af46ed093aee7afed7ae9d9de30f
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250922T103000
-DTEND;TZID=Asia/Tokyo:20250922T150000
-SUMMARY:①「悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。」Season2
-DESCRIPTION:【スタジオ名】\nP'sスタジオ AR3（PW：1488）\n\n【制作会社名】\n(株)ダックスプロダクション\n\n【ディレクター名】\n亀山俊樹\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n先日収録を行いました『ラス為2期』音声合わせ映像データです。\n \n参考までにお送りいたします。\n＝＝＝＝＝＝＝＝＝＝＝＝\n#06\nhttps://eqm.jp/2npCfP\nID：LT2\nPASS：LTS02\n\n※アダム 未収録\n＝＝＝＝＝＝＝＝＝＝＝＝\n#07\nhttps://eqm.jp/HFiCff\nID：LT2\nPASS：LTS02\n\n※アーサー 未収録\n＝＝＝＝＝＝＝＝＝＝＝＝\n#08\nhttps://eqm.jp/hgL1j4\nID：LT2\nPASS：LTS02\n\n※アーサー、ヴァル、ランス 未収録\n＝＝＝＝＝＝＝＝＝＝＝＝
-UID:d42fe3921059633a640b3709b2a33b7d8bdaab73ad3bcad31a147621ced0cfc1
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250924T112500
-DTEND;TZID=Asia/Tokyo:20250924T114000
-SUMMARY:【テープAD】「ソニーホンダモビリティ」
-DESCRIPTION:【スタジオ名】\n松田ビル地下スタジオ\n\n【メモ】\n・C＆T制作「ソニーホンダモビリティ 合成音声」（担当：堤）\n 
-UID:e2e474fd35e2c47a04ddfa855d57d61368376e75ce7bba754f007ea814346d7f
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20250928T193000
-DTEND;TZID=Asia/Tokyo:20250928T223000
-SUMMARY:①永野由祐の”ゆるかつ”
-DESCRIPTION:【スタジオ名】\nシーサイドスタジオ\n\n【制作会社名】\n(株)シーサイド・コミュニケーションズ\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n◆番組タイトル\n「永野由祐の”ゆるかつ”」 \n◆出演 \n永野由祐様 \n◆ゲスト \n住谷哲栄様\n◆配信日\n2025年9月29日（月） \n◆配信時間 \n21:00～22:15 \n◆配信形態 \n映像番組 \n◆配信サイト\n「SEASIDE Men's Channel」（ニコニコチャンネルプラス） \n（https://nicochannel.jp/seaside-mens/） \n◆視聴 前半パート視聴無料（30分） \n後半パート会員限定配信（30分）※月額：770円 \n◆配信スタジオ シーサイドスタジオ \n（東京都港区芝大門1-16-11大門OKビル3階） \n◆タイスケ\n18:45～永野由祐さん入りヘアメイク \n19:15～（準備出来次第）ファンサイト用映像撮影 \n19:30～住谷哲栄さん入りヘアメイク \n20:00～ファンサイト用映像撮影、番組内容確認等 \n21:00～番組配信 \n22:15～番組終了 \n※その他、ヘアメイクあり、衣装自前
-UID:3cc0f1a7b7c63b065b164e7d913a957d5b1256f9d5dc8f7242526d2e1867d80c
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20251001T183000
 DTEND;TZID=Asia/Tokyo:20251001T200000
-SUMMARY:①全力回避フラグちゃん!
-DESCRIPTION:【スタジオ名】\nplott本社6F（予定）\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■男性キャラの出演が少なくなるとのことで、11月以降は月1の収録となります！\n \n■10月以降、スタジオが変更になりますのでお気を付けくださいませ！\n \n（スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F）\n 
-UID:2069d67b53252f2580c891955c1d879665a9c6c711a95aed5ef7252c1fc22f75
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251018T000000
-DTEND;TZID=Asia/Tokyo:20251018T235900
-SUMMARY:①「今日ログ」ファンミ
-DESCRIPTION:【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕
-UID:562f8e16da9ae2ee2d08490c6035a9f01885678677684d97165d5fc6cc39e3e1
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251018T000000
-DTEND;TZID=Asia/Tokyo:20251018T235900
-SUMMARY:②【スタジオAD】尾守つみきと奇日常。
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n吉田光平\n\n【マネージャー名】\n山本 愛実
-UID:d698836f8a6ea3ce0aaa24e794699c5db347d3f3204c60db3d95f81a87a900ed
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251019T000000
-DTEND;TZID=Asia/Tokyo:20251019T235900
-SUMMARY:②【スタジオAD】尾守つみきと奇日常。
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n吉田光平\n\n【マネージャー名】\n山本 愛実
-UID:c7f3104171bd4d8b8edc622026d2ef78505c8bc262268542a861eed99b044307
+SUMMARY:※再送※　①全力回避フラグちゃん!
+DESCRIPTION:【スタジオ名】\nplott本社6F\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n※確認済みになっていないため、再送させていただきます！\n \n\n■男性キャラの出演が少なくなるとのことで、11月以降は月1の収録となります！\n \n■台本はslackより共有いただいております！\n\n＜収録時間＞\n【時間】\n・武田さん、梶川さん、岡村さん　16時〜18時\n・保住さん、住谷さん、　18時半〜20時
+UID:b6c8a5313ddaf5c4df56b33564a31abb36091666e6ac39fba942242fff19f209
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -163,27 +19,27 @@ UID:51758d99b3c4e6d2280a4c896068c0d3c587d7306b48fbda97414dec3ae7ca9b
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251025T000000
-DTEND;TZID=Asia/Tokyo:20251025T235900
-SUMMARY:①「今日ログ」ファンミ
+DTSTART;TZID=Asia/Tokyo:20251023T200000
+DTEND;TZID=Asia/Tokyo:20251023T220000
+SUMMARY:①今日ログ
 DESCRIPTION:【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕
-UID:2bdca751b9d1d9486f5fa8c07cae3e3f06fa018d0f126f802c547eb7a80edb01
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251026T000000
-DTEND;TZID=Asia/Tokyo:20251026T235900
-SUMMARY:①「今日ログ」ファンミ
-DESCRIPTION:【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕
-UID:d51dda98bc7777e0982c51bf892f2c15e0651e99c4688a67ee95987e34110a46
+UID:835a0a32778698c0a369368a45190b323343089eb2fae271ea40b59318bc8ebf
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20251026T000000
 DTEND;TZID=Asia/Tokyo:20251026T235900
 SUMMARY:②【スタジオAD】尾守つみきと奇日常。
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n吉田光平\n\n【マネージャー名】\n山本 愛実
+DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n吉田光平\n\n【マネージャー名】\n山本 愛実\n\n【メモ】\n10／18、19についてはスタジオオーディションの実施自体がなくなりましたのでバラシでお願いいたします。\n \n10／26（日）は引き続きkeepをお願い致します。
 UID:137cd3b6e8c7ff69766fc6c4fdddddddb31c2f50495cd583e4f8c254b21e57d8
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251027T110000
+DTEND;TZID=Asia/Tokyo:20251027T130000
+SUMMARY:①「にふぉるめ ハイキュー!!シールウエハース」PV
+DESCRIPTION:【スタジオ名】\nテクニカランド（青山一丁目・外苑前）\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n候補にあげさせていただきます！
+UID:cc5958f7f14146d231c4a362ebbe89d97bf5d1afb085a29c9a2fd9c52604b725
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -240,6 +96,54 @@ DTEND;TZID=Asia/Tokyo:20251126T200000
 SUMMARY:①全力回避フラグちゃん!
 DESCRIPTION:【スタジオ名】\nplott本社6F（予定）\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■男性キャラの出演が少なくなるとのことで、11月以降は月1の収録となります！\n \n■10月以降、スタジオが変更になりますのでお気を付けくださいませ！\n \n（スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F）\n 
 UID:0796973e3e090840928a3e29884b3fb3a989fa964292ba3378a8219705fe0c00
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251203T130000
+DTEND;TZID=Asia/Tokyo:20251203T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:6f29780cd4811ebda31b0ff99202be11331acba7555f0384ac4c15b2eafe5f7e
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251210T130000
+DTEND;TZID=Asia/Tokyo:20251210T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:90aa6399a763efc01052a7c8f9f9f0bab8e6edc4d0bdc727b8bc937ee577f67e
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251217T130000
+DTEND;TZID=Asia/Tokyo:20251217T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:3d7090f8178e7c8d87006ca72045d83cd61f40e9cf32ef82cd66aaac720baefe
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251224T130000
+DTEND;TZID=Asia/Tokyo:20251224T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:673a92abaf151432f151bf2a9ad3ec02acf0bf184c7697624f33ee3654d69c51
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251224T183000
+DTEND;TZID=Asia/Tokyo:20251224T200000
+SUMMARY:①全力回避フラグちゃん!
+DESCRIPTION:【スタジオ名】\nplott本社6F（予定）\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■男性キャラの出演が少なくなるとのことで、11月以降は月1の収録となります！\n \n■10月以降、スタジオが変更になりますのでお気を付けくださいませ！\n \n（スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F）\n 
+UID:412ed96c4c54d4d94d7cb53ac1c929ac9461036febc63e9ddd15c6a349832ec9
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251231T130000
+DTEND;TZID=Asia/Tokyo:20251231T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:ea96ae02d8019037edc64c8ebe5794f29af6b0a1d44e4528a85fe8f4a1d2aeac
 LOCATION:未指定
 END:VEVENT
 END:VCALENDAR
