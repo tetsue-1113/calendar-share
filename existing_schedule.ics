@@ -13,33 +13,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20251022T130000
 DTEND;TZID=Asia/Tokyo:20251022T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:51758d99b3c4e6d2280a4c896068c0d3c587d7306b48fbda97414dec3ae7ca9b
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n■台本は添付をご確認お願いいたします！\n■公式SNS用写真撮影入ります。
+UID:2b0d6759003e232095e35682d1c392b8fd5cfcb0e8c50cac61097675804e374b
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20251023T200000
 DTEND;TZID=Asia/Tokyo:20251023T220000
 SUMMARY:①今日ログ
-DESCRIPTION:【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕
+DESCRIPTION:【スタジオ名】\nマリンエンタテインメント4F会議室（池袋）\n\n【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕
 UID:835a0a32778698c0a369368a45190b323343089eb2fae271ea40b59318bc8ebf
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251026T000000
-DTEND;TZID=Asia/Tokyo:20251026T235900
-SUMMARY:②【スタジオAD】尾守つみきと奇日常。
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n吉田光平\n\n【マネージャー名】\n山本 愛実\n\n【メモ】\n10／18、19についてはスタジオオーディションの実施自体がなくなりましたのでバラシでお願いいたします。\n \n10／26（日）は引き続きkeepをお願い致します。
-UID:137cd3b6e8c7ff69766fc6c4fdddddddb31c2f50495cd583e4f8c254b21e57d8
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251027T110000
-DTEND;TZID=Asia/Tokyo:20251027T130000
-SUMMARY:①「にふぉるめ ハイキュー!!シールウエハース」PV
-DESCRIPTION:【スタジオ名】\nテクニカランド（青山一丁目・外苑前）\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n候補にあげさせていただきます！
-UID:cc5958f7f14146d231c4a362ebbe89d97bf5d1afb085a29c9a2fd9c52604b725
+DTSTART;TZID=Asia/Tokyo:20251027T103000
+DTEND;TZID=Asia/Tokyo:20251027T150000
+SUMMARY:①悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。2期
+DESCRIPTION:【スタジオ名】\nP'sスタジオ AR3（PW：0593）\n\n【制作会社名】\n(株)ダックスプロダクション\n\n【ディレクター名】\n亀山俊樹\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n▼まだ未確認でしたので念のため再送させて頂きます。\n\n■先ほどお送りしました香盤表ですが、開始時間が間違えていたので修正版が届きました。\n \n　改めて添付いたしましたので再送いたします。
+UID:16443b74d8168db61338b262f6adcdfd552a2b6d9d806b0f28aa125207553965
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
