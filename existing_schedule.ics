@@ -3,74 +3,42 @@ VERSION:2.0
 PRODID:-//Your Organization//Your Calendar 1.0//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251001T183000
-DTEND;TZID=Asia/Tokyo:20251001T200000
-SUMMARY:※再送※　①全力回避フラグちゃん!
-DESCRIPTION:【スタジオ名】\nplott本社6F\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n※確認済みになっていないため、再送させていただきます！\n \n\n■男性キャラの出演が少なくなるとのことで、11月以降は月1の収録となります！\n \n■台本はslackより共有いただいております！\n\n＜収録時間＞\n【時間】\n・武田さん、梶川さん、岡村さん　16時〜18時\n・保住さん、住谷さん、　18時半〜20時
-UID:b6c8a5313ddaf5c4df56b33564a31abb36091666e6ac39fba942242fff19f209
+DTSTART;TZID=Asia/Tokyo:20251107T150000
+DTEND;TZID=Asia/Tokyo:20251107T170000
+SUMMARY:①Paradox Live　Fanfest Dope Box ゲネRH
+DESCRIPTION:【スタジオ名】\n新宿村スタジオ　セントラル106\n\n【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n※VISTY全員揃ってのRHになります。\n※作家のgbさんも参加の方向で調整中です。
+UID:d3a155832d524af7843928136e668f2f9c52a1c9df5912607eb98fd4a7f69286
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251022T130000
-DTEND;TZID=Asia/Tokyo:20251022T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n■台本は添付をご確認お願いいたします！\n■公式SNS用写真撮影入ります。
-UID:2b0d6759003e232095e35682d1c392b8fd5cfcb0e8c50cac61097675804e374b
+DTSTART;TZID=Asia/Tokyo:20251108T000000
+DTEND;TZID=Asia/Tokyo:20251108T235900
+SUMMARY:①ソニーホンダモビリティ合成音声
+DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n正式にお願いする運びとなりました！\n2日稼働想定、1日は予備となります（10/30堤）
+UID:b6042c7ea8099ed864f7e3a906d9cf941fa310c6ec7a2d113c9f6b7e8ba18e20
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251023T200000
-DTEND;TZID=Asia/Tokyo:20251023T220000
-SUMMARY:①今日ログ
-DESCRIPTION:【スタジオ名】\nマリンエンタテインメント4F会議室（池袋）\n\n【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕
-UID:835a0a32778698c0a369368a45190b323343089eb2fae271ea40b59318bc8ebf
+DTSTART;TZID=Asia/Tokyo:20251110T000000
+DTEND;TZID=Asia/Tokyo:20251110T235900
+SUMMARY:①ソニーホンダモビリティ合成音声
+DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n正式にお願いする運びとなりました！\n2日稼働想定、1日は予備となります（10/30堤）
+UID:1054f96ce0c9830bd494c6499351488a76d18c8bd9e5bc193c1ec8ac48ac3db7
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251027T103000
-DTEND;TZID=Asia/Tokyo:20251027T150000
-SUMMARY:①悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。2期
-DESCRIPTION:【スタジオ名】\nP'sスタジオ AR3（PW：0593）\n\n【制作会社名】\n(株)ダックスプロダクション\n\n【ディレクター名】\n亀山俊樹\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n▼まだ未確認でしたので念のため再送させて頂きます。\n\n■先ほどお送りしました香盤表ですが、開始時間が間違えていたので修正版が届きました。\n \n　改めて添付いたしましたので再送いたします。
-UID:16443b74d8168db61338b262f6adcdfd552a2b6d9d806b0f28aa125207553965
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251029T183000
-DTEND;TZID=Asia/Tokyo:20251029T200000
-SUMMARY:①全力回避フラグちゃん!
-DESCRIPTION:【スタジオ名】\nplott本社6F\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■台本はslackよりご共有いただいております！\n■10月以降、スタジオが変更になりますのでお気を付けくださいませ！\n \n（スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F）\n 
-UID:fb06991953264a053f93a44ebc713e30acbb8953c2f00e5908345e9a86f7b495
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251031T193000
-DTEND;TZID=Asia/Tokyo:20251031T224500
-SUMMARY:①石井孝英の”FFF NIGHT PARTY”　ゲスト
-DESCRIPTION:【スタジオ名】\nシーサイドスタジオ\n\n【制作会社名】\n(株)シーサイド・コミュニケーションズ\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n・ヘアメイクつき、衣装自前でお願いいたします。\n・SNS用、ファンサイト用に写真撮影+動画撮影あります。\n \n\n◆番組タイトル       \n石井孝英の”FFF NIGHT PARTY”（読み方はエフエフエフナイトパーティー）\n \n◆出演                 \n石井孝英様\n◆ゲスト                \n住谷哲栄様\n◆配信開始          \n2025年10月31日（金）21:00～22:15\n◆配信形態          \n映像番組\n◆配信サイト         \n「SEASIDE Men's Channel」ニコニコチャンネルプラス\n（https://nicochannel.jp/seaside-mens/）\n◆配信スタジオ      \nシーサイドスタジオ\n（東京都港区芝大門1-16-11大門OKビル3階）\n◆タイスケ                            \n【ヘアメイク場所：3階：シーサイドスタジオにて】\n18:45～石井孝英さん入りヘアメイク                    \n19:15～（準備出来次第）ファンサイト用映像撮影\n19:30～住谷哲栄さん入りヘアメイク\n20:00～ファンサイト用映像撮影、番組内容確認、ゲーム動作確認等\n \n21:00～番組配信                \n22:15～番組終了
-UID:689d1050b8af15650a8f2c68afe98e40f062e61828cf1e17b29ac6cd466634fc
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251106T000000
-DTEND;TZID=Asia/Tokyo:20251106T235900
-SUMMARY:①Paradox Live　Fanfest Dope Box ゲネRH　※7日(金)濃厚
-DESCRIPTION:【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子
-UID:e148326df0b054f58c6afc1c5fa57a9dbb0ea5bb81c4459d71cb23d502414332
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251107T000000
-DTEND;TZID=Asia/Tokyo:20251107T235900
-SUMMARY:①Paradox Live　Fanfest Dope Box ゲネRH　※7日(金)濃厚
-DESCRIPTION:【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子
-UID:bf06e7a596db4162684205ab12d20954e176cd5c639d224c39422cdd1dd35e80
+DTSTART;TZID=Asia/Tokyo:20251112T000000
+DTEND;TZID=Asia/Tokyo:20251112T235900
+SUMMARY:①ソニーホンダモビリティ合成音声
+DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n正式にお願いする運びとなりました！\n2日稼働想定、1日は予備となります（10/30堤）
+UID:26e82725d14bbb31a1a18329c24b0a767456459ee1826c82efef94d663e0d303
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20251116T000000
 DTEND;TZID=Asia/Tokyo:20251116T235900
 SUMMARY:①Paradox Live Fanfest 『Dope Box』（仮）
-DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\nDopeShowの開催が難しくなり、ライブイベントではないイベントに変更となりました。\n \n（もしかしたら歌唱があるかもですが、現状未定です）
+DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n・ヘアメイク、衣装つき\n・朗読台本を忘れずにお持ちください。
 UID:213eb7523a106526f5a8309d395ea87c49f4d96fc856655b9771225d1d7ba2a4
 LOCATION:未指定
 END:VEVENT
@@ -144,6 +112,46 @@ DTEND;TZID=Asia/Tokyo:20251231T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
 UID:ea96ae02d8019037edc64c8ebe5794f29af6b0a1d44e4528a85fe8f4a1d2aeac
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260107T130000
+DTEND;TZID=Asia/Tokyo:20260107T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:c6648c9696759f6a429848cedea86baf026036f6db408b7307c84768006a9fcf
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260114T130000
+DTEND;TZID=Asia/Tokyo:20260114T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:f4ce23fbadb7fcb4880c423f27f3d37fb35eedefd4b227f0f31284196f4376e1
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260121T130000
+DTEND;TZID=Asia/Tokyo:20260121T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:fcdf8d733c224b4d4848e6d2cb47f89fccaf9677c0ee655a9ce8394023d768d5
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260121T183000
+DTEND;TZID=Asia/Tokyo:20260121T200000
+SUMMARY:①全力回避フラグちゃん!
+DESCRIPTION:【スタジオ名】\nplott本社6F（予定）\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■男性キャラの出演が少なくなるとのことで、11月以降は月1の収録となります！\n \n■10月以降、スタジオが変更になりますのでお気を付けくださいませ！\n \n（スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F）\n 
+UID:aa14423ad86fea65fdf5bde84382db2678618406e473d691e8b7fea2f12ae8a3
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260128T130000
+DTEND;TZID=Asia/Tokyo:20260128T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:4323372fa72286c59e1441c7503a2c6a083324f89a4f8779596ae8b34b07c093
 LOCATION:未指定
 END:VEVENT
 END:VCALENDAR
