@@ -11,18 +11,10 @@ UID:d3a155832d524af7843928136e668f2f9c52a1c9df5912607eb98fd4a7f69286
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251108T000000
-DTEND;TZID=Asia/Tokyo:20251108T235900
-SUMMARY:①ソニーホンダモビリティ合成音声
-DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n正式にお願いする運びとなりました！\n2日稼働想定、1日は予備となります（10/30堤）
-UID:b6042c7ea8099ed864f7e3a906d9cf941fa310c6ec7a2d113c9f6b7e8ba18e20
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20251110T000000
 DTEND;TZID=Asia/Tokyo:20251110T235900
 SUMMARY:①ソニーホンダモビリティ合成音声
-DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n正式にお願いする運びとなりました！\n2日稼働想定、1日は予備となります（10/30堤）
+DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n※11／8についてはバラシになりました。（11／5森田）\n\n正式にお願いする運びとなりました！\n2日稼働想定、1日は予備となります（10/30堤）
 UID:1054f96ce0c9830bd494c6499351488a76d18c8bd9e5bc193c1ec8ac48ac3db7
 LOCATION:未指定
 END:VEVENT
@@ -30,8 +22,16 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20251112T000000
 DTEND;TZID=Asia/Tokyo:20251112T235900
 SUMMARY:①ソニーホンダモビリティ合成音声
-DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n正式にお願いする運びとなりました！\n2日稼働想定、1日は予備となります（10/30堤）
+DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n※11／8についてはバラシになりました。（11／5森田）\n\n正式にお願いする運びとなりました！\n2日稼働想定、1日は予備となります（10/30堤）
 UID:26e82725d14bbb31a1a18329c24b0a767456459ee1826c82efef94d663e0d303
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251114T000000
+DTEND;TZID=Asia/Tokyo:20251114T235900
+SUMMARY:【テープAD】「地元のいじめっ子達に仕返ししようとしたら別の戦いが始まった。」
+DESCRIPTION:【スタジオ名】\n松田ビル地下スタジオ\n\n【メモ】\n・INSPIONエッジ制作「地元のいじめっ子達に～」役：小太郎（担当：加茂下）\n 
+UID:5e9e69d2032f810187864bcba3f63196db0ecf02ea3ddf4914e6b74c5af9e4d1
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
