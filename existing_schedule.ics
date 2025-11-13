@@ -11,24 +11,8 @@ UID:d3a155832d524af7843928136e668f2f9c52a1c9df5912607eb98fd4a7f69286
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251110T000000
-DTEND;TZID=Asia/Tokyo:20251110T235900
-SUMMARY:①ソニーホンダモビリティ合成音声
-DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n※11／8についてはバラシになりました。（11／5森田）\n\n正式にお願いする運びとなりました！\n2日稼働想定、1日は予備となります（10/30堤）
-UID:1054f96ce0c9830bd494c6499351488a76d18c8bd9e5bc193c1ec8ac48ac3db7
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251112T000000
-DTEND;TZID=Asia/Tokyo:20251112T235900
-SUMMARY:①ソニーホンダモビリティ合成音声
-DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n※11／8についてはバラシになりました。（11／5森田）\n\n正式にお願いする運びとなりました！\n2日稼働想定、1日は予備となります（10/30堤）
-UID:26e82725d14bbb31a1a18329c24b0a767456459ee1826c82efef94d663e0d303
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251114T000000
-DTEND;TZID=Asia/Tokyo:20251114T235900
+DTSTART;TZID=Asia/Tokyo:20251114T163500
+DTEND;TZID=Asia/Tokyo:20251114T164500
 SUMMARY:【テープAD】「地元のいじめっ子達に仕返ししようとしたら別の戦いが始まった。」
 DESCRIPTION:【スタジオ名】\n松田ビル地下スタジオ\n\n【メモ】\n・INSPIONエッジ制作「地元のいじめっ子達に～」役：小太郎（担当：加茂下）\n 
 UID:5e9e69d2032f810187864bcba3f63196db0ecf02ea3ddf4914e6b74c5af9e4d1
@@ -38,7 +22,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20251116T000000
 DTEND;TZID=Asia/Tokyo:20251116T235900
 SUMMARY:①Paradox Live Fanfest 『Dope Box』（仮）
-DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n・ヘアメイク、衣装つき\n・朗読台本を忘れずにお持ちください。
+DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n・ヘアメイク、衣装つき\n・朗読台本を忘れずにお持ちください。\n・終演後、配信特典用の映像コメントも収録します。
 UID:213eb7523a106526f5a8309d395ea87c49f4d96fc856655b9771225d1d7ba2a4
 LOCATION:未指定
 END:VEVENT
@@ -56,6 +40,14 @@ DTEND;TZID=Asia/Tokyo:20251119T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
 UID:34e8236678d5a43e7cce8709f39a5b5043bbb0ea7254cfb9972f28169f422cc5
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251120T200000
+DTEND;TZID=Asia/Tokyo:20251120T220000
+SUMMARY:①今日ログラジオ
+DESCRIPTION:【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕
+UID:c144714dc4fa9469e1740fbd9834922adecf713aab0c55c5e88c8dab94d31ffd
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
