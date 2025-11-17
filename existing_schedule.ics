@@ -19,19 +19,19 @@ UID:5e9e69d2032f810187864bcba3f63196db0ecf02ea3ddf4914e6b74c5af9e4d1
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251116T000000
-DTEND;TZID=Asia/Tokyo:20251116T235900
-SUMMARY:①Paradox Live Fanfest 『Dope Box』（仮）
-DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n・ヘアメイク、衣装つき\n・朗読台本を忘れずにお持ちください。\n・終演後、配信特典用の映像コメントも収録します。
-UID:213eb7523a106526f5a8309d395ea87c49f4d96fc856655b9771225d1d7ba2a4
+DTSTART;TZID=Asia/Tokyo:20251116T114000
+DTEND;TZID=Asia/Tokyo:20251116T210000
+SUMMARY:①Paradox Live Fanfest Dope Box
+DESCRIPTION:【スタジオ名】\nJR横浜駅中央改札→ぴあアリーナMM\n\n【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n・ヘアメイク、衣装つき\n・配信あり、アーカイブあり\n・PKG化は未定ですが、PKG化される可能性がございます\n・イヤモニ、朗読台本を忘れずにお持ちください\n・終演後、配信特典用の映像コメントも収録します\n・11時40分にJR横浜駅中央改札を出たところのタリーズにて堤と待ち合わせ。\n \n\nhttps://www.dropbox.com/scl/fo/e0fk91ya9a2jj8kfwnoov/AJTTBu3uRGu7HfdxmsTv0Z\n w?rlkey=p27fhl3ruer7jyx2a8mxomnpu&st=tbhbrgzr&dl=0
+UID:9a2d3aaf6f2da4e69a58ae6ca8d31b9e62233c6c31659ccd0a74034a5258db00
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251117T000000
-DTEND;TZID=Asia/Tokyo:20251117T235900
+DTSTART;TZID=Asia/Tokyo:20251116T000000
+DTEND;TZID=Asia/Tokyo:20251116T235900
 SUMMARY:①前日入るようならライブ明けOFF
 DESCRIPTION:
-UID:e2ca4ceb162b60c22713872357897b152826b03b1a4293da7e2dc2566fb63b76
+UID:345bd6bcbf9e0b842225f42661640efdbc745096398fbf7611219cd7b595d873
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -43,6 +43,14 @@ UID:34e8236678d5a43e7cce8709f39a5b5043bbb0ea7254cfb9972f28169f422cc5
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251120T000000
+DTEND;TZID=Asia/Tokyo:20251120T235900
+SUMMARY:②ソニーホンダモビリティ合成音声　仮キープ
+DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子
+UID:4374336d27ac343c7359a11b38f6163620bb790992443ea9dca75c393b073cd5
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20251120T200000
 DTEND;TZID=Asia/Tokyo:20251120T220000
 SUMMARY:①今日ログラジオ
@@ -51,11 +59,27 @@ UID:c144714dc4fa9469e1740fbd9834922adecf713aab0c55c5e88c8dab94d31ffd
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251126T000000
+DTEND;TZID=Asia/Tokyo:20251126T235900
+SUMMARY:②ソニーホンダモビリティ合成音声　仮キープ
+DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子
+UID:2167ef19655cd17abe68c8c5c4e6ffcfc7b4ee6a66e93fd63ff9af05c41fe63a
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20251126T183000
 DTEND;TZID=Asia/Tokyo:20251126T200000
 SUMMARY:①全力回避フラグちゃん!
 DESCRIPTION:【スタジオ名】\nplott本社6F（予定）\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■男性キャラの出演が少なくなるとのことで、11月以降は月1の収録となります！\n \n■10月以降、スタジオが変更になりますのでお気を付けくださいませ！\n \n（スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F）\n 
 UID:0796973e3e090840928a3e29884b3fb3a989fa964292ba3378a8219705fe0c00
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251128T000000
+DTEND;TZID=Asia/Tokyo:20251128T235900
+SUMMARY:②ソニーホンダモビリティ合成音声　仮キープ
+DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子
+UID:81e9e9a82a20ef7ae8c60730604e65f191eef9c2f00bb7d7192cfcecd1ed80ea
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
