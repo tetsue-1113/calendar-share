@@ -27,27 +27,27 @@ UID:9a2d3aaf6f2da4e69a58ae6ca8d31b9e62233c6c31659ccd0a74034a5258db00
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251116T000000
-DTEND;TZID=Asia/Tokyo:20251116T235900
+DTSTART;TZID=Asia/Tokyo:20251117T000000
+DTEND;TZID=Asia/Tokyo:20251117T235900
 SUMMARY:①前日入るようならライブ明けOFF
 DESCRIPTION:
-UID:345bd6bcbf9e0b842225f42661640efdbc745096398fbf7611219cd7b595d873
+UID:e2ca4ceb162b60c22713872357897b152826b03b1a4293da7e2dc2566fb63b76
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251119T130000
-DTEND;TZID=Asia/Tokyo:20251119T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:34e8236678d5a43e7cce8709f39a5b5043bbb0ea7254cfb9972f28169f422cc5
+DTSTART;TZID=Asia/Tokyo:20251118T130000
+DTEND;TZID=Asia/Tokyo:20251118T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n■台本は添付をご確認いただけますと幸いです！\n■公式SNS用写真撮影入ります。
+UID:d24386c9aae88eadc1fb13398de94d6ba73c475d6afcb25c8b939704dfa2eca9
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251120T000000
-DTEND;TZID=Asia/Tokyo:20251120T235900
-SUMMARY:②ソニーホンダモビリティ合成音声　仮キープ
-DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子
-UID:4374336d27ac343c7359a11b38f6163620bb790992443ea9dca75c393b073cd5
+DTSTART;TZID=Asia/Tokyo:20251120T130000
+DTEND;TZID=Asia/Tokyo:20251120T180000
+SUMMARY:①ソニーホンダモビリティ合成音声
+DESCRIPTION:【スタジオ名】\nC And T　本社スタジオ\n\n【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n◇ 収録スタジオ\n　　 C And T 本社STUDIO ※新社屋となりますので住所等、ご注意くださいませ。\n \n　　┣ HP：http://www.candt.info/company/#access\n　　┣ 住所：東京都港区赤坂8丁目5-41\n　　 ┃　　　 イースタン青山ビル－2F\n　　┣ 駅出口：『青山一丁目駅』4番出口\n　　┗ 道順：『ファミリーマート 青山外苑東通り店』前の信号を横断していただき、\n \n　　　　　　 『山王メディカルセンター』を右手に沿ってお進みくださいませ。\n \n　　　　　　   ガラス張りのビルが本社スタジオとなります。\n \n\n　　　※1. ご到着されましたらスタッフによるご案内がございますので\n \n　　　　　インターフォンにて、《4F》をお呼び出しくださいませ。\n \n\n◇ ご収録資料他\n　　URL：https://drive.google.com/drive/folders/1iWEw9BC826cR4Eax80KPMgmhvZyku\n Gyt?usp=sharing\n　 　※既にご共有済みではございますが、\n　 　上記にて再度展開させていただきます。\n　 　右クリックにてダウンロードをして、ご確認くださいませ。\n 
+UID:2fdb42255df9e1f44cdc1a70e66d2586a74365a6dedba2d16b7e1ac5f9ef17f9
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -56,6 +56,14 @@ DTEND;TZID=Asia/Tokyo:20251120T220000
 SUMMARY:①今日ログラジオ
 DESCRIPTION:【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕
 UID:c144714dc4fa9469e1740fbd9834922adecf713aab0c55c5e88c8dab94d31ffd
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251123T160000
+DTEND;TZID=Asia/Tokyo:20251123T180000
+SUMMARY:①少年と犬　オーディオブック　リテイク
+DESCRIPTION:【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華
+UID:713a7e12c00b2924c28d9b083a70be0fb35dc3baf3344e475332e59a714645cc
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -115,8 +123,8 @@ UID:673a92abaf151432f151bf2a9ad3ec02acf0bf184c7697624f33ee3654d69c51
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251224T183000
-DTEND;TZID=Asia/Tokyo:20251224T200000
+DTSTART;TZID=Asia/Tokyo:20251224T193000
+DTEND;TZID=Asia/Tokyo:20251224T203000
 SUMMARY:①全力回避フラグちゃん!
 DESCRIPTION:【スタジオ名】\nplott本社6F（予定）\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■男性キャラの出演が少なくなるとのことで、11月以降は月1の収録となります！\n \n■10月以降、スタジオが変更になりますのでお気を付けくださいませ！\n \n（スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F）\n 
 UID:412ed96c4c54d4d94d7cb53ac1c929ac9461036febc63e9ddd15c6a349832ec9
