@@ -35,11 +35,11 @@ UID:e2ca4ceb162b60c22713872357897b152826b03b1a4293da7e2dc2566fb63b76
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251118T130000
-DTEND;TZID=Asia/Tokyo:20251118T150000
+DTSTART;TZID=Asia/Tokyo:20251119T130000
+DTEND;TZID=Asia/Tokyo:20251119T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n■台本は添付をご確認いただけますと幸いです！\n■公式SNS用写真撮影入ります。
-UID:d24386c9aae88eadc1fb13398de94d6ba73c475d6afcb25c8b939704dfa2eca9
+UID:5c39e1d313af9013b6c1bc0d4eae28f039aad60bf7bb64276ad7ea662f299cbf
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -54,40 +54,48 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20251120T200000
 DTEND;TZID=Asia/Tokyo:20251120T220000
 SUMMARY:①今日ログラジオ
-DESCRIPTION:【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕
+DESCRIPTION:【スタジオ名】\nマリンエンタテインメント4F会議室（池袋）\n\n【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕
 UID:c144714dc4fa9469e1740fbd9834922adecf713aab0c55c5e88c8dab94d31ffd
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251121T130000
+DTEND;TZID=Asia/Tokyo:20251121T131000
+SUMMARY:【テープAD】18TRIP
+DESCRIPTION:【スタジオ名】\n松田ビル　地下ブース\n\n【制作会社名】\n株式会社マジックカプセル\n\n【マネージャー名】\n野上 尚寿\n\n【メモ】\n■役：真田
+UID:66f9f053b93992f3a75bcedb292aac9bae639eeb46bdc6cb1055c34fb1f6fe53
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20251123T160000
 DTEND;TZID=Asia/Tokyo:20251123T180000
 SUMMARY:①少年と犬　オーディオブック　リテイク
-DESCRIPTION:【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華
+DESCRIPTION:【スタジオ名】\nR-studio（吉祥寺）\n\n【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華
 UID:713a7e12c00b2924c28d9b083a70be0fb35dc3baf3344e475332e59a714645cc
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251126T000000
-DTEND;TZID=Asia/Tokyo:20251126T235900
-SUMMARY:②ソニーホンダモビリティ合成音声　仮キープ
-DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子
-UID:2167ef19655cd17abe68c8c5c4e6ffcfc7b4ee6a66e93fd63ff9af05c41fe63a
+DTSTART;TZID=Asia/Tokyo:20251126T120000
+DTEND;TZID=Asia/Tokyo:20251126T170000
+SUMMARY:①ソニーホンダモビリティ合成音声　＜2回目＞
+DESCRIPTION:【スタジオ名】\nC And T本社スタジオ（5st～7st）\n\n【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n※2稼働目※\n\n◇C And T 本社STUDIO ※新社屋となりますので住所等、ご注意くださいませ。\n \nhttp://www.candt.info/company/#access\n東京都港区赤坂8丁目5-41 イースタン青山ビル－2F\n駅出口：『青山一丁目駅』4番出口\n道順：『ファミリーマート 青山外苑東通り店』前の信号を横断していただき、\n \n　　　『山王メディカルセンター』を右手に沿ってお進みください。\n \n　　　ガラス張りのビルが本社スタジオとなります。\n※ご到着されましたらスタッフの方が案内してくれますので、\n \n　インターフォンにて、《4F》もしくは「401」をお呼び出しください。\n \n\n◇ 実演内容\n　 840w（全：1100w）\n\n◇ ご収録資料他\nhttps://drive.google.com/drive/folders/1iWEw9BC826cR4Eax80KPMgmhvZykuGyt?us\n p=sharing\n※既にご共有済みのものから変更ございません。
+UID:98bbd0bd77f9b56ffd943a77873da5754a9de86808460116d8389c2a493df2a2
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20251126T183000
 DTEND;TZID=Asia/Tokyo:20251126T200000
 SUMMARY:①全力回避フラグちゃん!
-DESCRIPTION:【スタジオ名】\nplott本社6F（予定）\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■男性キャラの出演が少なくなるとのことで、11月以降は月1の収録となります！\n \n■10月以降、スタジオが変更になりますのでお気を付けくださいませ！\n \n（スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F）\n 
+DESCRIPTION:【スタジオ名】\nplott本社6F\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■台本はslackよりご共有いただいております！
 UID:0796973e3e090840928a3e29884b3fb3a989fa964292ba3378a8219705fe0c00
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251128T000000
-DTEND;TZID=Asia/Tokyo:20251128T235900
-SUMMARY:②ソニーホンダモビリティ合成音声　仮キープ
-DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子
-UID:81e9e9a82a20ef7ae8c60730604e65f191eef9c2f00bb7d7192cfcecd1ed80ea
+DTSTART;TZID=Asia/Tokyo:20251128T133000
+DTEND;TZID=Asia/Tokyo:20251128T183000
+SUMMARY:②ソニーホンダモビリティ合成音声　＜3回目＞
+DESCRIPTION:【スタジオ名】\nC And T本社スタジオ（5st～7st）\n\n【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n◇C And T 本社STUDIO \nhttp://www.candt.info/company/#access\n東京都港区赤坂8丁目5-41 イースタン青山ビル－2F\n┣ 駅出口：『青山一丁目駅』4番出口\n┗ 道順：『ファミリーマート 青山外苑東通り店』前の信号を横断していただき、\n \n　　　　『山王メディカルセンター』を右手に沿ってお進みくださいませ。\n \n　　　　ガラス張りのビルが本社スタジオとなります。\n\n※到着されましたらインターフォンにて、《4F》か「401」をお呼び出しください。\n 
+UID:2ce075c68f5f004c211c6d366496fb90170ce76bdf3ac5285cc8ac76538860e6
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -96,6 +104,14 @@ DTEND;TZID=Asia/Tokyo:20251203T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
 UID:6f29780cd4811ebda31b0ff99202be11331acba7555f0384ac4c15b2eafe5f7e
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251205T000000
+DTEND;TZID=Asia/Tokyo:20251205T235900
+SUMMARY:①モンギル
+DESCRIPTION:【制作会社名】\n株式会社東北新社\n\n【マネージャー名】\n山村 綾香
+UID:0feb83cb76ae3c366e426b9ea9f0334b58233646fd615e72721da5cba5eb536b
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
