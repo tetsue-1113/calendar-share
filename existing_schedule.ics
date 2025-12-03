@@ -3,139 +3,19 @@ VERSION:2.0
 PRODID:-//Your Organization//Your Calendar 1.0//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251107T150000
-DTEND;TZID=Asia/Tokyo:20251107T170000
-SUMMARY:①Paradox Live　Fanfest Dope Box ゲネRH
-DESCRIPTION:【スタジオ名】\n新宿村スタジオ　セントラル106\n\n【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n※VISTY全員揃ってのRHになります。\n※作家のgbさんも参加の方向で調整中です。
-UID:d3a155832d524af7843928136e668f2f9c52a1c9df5912607eb98fd4a7f69286
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251114T163500
-DTEND;TZID=Asia/Tokyo:20251114T164500
-SUMMARY:【テープAD】「地元のいじめっ子達に仕返ししようとしたら別の戦いが始まった。」
-DESCRIPTION:【スタジオ名】\n松田ビル地下スタジオ\n\n【メモ】\n・INSPIONエッジ制作「地元のいじめっ子達に～」役：小太郎（担当：加茂下）\n 
-UID:5e9e69d2032f810187864bcba3f63196db0ecf02ea3ddf4914e6b74c5af9e4d1
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251116T114000
-DTEND;TZID=Asia/Tokyo:20251116T210000
-SUMMARY:①Paradox Live Fanfest Dope Box
-DESCRIPTION:【スタジオ名】\nJR横浜駅中央改札→ぴあアリーナMM\n\n【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n・ヘアメイク、衣装つき\n・配信あり、アーカイブあり\n・PKG化は未定ですが、PKG化される可能性がございます\n・イヤモニ、朗読台本を忘れずにお持ちください\n・終演後、配信特典用の映像コメントも収録します\n・11時40分にJR横浜駅中央改札を出たところのタリーズにて堤と待ち合わせ。\n \n\nhttps://www.dropbox.com/scl/fo/e0fk91ya9a2jj8kfwnoov/AJTTBu3uRGu7HfdxmsTv0Z\n w?rlkey=p27fhl3ruer7jyx2a8mxomnpu&st=tbhbrgzr&dl=0
-UID:9a2d3aaf6f2da4e69a58ae6ca8d31b9e62233c6c31659ccd0a74034a5258db00
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251117T000000
-DTEND;TZID=Asia/Tokyo:20251117T235900
-SUMMARY:①前日入るようならライブ明けOFF
-DESCRIPTION:
-UID:e2ca4ceb162b60c22713872357897b152826b03b1a4293da7e2dc2566fb63b76
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251119T130000
-DTEND;TZID=Asia/Tokyo:20251119T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n■台本は添付をご確認いただけますと幸いです！\n■公式SNS用写真撮影入ります。
-UID:5c39e1d313af9013b6c1bc0d4eae28f039aad60bf7bb64276ad7ea662f299cbf
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251120T130000
-DTEND;TZID=Asia/Tokyo:20251120T180000
-SUMMARY:①ソニーホンダモビリティ合成音声
-DESCRIPTION:【スタジオ名】\nC And T　本社スタジオ\n\n【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n◇ 収録スタジオ\n　　 C And T 本社STUDIO ※新社屋となりますので住所等、ご注意くださいませ。\n \n　　┣ HP：http://www.candt.info/company/#access\n　　┣ 住所：東京都港区赤坂8丁目5-41\n　　 ┃　　　 イースタン青山ビル－2F\n　　┣ 駅出口：『青山一丁目駅』4番出口\n　　┗ 道順：『ファミリーマート 青山外苑東通り店』前の信号を横断していただき、\n \n　　　　　　 『山王メディカルセンター』を右手に沿ってお進みくださいませ。\n \n　　　　　　   ガラス張りのビルが本社スタジオとなります。\n \n\n　　　※1. ご到着されましたらスタッフによるご案内がございますので\n \n　　　　　インターフォンにて、《4F》をお呼び出しくださいませ。\n \n\n◇ ご収録資料他\n　　URL：https://drive.google.com/drive/folders/1iWEw9BC826cR4Eax80KPMgmhvZyku\n Gyt?usp=sharing\n　 　※既にご共有済みではございますが、\n　 　上記にて再度展開させていただきます。\n　 　右クリックにてダウンロードをして、ご確認くださいませ。\n 
-UID:2fdb42255df9e1f44cdc1a70e66d2586a74365a6dedba2d16b7e1ac5f9ef17f9
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251120T200000
-DTEND;TZID=Asia/Tokyo:20251120T220000
-SUMMARY:①今日ログラジオ
-DESCRIPTION:【スタジオ名】\nマリンエンタテインメント4F会議室（池袋）\n\n【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕
-UID:c144714dc4fa9469e1740fbd9834922adecf713aab0c55c5e88c8dab94d31ffd
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251121T130000
-DTEND;TZID=Asia/Tokyo:20251121T131000
-SUMMARY:【テープAD】18TRIP
-DESCRIPTION:【スタジオ名】\n松田ビル　地下ブース\n\n【制作会社名】\n株式会社マジックカプセル\n\n【マネージャー名】\n野上 尚寿\n\n【メモ】\n■役：真田
-UID:66f9f053b93992f3a75bcedb292aac9bae639eeb46bdc6cb1055c34fb1f6fe53
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251123T160000
-DTEND;TZID=Asia/Tokyo:20251123T180000
-SUMMARY:①少年と犬　オーディオブック　リテイク
-DESCRIPTION:【スタジオ名】\nR-studio（吉祥寺）\n\n【制作会社名】\n(株)オトバンク\n\n【マネージャー名】\n小林 聡華
-UID:713a7e12c00b2924c28d9b083a70be0fb35dc3baf3344e475332e59a714645cc
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251126T120000
-DTEND;TZID=Asia/Tokyo:20251126T170000
-SUMMARY:①ソニーホンダモビリティ合成音声　＜2回目＞
-DESCRIPTION:【スタジオ名】\nC And T本社スタジオ（5st～7st）\n\n【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n※2稼働目※\n\n◇C And T 本社STUDIO ※新社屋となりますので住所等、ご注意くださいませ。\n \nhttp://www.candt.info/company/#access\n東京都港区赤坂8丁目5-41 イースタン青山ビル－2F\n駅出口：『青山一丁目駅』4番出口\n道順：『ファミリーマート 青山外苑東通り店』前の信号を横断していただき、\n \n　　　『山王メディカルセンター』を右手に沿ってお進みください。\n \n　　　ガラス張りのビルが本社スタジオとなります。\n※ご到着されましたらスタッフの方が案内してくれますので、\n \n　インターフォンにて、《4F》もしくは「401」をお呼び出しください。\n \n\n◇ 実演内容\n　 840w（全：1100w）\n\n◇ ご収録資料他\nhttps://drive.google.com/drive/folders/1iWEw9BC826cR4Eax80KPMgmhvZykuGyt?us\n p=sharing\n※既にご共有済みのものから変更ございません。
-UID:98bbd0bd77f9b56ffd943a77873da5754a9de86808460116d8389c2a493df2a2
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251126T183000
-DTEND;TZID=Asia/Tokyo:20251126T200000
-SUMMARY:①全力回避フラグちゃん!
-DESCRIPTION:【スタジオ名】\nplott本社6F\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■台本はslackよりご共有いただいております！
-UID:0796973e3e090840928a3e29884b3fb3a989fa964292ba3378a8219705fe0c00
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251128T133000
-DTEND;TZID=Asia/Tokyo:20251128T183000
-SUMMARY:②ソニーホンダモビリティ合成音声　＜3回目＞
-DESCRIPTION:【スタジオ名】\nC And T本社スタジオ（5st～7st）\n\n【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n◇C And T 本社STUDIO \nhttp://www.candt.info/company/#access\n東京都港区赤坂8丁目5-41 イースタン青山ビル－2F\n┣ 駅出口：『青山一丁目駅』4番出口\n┗ 道順：『ファミリーマート 青山外苑東通り店』前の信号を横断していただき、\n \n　　　　『山王メディカルセンター』を右手に沿ってお進みくださいませ。\n \n　　　　ガラス張りのビルが本社スタジオとなります。\n\n※到着されましたらインターフォンにて、《4F》か「401」をお呼び出しください。\n 
-UID:2ce075c68f5f004c211c6d366496fb90170ce76bdf3ac5285cc8ac76538860e6
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251203T130000
-DTEND;TZID=Asia/Tokyo:20251203T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:6f29780cd4811ebda31b0ff99202be11331acba7555f0384ac4c15b2eafe5f7e
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251205T000000
-DTEND;TZID=Asia/Tokyo:20251205T235900
+DTSTART;TZID=Asia/Tokyo:20251205T153000
+DTEND;TZID=Asia/Tokyo:20251205T160000
 SUMMARY:①モンギル
-DESCRIPTION:【制作会社名】\n株式会社東北新社\n\n【マネージャー名】\n山村 綾香
+DESCRIPTION:【スタジオ名】\nサウンドインハナレRst　ダイニチ麹町ビルB1\n\n【制作会社名】\n株式会社東北新社\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山村 綾香\n\n【メモ】\n12月5日(金)　＠サウンドインハナレRst　ダイニチ麹町ビルB1\n \nhttps://sound-inn.com/wordpress/wp-content/themes/sound_inn/pdf/hanare_acce\n ss_map.pdf\n■15:30-16:00 住谷哲栄様(怯えているオーク/ガープ/ネイサン)\n 
 UID:0feb83cb76ae3c366e426b9ea9f0334b58233646fd615e72721da5cba5eb536b
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251210T130000
-DTEND;TZID=Asia/Tokyo:20251210T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:90aa6399a763efc01052a7c8f9f9f0bab8e6edc4d0bdc727b8bc937ee577f67e
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20251217T130000
 DTEND;TZID=Asia/Tokyo:20251217T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:3d7090f8178e7c8d87006ca72045d83cd61f40e9cf32ef82cd66aaac720baefe
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251224T130000
-DTEND;TZID=Asia/Tokyo:20251224T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:673a92abaf151432f151bf2a9ad3ec02acf0bf184c7697624f33ee3654d69c51
+UID:686fb6e35fbacce703803132aa51876db609e52306864a74c32515ae989d0167
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -147,35 +27,27 @@ UID:412ed96c4c54d4d94d7cb53ac1c929ac9461036febc63e9ddd15c6a349832ec9
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251231T130000
-DTEND;TZID=Asia/Tokyo:20251231T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:ea96ae02d8019037edc64c8ebe5794f29af6b0a1d44e4528a85fe8f4a1d2aeac
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260107T130000
-DTEND;TZID=Asia/Tokyo:20260107T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:c6648c9696759f6a429848cedea86baf026036f6db408b7307c84768006a9fcf
+DTSTART;TZID=Asia/Tokyo:20260109T130000
+DTEND;TZID=Asia/Tokyo:20260109T210000
+SUMMARY:①音楽朗読劇「成人式」楽曲収録
+DESCRIPTION:【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n【内容】\n・全体楽曲のご自身のパートの収録\n・ソロ楽曲の収録\n\n楽曲のレコーディング資料が収録日の何日前までにあれば収録が可能か？も合わせてご確認いただきつつ、スケジュールを頂戴できますと幸いです。\n 
+UID:0323be6491b7f38e9df3d074067365fa4a131fafa96062586a8265c44210cac7
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260114T130000
 DTEND;TZID=Asia/Tokyo:20260114T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:f4ce23fbadb7fcb4880c423f27f3d37fb35eedefd4b227f0f31284196f4376e1
+UID:dfc76a13a1df60cc699564379345c2ab0416834a4fdc54d31ed655276c0dccf0
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260121T130000
-DTEND;TZID=Asia/Tokyo:20260121T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:fcdf8d733c224b4d4848e6d2cb47f89fccaf9677c0ee655a9ce8394023d768d5
+DTSTART;TZID=Asia/Tokyo:20260116T130000
+DTEND;TZID=Asia/Tokyo:20260116T210000
+SUMMARY:①音楽朗読劇「成人式」楽曲収録
+DESCRIPTION:【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n【内容】\n・全体楽曲のご自身のパートの収録\n・ソロ楽曲の収録\n\n楽曲のレコーディング資料が収録日の何日前までにあれば収録が可能か？も合わせてご確認いただきつつ、スケジュールを頂戴できますと幸いです。\n 
+UID:1925acdb21100db1edbf352562fd22be25d98cc8b31eb4807b3865d3cc9b9fb3
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -187,11 +59,51 @@ UID:aa14423ad86fea65fdf5bde84382db2678618406e473d691e8b7fea2f12ae8a3
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260128T130000
-DTEND;TZID=Asia/Tokyo:20260128T150000
+DTSTART;TZID=Asia/Tokyo:20260204T130000
+DTEND;TZID=Asia/Tokyo:20260204T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:4323372fa72286c59e1441c7503a2c6a083324f89a4f8779596ae8b34b07c093
+UID:fe2b8c9b6c9d180d238ef7f13bdeb2c905c973da930acfc2612ca6c05a1955f8
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260211T130000
+DTEND;TZID=Asia/Tokyo:20260211T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:5cc6a67fc3111fc588f4e2029ebdf2da52bcb072aae9f8d38c712f3368b6287f
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260218T130000
+DTEND;TZID=Asia/Tokyo:20260218T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:8301915510bdf63d7d5edf3916f34689ddad6afd4dc0d0b248da76dd34bafe9d
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260218T183000
+DTEND;TZID=Asia/Tokyo:20260218T200000
+SUMMARY:①全力回避フラグちゃん!
+DESCRIPTION:【スタジオ名】\nplott本社6F（予定）\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■男性キャラの出演が少なくなるとのことで、11月以降は月1の収録となります！\n \n■10月以降、スタジオが変更になりますのでお気を付けくださいませ！\n \n（スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F）\n 
+UID:4f2f30e7986e2f7969329cd4f0c9ce8780a15132b59f4d9e7cc45563cf7eda70
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260223T000000
+DTEND;TZID=Asia/Tokyo:20260223T235900
+SUMMARY:①棗いつき朗読歌唱劇　※やる
+DESCRIPTION:【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n2. 公演詳細\n公演日程：2026年2月23日（月）\n会場：飛行船シアター（〒110-0015 東京都台東区東上野４丁目２４−１１）\n \n公演回数：昼夜二部制・計2回公演\n出演者：計6名（棗いつきを含む）\nhttps://docs.google.com/document/d/1csfgrcSOLizy0xZ_MXpD9V8k3S5sMI40GsISE1g\n sRsc/edit?usp=sharing
+UID:8e86fc1e02e0332a92a4d46c5792b1f04dc6ecff9f499bbd19035b622f1632da
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260225T130000
+DTEND;TZID=Asia/Tokyo:20260225T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:9ceffc0bf099d9935cf77e9792251c9c97c4bbe316dcce6e292169f733563dd2
 LOCATION:未指定
 END:VEVENT
 END:VCALENDAR
