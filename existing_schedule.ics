@@ -27,11 +27,11 @@ UID:412ed96c4c54d4d94d7cb53ac1c929ac9461036febc63e9ddd15c6a349832ec9
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260109T130000
-DTEND;TZID=Asia/Tokyo:20260109T210000
+DTSTART;TZID=Asia/Tokyo:20251226T130000
+DTEND;TZID=Asia/Tokyo:20251226T210000
 SUMMARY:①音楽朗読劇「成人式」楽曲収録
-DESCRIPTION:【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n【内容】\n・全体楽曲のご自身のパートの収録\n・ソロ楽曲の収録\n\n楽曲のレコーディング資料が収録日の何日前までにあれば収録が可能か？も合わせてご確認いただきつつ、スケジュールを頂戴できますと幸いです。\n 
-UID:0323be6491b7f38e9df3d074067365fa4a131fafa96062586a8265c44210cac7
+DESCRIPTION:【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n○住谷さま\n12/26(金)\n13時〜\n(5-6時間想定)\n・住谷さまREC資料になります。\nhttps://www.dropbox.com/scl/fo/l1i9jk1i6kp6rf7bn630x/AJi6rtSFpYfXL1Vx27T2fX\n E?rlkey=zxgyk9tj13328yumzeizu4xuf&st=caeywunn&dl=0\nご確認のほどよろしくお願い致します。\n全体曲に関しては、後日お送りさせて頂きます。
+UID:03dd8af921d1dc87dc923c414ffd70175392f7a7c4693bea41447d0ae666a695
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -40,14 +40,6 @@ DTEND;TZID=Asia/Tokyo:20260114T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
 UID:dfc76a13a1df60cc699564379345c2ab0416834a4fdc54d31ed655276c0dccf0
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260116T130000
-DTEND;TZID=Asia/Tokyo:20260116T210000
-SUMMARY:①音楽朗読劇「成人式」楽曲収録
-DESCRIPTION:【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n【内容】\n・全体楽曲のご自身のパートの収録\n・ソロ楽曲の収録\n\n楽曲のレコーディング資料が収録日の何日前までにあれば収録が可能か？も合わせてご確認いただきつつ、スケジュールを頂戴できますと幸いです。\n 
-UID:1925acdb21100db1edbf352562fd22be25d98cc8b31eb4807b3865d3cc9b9fb3
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -75,6 +67,22 @@ UID:5cc6a67fc3111fc588f4e2029ebdf2da52bcb072aae9f8d38c712f3368b6287f
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260216T000000
+DTEND;TZID=Asia/Tokyo:20260216T235900
+SUMMARY:②音楽朗読劇「成人式」RH
+DESCRIPTION:【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n衣装の件のご相談になります。\n現在、衣装担当より「リハーサル日にフィッティング、その後お直しを行い、本番当日に着用」という想定で準備を進めております。\n \nつきましては、事前にフィッティング日を設け、チェックを希望かをご相談させてください。\n \n- 現在の想定： リハ日にフィッティング・お直し → 本番当日着用\n 
+UID:dd15e93f675f76dc840f389c78bf587644ced9d4593f0a5c17662d31a391ae53
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260218T000000
+DTEND;TZID=Asia/Tokyo:20260218T235900
+SUMMARY:②音楽朗読劇「成人式」RH
+DESCRIPTION:【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n衣装の件のご相談になります。\n現在、衣装担当より「リハーサル日にフィッティング、その後お直しを行い、本番当日に着用」という想定で準備を進めております。\n \nつきましては、事前にフィッティング日を設け、チェックを希望かをご相談させてください。\n \n- 現在の想定： リハ日にフィッティング・お直し → 本番当日着用\n 
+UID:76e46bcb3df42696c4b6428e4bda88717710e859713a6c21a7bcd08189aad51f
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260218T130000
 DTEND;TZID=Asia/Tokyo:20260218T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
@@ -88,6 +96,14 @@ DTEND;TZID=Asia/Tokyo:20260218T200000
 SUMMARY:①全力回避フラグちゃん!
 DESCRIPTION:【スタジオ名】\nplott本社6F（予定）\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■男性キャラの出演が少なくなるとのことで、11月以降は月1の収録となります！\n \n■10月以降、スタジオが変更になりますのでお気を付けくださいませ！\n \n（スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F）\n 
 UID:4f2f30e7986e2f7969329cd4f0c9ce8780a15132b59f4d9e7cc45563cf7eda70
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260219T000000
+DTEND;TZID=Asia/Tokyo:20260219T235900
+SUMMARY:②音楽朗読劇「成人式」RH
+DESCRIPTION:【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n衣装の件のご相談になります。\n現在、衣装担当より「リハーサル日にフィッティング、その後お直しを行い、本番当日に着用」という想定で準備を進めております。\n \nつきましては、事前にフィッティング日を設け、チェックを希望かをご相談させてください。\n \n- 現在の想定： リハ日にフィッティング・お直し → 本番当日着用\n 
+UID:52112e9b49262121a08e7ef16bdc8c5ff9e099b33bfc052568d7c38289b0f7ca
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
