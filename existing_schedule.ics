@@ -11,6 +11,14 @@ UID:0feb83cb76ae3c366e426b9ea9f0334b58233646fd615e72721da5cba5eb536b
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251212T000000
+DTEND;TZID=Asia/Tokyo:20251212T235900
+SUMMARY:テープAD「スタジオカバナ」
+DESCRIPTION:【メモ】\n・INSPION「スタジオカバナ」役：日下優助、望月みつる（担当：山本）\n 
+UID:63c230c0520e9605b20a65a7a01e7f995c014daff09f4882e7b85ae7d33f6d39
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20251217T130000
 DTEND;TZID=Asia/Tokyo:20251217T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
@@ -30,7 +38,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20251226T130000
 DTEND;TZID=Asia/Tokyo:20251226T210000
 SUMMARY:①音楽朗読劇「成人式」楽曲収録
-DESCRIPTION:【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n○住谷さま\n12/26(金)\n13時〜\n(5-6時間想定)\n・住谷さまREC資料になります。\nhttps://www.dropbox.com/scl/fo/l1i9jk1i6kp6rf7bn630x/AJi6rtSFpYfXL1Vx27T2fX\n E?rlkey=zxgyk9tj13328yumzeizu4xuf&st=caeywunn&dl=0\nご確認のほどよろしくお願い致します。\n全体曲に関しては、後日お送りさせて頂きます。
+DESCRIPTION:【スタジオ名】\nStudio ONE LAB（飯田橋）\n\n【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n○住谷さま\n12/26(金)\n13時〜\n(5-6時間想定)\n・場所：スタジオ：「Studio ONE LAB」\n〒162-0822 新宿区下宮比町2-18グランドメゾン飯田橋B1F102\n詳細↓\nhttps://www.dropbox.com/scl/fi/ghwsbk080og5ynxrd6g49/Studio-ONE-Lab-MAP3-FI\n X2.pdf?rlkey=8m0bxu04jc7rg96ycttyaq6ws&st=2zzm5pmj&dl=0\n・住谷さまREC資料になります。\nhttps://www.dropbox.com/scl/fo/l1i9jk1i6kp6rf7bn630x/AJi6rtSFpYfXL1Vx27T2fX\n E?rlkey=zxgyk9tj13328yumzeizu4xuf&st=caeywunn&dl=0\nご確認のほどよろしくお願い致します。\n○全体曲のREC資料\nhttps://www.dropbox.com/scl/fo/g54nuuxekgungxxouw8cs/AEVI8RkdUmJsQqv5RkkBwz\n g?rlkey=hmwur2wvqhlrzzusdl0mek6mb&st=qsklxifh&dl=0\n・歌詞・パート分けに下記がありますが、\nもし可能でありましたら、収録の際にご相談させて頂ければと思います。\n \nーーーーーーーーーーーーーーーーーーー\n※Vo_Horrorデータについて\nこちらのパート『人身売買された身体からの悲鳴が混ざる』イメージにしたく、いつきさん、ほか演者さまでもしこういった音声を録音していただける方いらっしゃれ\n ば、素材としていただけましたら大変助かります…！
 UID:03dd8af921d1dc87dc923c414ffd70175392f7a7c4693bea41447d0ae666a695
 LOCATION:未指定
 END:VEVENT
