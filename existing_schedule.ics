@@ -21,9 +21,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20251217T130000
 DTEND;TZID=Asia/Tokyo:20251217T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:686fb6e35fbacce703803132aa51876db609e52306864a74c32515ae989d0167
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録【年内最後】
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n■台本は添付をご確認お願いいたします。\n■公式SNS用写真撮影入ります。\n\n＜備考＞\n・年内最後のため、会員限定おまけ動画は手元だけ映す形での収録となります。\n \n・お正月コメント（音声のみ）収録入ります。台本は添付をご確認お願いいたします。\n 
+UID:6f122266adb97b5fb09aa82072decd570d29fa0ebfd26e12feea256eaf7a5823
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251223T000000
+DTEND;TZID=Asia/Tokyo:20251223T235900
+SUMMARY:テープAD「すだちの魔王城」
+DESCRIPTION:【メモ】\n・ビットグルーヴ制作「すだちの魔王城」役：ムラビト（担当：山本）\n 
+UID:e974196572ea34cc199ede9595488c3660268482396fb4d5d8850530b2ffbe6a
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251224T000000
+DTEND;TZID=Asia/Tokyo:20251224T235900
+SUMMARY:②探偵小石は恋しない
+DESCRIPTION:【制作会社名】\n株式会社スカーレット\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\nスタジオ：原宿サウンドスタジオ\n〒151-0051\n東京都渋谷区千駄ヶ谷3-4-2　エテルノ原宿\n\n平日は2Fで受付をしていただきますようお願いいたします。\n \n土日祝は1Fに直接お入りいただき、目の前のモニターでスタジオをご確認ください。\n 
+UID:374d80e67ec674511cd3abecacbc21e4c8b860de4e8283cefba3a30b8cad30d0
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -36,10 +52,26 @@ LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20251226T130000
-DTEND;TZID=Asia/Tokyo:20251226T210000
-SUMMARY:①音楽朗読劇「成人式」楽曲収録
-DESCRIPTION:【スタジオ名】\nStudio ONE LAB（飯田橋）\n\n【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n○住谷さま\n12/26(金)\n13時〜\n(5-6時間想定)\n・場所：スタジオ：「Studio ONE LAB」\n〒162-0822 新宿区下宮比町2-18グランドメゾン飯田橋B1F102\n詳細↓\nhttps://www.dropbox.com/scl/fi/ghwsbk080og5ynxrd6g49/Studio-ONE-Lab-MAP3-FI\n X2.pdf?rlkey=8m0bxu04jc7rg96ycttyaq6ws&st=2zzm5pmj&dl=0\n・住谷さまREC資料になります。\nhttps://www.dropbox.com/scl/fo/l1i9jk1i6kp6rf7bn630x/AJi6rtSFpYfXL1Vx27T2fX\n E?rlkey=zxgyk9tj13328yumzeizu4xuf&st=caeywunn&dl=0\nご確認のほどよろしくお願い致します。\n○全体曲のREC資料\nhttps://www.dropbox.com/scl/fo/g54nuuxekgungxxouw8cs/AEVI8RkdUmJsQqv5RkkBwz\n g?rlkey=hmwur2wvqhlrzzusdl0mek6mb&st=qsklxifh&dl=0\n・歌詞・パート分けに下記がありますが、\nもし可能でありましたら、収録の際にご相談させて頂ければと思います。\n \nーーーーーーーーーーーーーーーーーーー\n※Vo_Horrorデータについて\nこちらのパート『人身売買された身体からの悲鳴が混ざる』イメージにしたく、いつきさん、ほか演者さまでもしこういった音声を録音していただける方いらっしゃれ\n ば、素材としていただけましたら大変助かります…！
-UID:03dd8af921d1dc87dc923c414ffd70175392f7a7c4693bea41447d0ae666a695
+DTEND;TZID=Asia/Tokyo:20251226T190000
+SUMMARY:①音楽朗読劇「成人式」楽曲収録　※２曲収録します
+DESCRIPTION:【スタジオ名】\nStudio ONE LAB（飯田橋）\n\n【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n○住谷さま\n12/26(金)\n13時〜\n(5-6時間想定)\n・場所：スタジオ：「Studio ONE LAB」\n〒162-0822 新宿区下宮比町2-18グランドメゾン飯田橋B1F102\n詳細↓\nhttps://www.dropbox.com/scl/fi/ghwsbk080og5ynxrd6g49/Studio-ONE-Lab-MAP3-FI\n X2.pdf?rlkey=8m0bxu04jc7rg96ycttyaq6ws&st=2zzm5pmj&dl=0\n・住谷さまREC資料になります。\n「欠け落ち」、「迷なき明日へ」\nhttps://www.dropbox.com/scl/fo/l1i9jk1i6kp6rf7bn630x/AJi6rtSFpYfXL1Vx27T2fX\n E?rlkey=zxgyk9tj13328yumzeizu4xuf&st=caeywunn&dl=0\nご確認のほどよろしくお願い致します。\n○全体曲のREC資料\nhttps://www.dropbox.com/scl/fo/g54nuuxekgungxxouw8cs/AEVI8RkdUmJsQqv5RkkBwz\n g?rlkey=hmwur2wvqhlrzzusdl0mek6mb&st=qsklxifh&dl=0\n・歌詞・パート分けに下記がありますが、\nもし可能でありましたら、収録の際にご相談させて頂ければと思います。\n \nーーーーーーーーーーーーーーーーーーー\n※Vo_Horrorデータについて\nこちらのパート『人身売買された身体からの悲鳴が混ざる』イメージにしたく、いつきさん、ほか演者さまでもしこういった音声を録音していただける方いらっしゃれ\n ば、素材としていただけましたら大変助かります…！
+UID:b94f998f6b7abdd71d6a908d103bf298d263f4da82c72f208dd4e1b1be12cf05
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20251227T000000
+DTEND;TZID=Asia/Tokyo:20251227T235900
+SUMMARY:②探偵小石は恋しない
+DESCRIPTION:【制作会社名】\n株式会社スカーレット\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\nスタジオ：原宿サウンドスタジオ\n〒151-0051\n東京都渋谷区千駄ヶ谷3-4-2　エテルノ原宿\n\n平日は2Fで受付をしていただきますようお願いいたします。\n \n土日祝は1Fに直接お入りいただき、目の前のモニターでスタジオをご確認ください。\n 
+UID:1f094fbd1e637eeea04584f6bd34de9bb1c236c13fedb7bfbdd60a8cd059f2a7
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260105T000000
+DTEND;TZID=Asia/Tokyo:20260105T235900
+SUMMARY:②探偵小石は恋しない
+DESCRIPTION:【制作会社名】\n株式会社スカーレット\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\nスタジオ：原宿サウンドスタジオ\n〒151-0051\n東京都渋谷区千駄ヶ谷3-4-2　エテルノ原宿\n\n平日は2Fで受付をしていただきますようお願いいたします。\n \n土日祝は1Fに直接お入りいただき、目の前のモニターでスタジオをご確認ください。\n 
+UID:dc1dab2ae9cef47985dfa4564c96bf1c552518e62c2e782ef52fdcc8a14b603a
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -51,11 +83,27 @@ UID:dfc76a13a1df60cc699564379345c2ab0416834a4fdc54d31ed655276c0dccf0
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260116T160000
+DTEND;TZID=Asia/Tokyo:20260116T210000
+SUMMARY:②探偵小石は恋しない
+DESCRIPTION:【制作会社名】\n株式会社スカーレット\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\nスタジオ：原宿サウンドスタジオ\n〒151-0051\n東京都渋谷区千駄ヶ谷3-4-2　エテルノ原宿\n\n平日は2Fで受付をしていただきますようお願いいたします。\n \n土日祝は1Fに直接お入りいただき、目の前のモニターでスタジオをご確認ください。\n 
+UID:30fc8bfc991730832a9f3ddeccae2376786c3477f83eab7e952d34d343e6fe64
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260121T183000
 DTEND;TZID=Asia/Tokyo:20260121T200000
 SUMMARY:①全力回避フラグちゃん!
 DESCRIPTION:【スタジオ名】\nplott本社6F（予定）\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■男性キャラの出演が少なくなるとのことで、11月以降は月1の収録となります！\n \n■10月以降、スタジオが変更になりますのでお気を付けくださいませ！\n \n（スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F）\n 
 UID:aa14423ad86fea65fdf5bde84382db2678618406e473d691e8b7fea2f12ae8a3
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260123T160000
+DTEND;TZID=Asia/Tokyo:20260123T210000
+SUMMARY:②探偵小石は恋しない
+DESCRIPTION:【制作会社名】\n株式会社スカーレット\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\nスタジオ：原宿サウンドスタジオ\n〒151-0051\n東京都渋谷区千駄ヶ谷3-4-2　エテルノ原宿\n\n平日は2Fで受付をしていただきますようお願いいたします。\n \n土日祝は1Fに直接お入りいただき、目の前のモニターでスタジオをご確認ください。\n 
+UID:1915864c5ad6b33be3b00ababc2f02d5656fe045e49a761636186f02b256ef58
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -72,22 +120,6 @@ DTEND;TZID=Asia/Tokyo:20260211T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
 UID:5cc6a67fc3111fc588f4e2029ebdf2da52bcb072aae9f8d38c712f3368b6287f
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260216T000000
-DTEND;TZID=Asia/Tokyo:20260216T235900
-SUMMARY:②音楽朗読劇「成人式」RH
-DESCRIPTION:【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n衣装の件のご相談になります。\n現在、衣装担当より「リハーサル日にフィッティング、その後お直しを行い、本番当日に着用」という想定で準備を進めております。\n \nつきましては、事前にフィッティング日を設け、チェックを希望かをご相談させてください。\n \n- 現在の想定： リハ日にフィッティング・お直し → 本番当日着用\n 
-UID:dd15e93f675f76dc840f389c78bf587644ced9d4593f0a5c17662d31a391ae53
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260218T000000
-DTEND;TZID=Asia/Tokyo:20260218T235900
-SUMMARY:②音楽朗読劇「成人式」RH
-DESCRIPTION:【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n衣装の件のご相談になります。\n現在、衣装担当より「リハーサル日にフィッティング、その後お直しを行い、本番当日に着用」という想定で準備を進めております。\n \nつきましては、事前にフィッティング日を設け、チェックを希望かをご相談させてください。\n \n- 現在の想定： リハ日にフィッティング・お直し → 本番当日着用\n 
-UID:76e46bcb3df42696c4b6428e4bda88717710e859713a6c21a7bcd08189aad51f
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
