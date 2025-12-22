@@ -29,17 +29,17 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20251223T000000
 DTEND;TZID=Asia/Tokyo:20251223T235900
-SUMMARY:テープAD「すだちの魔王城」
-DESCRIPTION:【メモ】\n・ビットグルーヴ制作「すだちの魔王城」役：ムラビト（担当：山本）\n 
-UID:e974196572ea34cc199ede9595488c3660268482396fb4d5d8850530b2ffbe6a
+SUMMARY:テープAD「すだちの魔王城」「獣王武神ダンデヴァイン」
+DESCRIPTION:【メモ】\n・ビットグルーヴ制作「すだちの魔王城」役：ムラビト（担当：山本）\n \n・グロービジョン制作「獣王武神ダンデヴァイン」役：静寂戟覇(しじまげきは)(担当：菊池)\n 
+UID:ce3ea44f2702799193f0ef2931cc36e3227c3187f9c80727c14e2e26630b98ae
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251224T000000
-DTEND;TZID=Asia/Tokyo:20251224T235900
-SUMMARY:②探偵小石は恋しない
+DTSTART;TZID=Asia/Tokyo:20251224T140000
+DTEND;TZID=Asia/Tokyo:20251224T183000
+SUMMARY:①探偵小石は恋しない
 DESCRIPTION:【制作会社名】\n株式会社スカーレット\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\nスタジオ：原宿サウンドスタジオ\n〒151-0051\n東京都渋谷区千駄ヶ谷3-4-2　エテルノ原宿\n\n平日は2Fで受付をしていただきますようお願いいたします。\n \n土日祝は1Fに直接お入りいただき、目の前のモニターでスタジオをご確認ください。\n 
-UID:374d80e67ec674511cd3abecacbc21e4c8b860de4e8283cefba3a30b8cad30d0
+UID:22bf97d15df58137fbccf5e243c7aa8f67ccbdbc27b2b1a4e020c3d2d183a5b3
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -59,19 +59,19 @@ UID:b94f998f6b7abdd71d6a908d103bf298d263f4da82c72f208dd4e1b1be12cf05
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251227T000000
-DTEND;TZID=Asia/Tokyo:20251227T235900
-SUMMARY:②探偵小石は恋しない
+DTSTART;TZID=Asia/Tokyo:20251227T140000
+DTEND;TZID=Asia/Tokyo:20251227T190000
+SUMMARY:①探偵小石は恋しない
 DESCRIPTION:【制作会社名】\n株式会社スカーレット\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\nスタジオ：原宿サウンドスタジオ\n〒151-0051\n東京都渋谷区千駄ヶ谷3-4-2　エテルノ原宿\n\n平日は2Fで受付をしていただきますようお願いいたします。\n \n土日祝は1Fに直接お入りいただき、目の前のモニターでスタジオをご確認ください。\n 
-UID:1f094fbd1e637eeea04584f6bd34de9bb1c236c13fedb7bfbdd60a8cd059f2a7
+UID:33acefd0cbe5a0e2d9ba860e0817ab27ff527e9781251f494c0d0086b00dfedd
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260105T000000
-DTEND;TZID=Asia/Tokyo:20260105T235900
-SUMMARY:②探偵小石は恋しない
+DTSTART;TZID=Asia/Tokyo:20260105T100000
+DTEND;TZID=Asia/Tokyo:20260105T150000
+SUMMARY:①探偵小石は恋しない
 DESCRIPTION:【制作会社名】\n株式会社スカーレット\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\nスタジオ：原宿サウンドスタジオ\n〒151-0051\n東京都渋谷区千駄ヶ谷3-4-2　エテルノ原宿\n\n平日は2Fで受付をしていただきますようお願いいたします。\n \n土日祝は1Fに直接お入りいただき、目の前のモニターでスタジオをご確認ください。\n 
-UID:dc1dab2ae9cef47985dfa4564c96bf1c552518e62c2e782ef52fdcc8a14b603a
+UID:37055ec2da40dd236c87cc87a2faaa1d5c766e62b89adea34245a1b415cdd2d8
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -85,9 +85,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260116T160000
 DTEND;TZID=Asia/Tokyo:20260116T210000
-SUMMARY:②探偵小石は恋しない
+SUMMARY:①探偵小石は恋しない
 DESCRIPTION:【制作会社名】\n株式会社スカーレット\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\nスタジオ：原宿サウンドスタジオ\n〒151-0051\n東京都渋谷区千駄ヶ谷3-4-2　エテルノ原宿\n\n平日は2Fで受付をしていただきますようお願いいたします。\n \n土日祝は1Fに直接お入りいただき、目の前のモニターでスタジオをご確認ください。\n 
-UID:30fc8bfc991730832a9f3ddeccae2376786c3477f83eab7e952d34d343e6fe64
+UID:bf4c347aa6d97fff4ab441d96686a26bf195226982c37f87cd854a9790852d2a
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -101,9 +101,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260123T160000
 DTEND;TZID=Asia/Tokyo:20260123T210000
-SUMMARY:②探偵小石は恋しない
+SUMMARY:①探偵小石は恋しない
 DESCRIPTION:【制作会社名】\n株式会社スカーレット\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\nスタジオ：原宿サウンドスタジオ\n〒151-0051\n東京都渋谷区千駄ヶ谷3-4-2　エテルノ原宿\n\n平日は2Fで受付をしていただきますようお願いいたします。\n \n土日祝は1Fに直接お入りいただき、目の前のモニターでスタジオをご確認ください。\n 
-UID:1915864c5ad6b33be3b00ababc2f02d5656fe045e49a761636186f02b256ef58
+UID:21dac8b1dba74ca067c49c858a972698f57067d057032d8cd0e9b71233e7eeeb
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
