@@ -27,10 +27,10 @@ UID:6f122266adb97b5fb09aa82072decd570d29fa0ebfd26e12feea256eaf7a5823
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20251223T000000
-DTEND;TZID=Asia/Tokyo:20251223T235900
+DTSTART;TZID=Asia/Tokyo:20251223T122000
+DTEND;TZID=Asia/Tokyo:20251223T124500
 SUMMARY:テープAD「すだちの魔王城」「獣王武神ダンデヴァイン」
-DESCRIPTION:【メモ】\n・ビットグルーヴ制作「すだちの魔王城」役：ムラビト（担当：山本）\n \n・グロービジョン制作「獣王武神ダンデヴァイン」役：静寂戟覇(しじまげきは)(担当：菊池)\n 
+DESCRIPTION:【スタジオ名】\n松田ビル地下スタジオ\n\n【メモ】\n・ビットグルーヴ制作「すだちの魔王城」役：ムラビト（担当：山本）\n \n・グロービジョン制作「獣王武神ダンデヴァイン」役：静寂戟覇(しじまげきは)(担当：菊池)\n 
 UID:ce3ea44f2702799193f0ef2931cc36e3227c3187f9c80727c14e2e26630b98ae
 LOCATION:未指定
 END:VEVENT
