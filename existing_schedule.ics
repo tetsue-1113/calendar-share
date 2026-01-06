@@ -2,4 +2,308 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Your Organization//Your Calendar 1.0//EN
 CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260105T100000
+DTEND;TZID=Asia/Tokyo:20260105T150000
+SUMMARY:①探偵小石は恋しない
+DESCRIPTION:【スタジオ名】\nスカーレット原宿サウンドスタジオ\n\n【制作会社名】\n株式会社スカーレット\n\n【ディレクター名】\n森本\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\nスタジオ：原宿サウンドスタジオ\n〒151-0051\n東京都渋谷区千駄ヶ谷3-4-2　エテルノ原宿\n\n平日は2Fで受付をしていただきますようお願いいたします。\n \n土日祝は1Fに直接お入りいただき、目の前のモニターでスタジオをご確認ください。\n \n\n■日程\n12/24(水) 14時～18時30分　1回目\n12/27(土) 14時～19時　　　 2回目\n1/5(月)　 10時～15時　　　 3回目\n1/16(金)　16時～21時　　　 4回目\n1/23(金)　16時～21時　　　 5回目
+UID:37055ec2da40dd236c87cc87a2faaa1d5c766e62b89adea34245a1b415cdd2d8
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260107T193000
+DTEND;TZID=Asia/Tokyo:20260107T200000
+SUMMARY:テープAD「魔女と猟犬」「ベイブレード4期」
+DESCRIPTION:【スタジオ名】\n松田ビル地下スタジオ\n\n【メモ】\n・ビットグルーヴ制作「魔女と猟犬」役：ロロ（担当：山本）\n \n・ハーフHP制作「ベイブレード4期」役：ディーマ・ディル・カンズ（担当：山本）\n 
+UID:16488f59a62174f022bbefb68355bfbabb1a0e89c87699e8ce3c8ba0d44848cf
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260114T130000
+DTEND;TZID=Asia/Tokyo:20260114T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:dfc76a13a1df60cc699564379345c2ab0416834a4fdc54d31ed655276c0dccf0
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260115T000000
+DTEND;TZID=Asia/Tokyo:20260115T235900
+SUMMARY:【テープAD】「ユニバーサル・モンスターズ」
+DESCRIPTION:【メモ】\n・サウンドビー制作「ユニバーサル・モンスターズ」役：クオイル（担当：堤）\n 
+UID:1102d8a8f3e388a9420c5f3edf17ed5b56c4cecd54c61223484993952d6bdda3
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260115T200000
+DTEND;TZID=Asia/Tokyo:20260115T230000
+SUMMARY:①今日ログ
+DESCRIPTION:【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕
+UID:574c8f09e11698c3e58a4bf19b9793b50098ed3c48d244e852d4cc64604325f9
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260116T160000
+DTEND;TZID=Asia/Tokyo:20260116T210000
+SUMMARY:①探偵小石は恋しない
+DESCRIPTION:【スタジオ名】\nスカーレット原宿サウンドスタジオ\n\n【制作会社名】\n株式会社スカーレット\n\n【ディレクター名】\n森本\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\nスタジオ：原宿サウンドスタジオ\n〒151-0051\n東京都渋谷区千駄ヶ谷3-4-2　エテルノ原宿\n\n平日は2Fで受付をしていただきますようお願いいたします。\n \n土日祝は1Fに直接お入りいただき、目の前のモニターでスタジオをご確認ください。\n \n\n■日程\n12/24(水) 14時～18時30分　1回目\n12/27(土) 14時～19時　　　 2回目\n1/5(月)　 10時～15時　　　 3回目\n1/16(金)　16時～21時　　　 4回目\n1/23(金)　16時～21時　　　 5回目
+UID:bf4c347aa6d97fff4ab441d96686a26bf195226982c37f87cd854a9790852d2a
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260119T160000
+DTEND;TZID=Asia/Tokyo:20260119T190000
+SUMMARY:①【Rec】ParadoxLive　"REVENGERS"勝利アルバム用Rec　※2曲
+DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子
+UID:b0a0bc24e253aa3f376a8d211ff7449a9c57c3025ab28c2d496b762363131e52
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260120T130000
+DTEND;TZID=Asia/Tokyo:20260120T150000
+SUMMARY:①ParadoxLive　"REVENGERS"合同ドラマ　※どちらか
+DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子
+UID:bb2305b8b57d4d245abc35366984e106716bbc5422506feb45e1a7c8c77d336b
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260121T183000
+DTEND;TZID=Asia/Tokyo:20260121T200000
+SUMMARY:①全力回避フラグちゃん!
+DESCRIPTION:【スタジオ名】\nplott本社6F（予定）\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■男性キャラの出演が少なくなるとのことで、11月以降は月1の収録となります！\n \n■10月以降、スタジオが変更になりますのでお気を付けくださいませ！\n \n（スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F）\n 
+UID:aa14423ad86fea65fdf5bde84382db2678618406e473d691e8b7fea2f12ae8a3
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260123T160000
+DTEND;TZID=Asia/Tokyo:20260123T210000
+SUMMARY:①探偵小石は恋しない
+DESCRIPTION:【スタジオ名】\nスカーレット原宿サウンドスタジオ\n\n【制作会社名】\n株式会社スカーレット\n\n【ディレクター名】\n森本\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\nスタジオ：原宿サウンドスタジオ\n〒151-0051\n東京都渋谷区千駄ヶ谷3-4-2　エテルノ原宿\n\n平日は2Fで受付をしていただきますようお願いいたします。\n \n土日祝は1Fに直接お入りいただき、目の前のモニターでスタジオをご確認ください。\n \n\n■日程\n12/24(水) 14時～18時30分　1回目\n12/27(土) 14時～19時　　　 2回目\n1/5(月)　 10時～15時　　　 3回目\n1/16(金)　16時～21時　　　 4回目\n1/23(金)　16時～21時　　　 5回目
+UID:21dac8b1dba74ca067c49c858a972698f57067d057032d8cd0e9b71233e7eeeb
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260126T160000
+DTEND;TZID=Asia/Tokyo:20260126T190000
+SUMMARY:①【Rec】ParadoxLive　"REVENGERS"勝利アルバム用Rec　※2曲
+DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子
+UID:2d68e006414dbe7a858283b7ff9f55dc9f6fbb12dc6d60cd927b6320fb33f5c8
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260127T000000
+DTEND;TZID=Asia/Tokyo:20260127T235900
+SUMMARY:③探偵小石は恋しない　追加日程
+DESCRIPTION:【制作会社名】\n株式会社スカーレット\n\n【マネージャー名】\n堤　涼子
+UID:ca42ee08620f6c3756f3e2758dbfd2512f00c8df3313c791d9321e5dcd558f8a
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260127T130000
+DTEND;TZID=Asia/Tokyo:20260127T150000
+SUMMARY:①ParadoxLive　"REVENGERS"合同ドラマ　※どちらか
+DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子
+UID:5b8f16262c95d36ab3ecda415fe67c86fe38acb3de7772a846e5e9d7c9f4916f
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260202T160000
+DTEND;TZID=Asia/Tokyo:20260202T190000
+SUMMARY:①【Rec】ParadoxLive　"REVENGERS"勝利アルバム用Rec　※2曲
+DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子
+UID:6fb3a7daa5e3a52b90b88ca89b51893cf6465707d0f0dc56a0c6afdaa3a6450a
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260204T130000
+DTEND;TZID=Asia/Tokyo:20260204T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:fe2b8c9b6c9d180d238ef7f13bdeb2c905c973da930acfc2612ca6c05a1955f8
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260207T000000
+DTEND;TZID=Asia/Tokyo:20260207T235900
+SUMMARY:①【スタジオAD】魔女と猟犬
+DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【マネージャー名】\n山本 愛実
+UID:5246c8e0783ca5537a0dde57cd72a9c9cb81b0923d51453f60b8764efccf3af3
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260211T130000
+DTEND;TZID=Asia/Tokyo:20260211T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:5cc6a67fc3111fc588f4e2029ebdf2da52bcb072aae9f8d38c712f3368b6287f
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260214T000000
+DTEND;TZID=Asia/Tokyo:20260214T235900
+SUMMARY:①【スタジオAD】魔女と猟犬
+DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【マネージャー名】\n山本 愛実
+UID:3d076ecef56cc96f9e93df6cabd3e30b6bd3273d81335d36cccdabd0d5b4a3bc
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260218T130000
+DTEND;TZID=Asia/Tokyo:20260218T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:8301915510bdf63d7d5edf3916f34689ddad6afd4dc0d0b248da76dd34bafe9d
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260218T183000
+DTEND;TZID=Asia/Tokyo:20260218T200000
+SUMMARY:①全力回避フラグちゃん!
+DESCRIPTION:【スタジオ名】\nplott本社6F（予定）\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■男性キャラの出演が少なくなるとのことで、11月以降は月1の収録となります！\n \n■10月以降、スタジオが変更になりますのでお気を付けくださいませ！\n \n（スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F）\n 
+UID:4f2f30e7986e2f7969329cd4f0c9ce8780a15132b59f4d9e7cc45563cf7eda70
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260219T000000
+DTEND;TZID=Asia/Tokyo:20260219T235900
+SUMMARY:②音楽朗読劇「成人式」RH
+DESCRIPTION:【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n衣装の件のご相談になります。\n現在、衣装担当より「リハーサル日にフィッティング、その後お直しを行い、本番当日に着用」という想定で準備を進めております。\n \nつきましては、事前にフィッティング日を設け、チェックを希望かをご相談させてください。\n \n- 現在の想定： リハ日にフィッティング・お直し → 本番当日着用\n 
+UID:52112e9b49262121a08e7ef16bdc8c5ff9e099b33bfc052568d7c38289b0f7ca
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260221T000000
+DTEND;TZID=Asia/Tokyo:20260221T235900
+SUMMARY:①【スタジオAD】魔女と猟犬
+DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【マネージャー名】\n山本 愛実
+UID:ac1d78cb6268934f01779ba1199d34942c9ffbd0ecb8c1b70e69597c7fc29cad
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260223T000000
+DTEND;TZID=Asia/Tokyo:20260223T235900
+SUMMARY:①棗いつき朗読歌唱劇　※やる
+DESCRIPTION:【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n2. 公演詳細\n公演日程：2026年2月23日（月）\n会場：飛行船シアター（〒110-0015 東京都台東区東上野４丁目２４−１１）\n \n公演回数：昼夜二部制・計2回公演\n出演者：計6名（棗いつきを含む）\nhttps://docs.google.com/document/d/1csfgrcSOLizy0xZ_MXpD9V8k3S5sMI40GsISE1g\n sRsc/edit?usp=sharing
+UID:8e86fc1e02e0332a92a4d46c5792b1f04dc6ecff9f499bbd19035b622f1632da
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260225T130000
+DTEND;TZID=Asia/Tokyo:20260225T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:9ceffc0bf099d9935cf77e9792251c9c97c4bbe316dcce6e292169f733563dd2
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260302T000000
+DTEND;TZID=Asia/Tokyo:20260302T235900
+SUMMARY:④すだちの魔王城
+DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山本 愛実
+UID:27732e8c1991285eb7cf69111a7eaa6e84e10b5099dde9ab13e9dce3a2333b8d
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260304T130000
+DTEND;TZID=Asia/Tokyo:20260304T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:23b5269ddb6d64d1ddcdad9c7fe61a74f658184f07f927202a4fc1d49d734d9d
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260306T000000
+DTEND;TZID=Asia/Tokyo:20260306T235900
+SUMMARY:②すだちの魔王城
+DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山本 愛実
+UID:b58e5fe6562dd507a2fc7205769d0146e9f21aa7be0f9f31caf67d36c10edda8
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260309T000000
+DTEND;TZID=Asia/Tokyo:20260309T235900
+SUMMARY:④すだちの魔王城
+DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山本 愛実
+UID:b39c38f7ab88164882332f817586606c10d06bdd1090f1fa6ed5c26473a48321
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260311T130000
+DTEND;TZID=Asia/Tokyo:20260311T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:ef980e2bdc43a2106d4e36388f9102e016309d8e9c9ed4960bb8275ea72be57e
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260313T000000
+DTEND;TZID=Asia/Tokyo:20260313T235900
+SUMMARY:②すだちの魔王城
+DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山本 愛実
+UID:0839aaf446cf708f9f4b60a96e94e45d026e096d822b33cd7469c36bc3d6e87b
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260316T000000
+DTEND;TZID=Asia/Tokyo:20260316T235900
+SUMMARY:④すだちの魔王城
+DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山本 愛実
+UID:14f679f41ce932bff8b332951f73f3b6eeae33ce959d3156ce5c70e393715b23
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260318T130000
+DTEND;TZID=Asia/Tokyo:20260318T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:862bba144f37eda759d5850147f2db271f0c4390b3ecf57bf821bd349e0067f2
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260318T183000
+DTEND;TZID=Asia/Tokyo:20260318T200000
+SUMMARY:①全力回避フラグちゃん!
+DESCRIPTION:【スタジオ名】\nplott本社6F（予定）\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■男性キャラの出演が少なくなるとのことで、11月以降は月1の収録となります！\n \n■10月以降、スタジオが変更になりますのでお気を付けくださいませ！\n \n（スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F）\n 
+UID:7c079daf8388407a9a6b2da084d280d3f725c579caa1ca5d91832bd557aa0a69
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260320T000000
+DTEND;TZID=Asia/Tokyo:20260320T235900
+SUMMARY:②すだちの魔王城
+DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山本 愛実
+UID:e809c7715f60538d7b4786fa90bddace39a91751ddfeda73d8e50859ec9f1876
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260323T000000
+DTEND;TZID=Asia/Tokyo:20260323T235900
+SUMMARY:④すだちの魔王城
+DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山本 愛実
+UID:2985476694a6ab8451e51f16e7eccc13f0e67b5ece371319075c100db7b5aed4
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260325T130000
+DTEND;TZID=Asia/Tokyo:20260325T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:cc8b3567951c964d17b7b960e22c74c4be5d1cebb247711fba0546c66c50e87e
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260327T000000
+DTEND;TZID=Asia/Tokyo:20260327T235900
+SUMMARY:②すだちの魔王城
+DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山本 愛実
+UID:2249f4ad1cf917888885bcbae1be8bc414046ea08d5a69619543afdc2a074a71
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260330T000000
+DTEND;TZID=Asia/Tokyo:20260330T235900
+SUMMARY:④すだちの魔王城
+DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山本 愛実
+UID:57d4d9f76bfeeef4f733084dfe8550f2298d758613e35122adb223c9c6e065e6
+LOCATION:未指定
+END:VEVENT
 END:VCALENDAR
