@@ -19,6 +19,14 @@ UID:16488f59a62174f022bbefb68355bfbabb1a0e89c87699e8ce3c8ba0d44848cf
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260113T161500
+DTEND;TZID=Asia/Tokyo:20260113T210000
+SUMMARY:①うちの弟どもがすみません
+DESCRIPTION:【スタジオ名】\nスタジオシエラ Bst【暗証番号「8171」】※念のため地図は添付にてお送りいたします\n \n\n【ディレクター名】\n本山 哲\n\n【マネージャー名】\n加茂下 永\n\n【メモ】\n〇場所：スタジオシエラ Bst　暗証番号「8171」\n東京都新宿区信濃町35-5 信濃町煉瓦館B1\nhttps://studiosierra.net/\n\n・出番あり決定\n・香盤表は添付にてお送りいたします\n・映像は下記にてお送りいたします\nhttps://drive.google.com/file/d/1oMApejU9dTRN8WTmuyf9ji1QIKzEfeRB/view?usp=\n drive_link
+UID:a72dde728301e99f37eaa2bb23076aa0827123cd0b8fa09d211d1e89ea698002
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260114T130000
 DTEND;TZID=Asia/Tokyo:20260114T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
@@ -29,9 +37,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260115T000000
 DTEND;TZID=Asia/Tokyo:20260115T235900
-SUMMARY:【テープAD】「ユニバーサル・モンスターズ」
-DESCRIPTION:【メモ】\n・サウンドビー制作「ユニバーサル・モンスターズ」役：クオイル（担当：堤）\n 
-UID:1102d8a8f3e388a9420c5f3edf17ed5b56c4cecd54c61223484993952d6bdda3
+SUMMARY:【テープAD】「ユニバーサル・モンスターズ」「ワンオペ解雇」「ぼくの好きな人が好きな人」
+DESCRIPTION:【メモ】\n・サウンドビー制作「ユニバーサル・モンスターズ」役：クオイル（担当：堤）\n \n・INSPIONエッジ制作「え、社内システム全てワンオペしている私を解雇ですか？」役：鈴木健太（担当：加茂下）\n \n・ビットグルーヴ制作「ぼくの好きな人が好きな人」役：神永 夕（担当：山本）\n 
+UID:2439db687214cae08eab314f704021ffe9f5a536efdcdee9e85464af709f98de
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -64,6 +72,14 @@ DTEND;TZID=Asia/Tokyo:20260120T150000
 SUMMARY:①ParadoxLive　"REVENGERS"合同ドラマ　※どちらか
 DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子
 UID:bb2305b8b57d4d245abc35366984e106716bbc5422506feb45e1a7c8c77d336b
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260120T160000
+DTEND;TZID=Asia/Tokyo:20260120T210000
+SUMMARY:②うちの弟どもがすみません
+DESCRIPTION:【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
+UID:1ce18a31f202ed08efdd2312ff620c9ccf69da525602ddd9f11269cdb87134f5
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -107,11 +123,27 @@ UID:5b8f16262c95d36ab3ecda415fe67c86fe38acb3de7772a846e5e9d7c9f4916f
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260127T160000
+DTEND;TZID=Asia/Tokyo:20260127T210000
+SUMMARY:②うちの弟どもがすみません
+DESCRIPTION:【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
+UID:4cfde06c5d4f27674cf998b7b1b09f7176f6b88dd92255ec9bdadc21f6ccf235
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260202T160000
 DTEND;TZID=Asia/Tokyo:20260202T190000
 SUMMARY:①【Rec】ParadoxLive　"REVENGERS"勝利アルバム用Rec　※2曲
 DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子
 UID:6fb3a7daa5e3a52b90b88ca89b51893cf6465707d0f0dc56a0c6afdaa3a6450a
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260203T160000
+DTEND;TZID=Asia/Tokyo:20260203T210000
+SUMMARY:②うちの弟どもがすみません
+DESCRIPTION:【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
+UID:e0add89b0263fa93392ba160833cbd2ab2a8d45cd1e72242d1d726d21824811d
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -131,6 +163,14 @@ UID:5246c8e0783ca5537a0dde57cd72a9c9cb81b0923d51453f60b8764efccf3af3
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260210T160000
+DTEND;TZID=Asia/Tokyo:20260210T210000
+SUMMARY:②うちの弟どもがすみません
+DESCRIPTION:【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
+UID:b357095d2ec04dd2a7db4baae7995eab283b2dd13ab07443684ea0960a9e9cdb
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260211T130000
 DTEND;TZID=Asia/Tokyo:20260211T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
@@ -144,6 +184,14 @@ DTEND;TZID=Asia/Tokyo:20260214T235900
 SUMMARY:①【スタジオAD】魔女と猟犬
 DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【マネージャー名】\n山本 愛実
 UID:3d076ecef56cc96f9e93df6cabd3e30b6bd3273d81335d36cccdabd0d5b4a3bc
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260217T160000
+DTEND;TZID=Asia/Tokyo:20260217T210000
+SUMMARY:②うちの弟どもがすみません
+DESCRIPTION:【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
+UID:06a716b3acd966924fb3245b0c10529c92169186133bf748e7671ff8a2f373bd
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -187,6 +235,14 @@ UID:8e86fc1e02e0332a92a4d46c5792b1f04dc6ecff9f499bbd19035b622f1632da
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260224T160000
+DTEND;TZID=Asia/Tokyo:20260224T210000
+SUMMARY:②うちの弟どもがすみません
+DESCRIPTION:【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
+UID:aab10f017362674a10d8987f307e6739279015692326e22093665fe15d29fa57
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260225T130000
 DTEND;TZID=Asia/Tokyo:20260225T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
@@ -200,6 +256,14 @@ DTEND;TZID=Asia/Tokyo:20260302T235900
 SUMMARY:④すだちの魔王城
 DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山本 愛実
 UID:27732e8c1991285eb7cf69111a7eaa6e84e10b5099dde9ab13e9dce3a2333b8d
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260303T160000
+DTEND;TZID=Asia/Tokyo:20260303T210000
+SUMMARY:②うちの弟どもがすみません
+DESCRIPTION:【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
+UID:9d1c9c02acd67b9a657c446f676daf94a0a65511573268a1abf9263755595f54
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -227,6 +291,14 @@ UID:b39c38f7ab88164882332f817586606c10d06bdd1090f1fa6ed5c26473a48321
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260310T160000
+DTEND;TZID=Asia/Tokyo:20260310T210000
+SUMMARY:②うちの弟どもがすみません
+DESCRIPTION:【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
+UID:e889bb4e500f7402fc7725f063157fa1afadbd9605b13ab1129acaa43a22cbe3
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260311T130000
 DTEND;TZID=Asia/Tokyo:20260311T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
@@ -248,6 +320,14 @@ DTEND;TZID=Asia/Tokyo:20260316T235900
 SUMMARY:④すだちの魔王城
 DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山本 愛実
 UID:14f679f41ce932bff8b332951f73f3b6eeae33ce959d3156ce5c70e393715b23
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260317T160000
+DTEND;TZID=Asia/Tokyo:20260317T210000
+SUMMARY:②うちの弟どもがすみません
+DESCRIPTION:【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
+UID:cef71777b9e89b4fb1c554e643c5e87112c80006587b54bdd3bcb4cdb0f9215c
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -283,6 +363,14 @@ UID:2985476694a6ab8451e51f16e7eccc13f0e67b5ece371319075c100db7b5aed4
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260324T160000
+DTEND;TZID=Asia/Tokyo:20260324T210000
+SUMMARY:②うちの弟どもがすみません
+DESCRIPTION:【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
+UID:42f19ed75f7a12409abcb56617d6b20a3fd8714760ea48ab6abf532b9a86597f
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260325T130000
 DTEND;TZID=Asia/Tokyo:20260325T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
@@ -304,6 +392,14 @@ DTEND;TZID=Asia/Tokyo:20260330T235900
 SUMMARY:④すだちの魔王城
 DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山本 愛実
 UID:57d4d9f76bfeeef4f733084dfe8550f2298d758613e35122adb223c9c6e065e6
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260331T160000
+DTEND;TZID=Asia/Tokyo:20260331T210000
+SUMMARY:②うちの弟どもがすみません
+DESCRIPTION:【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
+UID:4203c74cc943f6132f8b20a5acbe9358ee607ea68b176460d1e3be20a5f0ae96
 LOCATION:未指定
 END:VEVENT
 END:VCALENDAR
