@@ -29,16 +29,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260114T130000
 DTEND;TZID=Asia/Tokyo:20260114T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:dfc76a13a1df60cc699564379345c2ab0416834a4fdc54d31ed655276c0dccf0
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n■公式用音声収録、写真撮影入ります。\n■台本は添付をご確認いただけますと幸いです。
+UID:a6b426fe2b9007f0db9e2caaa2391241e25442afdd740ce268a0ae81096b0788
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260115T000000
-DTEND;TZID=Asia/Tokyo:20260115T235900
+DTSTART;TZID=Asia/Tokyo:20260115T181500
+DTEND;TZID=Asia/Tokyo:20260115T185500
 SUMMARY:【テープAD】「ユニバーサル・モンスターズ」「ワンオペ解雇」「ぼくの好きな人が好きな人」
-DESCRIPTION:【メモ】\n・サウンドビー制作「ユニバーサル・モンスターズ」役：クオイル（担当：堤）\n \n・INSPIONエッジ制作「え、社内システム全てワンオペしている私を解雇ですか？」役：鈴木健太（担当：加茂下）\n \n・ビットグルーヴ制作「ぼくの好きな人が好きな人」役：神永 夕（担当：山本）\n 
+DESCRIPTION:【スタジオ名】\n松田ビル地下スタジオ\n\n【メモ】\n・サウンドビー制作「ユニバーサル・モンスターズ」役：クオイル（担当：堤）\n \n・INSPIONエッジ制作「え、社内システム全てワンオペしている私を解雇ですか？」役：鈴木健太（担当：加茂下）\n \n・ビットグルーヴ制作「ぼくの好きな人が好きな人」役：神永 夕（担当：山本）\n 
 UID:2439db687214cae08eab314f704021ffe9f5a536efdcdee9e85464af709f98de
 LOCATION:未指定
 END:VEVENT
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260115T200000
 DTEND;TZID=Asia/Tokyo:20260115T230000
 SUMMARY:①今日ログ
-DESCRIPTION:【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕
+DESCRIPTION:【スタジオ名】\nマリン・エンタテインメント4F会議室\n\n【制作会社名】\n(株)マリン･エンタテインメント\n\n【ディレクター名】\nご担当：西川路さま\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n■遅くなりまして申し訳ございません！スタジオ地図は添付よりご確認をお願いいたします\n \n\n※未確認だったため再送します！！
 UID:574c8f09e11698c3e58a4bf19b9793b50098ed3c48d244e852d4cc64604325f9
 LOCATION:未指定
 END:VEVENT
@@ -59,27 +59,11 @@ UID:bf4c347aa6d97fff4ab441d96686a26bf195226982c37f87cd854a9790852d2a
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260119T160000
-DTEND;TZID=Asia/Tokyo:20260119T190000
-SUMMARY:①【Rec】ParadoxLive　"REVENGERS"勝利アルバム用Rec　※2曲
-DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子
-UID:b0a0bc24e253aa3f376a8d211ff7449a9c57c3025ab28c2d496b762363131e52
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260120T130000
-DTEND;TZID=Asia/Tokyo:20260120T150000
-SUMMARY:①ParadoxLive　"REVENGERS"合同ドラマ　※どちらか
-DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子
-UID:bb2305b8b57d4d245abc35366984e106716bbc5422506feb45e1a7c8c77d336b
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260120T160000
 DTEND;TZID=Asia/Tokyo:20260120T210000
-SUMMARY:②うちの弟どもがすみません
-DESCRIPTION:【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
-UID:1ce18a31f202ed08efdd2312ff620c9ccf69da525602ddd9f11269cdb87134f5
+SUMMARY:うちの弟どもがすみません
+DESCRIPTION:【マネージャー名】\n加茂下 永
+UID:e720a67ad4773c0c63ea46a3fb96850e9bae7b16e5c002980e64997cf8ac84e6
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -102,24 +86,16 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260126T160000
 DTEND;TZID=Asia/Tokyo:20260126T190000
 SUMMARY:①【Rec】ParadoxLive　"REVENGERS"勝利アルバム用Rec　※2曲
-DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子
+DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n※1／26で2曲まとめてお願いすることになったため、1／19、2／2はスケジュールばらしでお願い致します。\n \n\n・4ユニット合同曲「REVENGERS」\n・VISTYユニット曲「Stay Right Here（仮）」\nの２曲をお願い致します。
 UID:2d68e006414dbe7a858283b7ff9f55dc9f6fbb12dc6d60cd927b6320fb33f5c8
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260127T000000
-DTEND;TZID=Asia/Tokyo:20260127T235900
-SUMMARY:③探偵小石は恋しない　追加日程
-DESCRIPTION:【制作会社名】\n株式会社スカーレット\n\n【マネージャー名】\n堤　涼子
-UID:ca42ee08620f6c3756f3e2758dbfd2512f00c8df3313c791d9321e5dcd558f8a
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260127T130000
 DTEND;TZID=Asia/Tokyo:20260127T150000
-SUMMARY:①ParadoxLive　"REVENGERS"合同ドラマ　※どちらか
-DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子
-UID:5b8f16262c95d36ab3ecda415fe67c86fe38acb3de7772a846e5e9d7c9f4916f
+SUMMARY:①ParadoxLive　"REVENGERS"合同ドラマ
+DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n※1／27でお願いすることになったため、1／20はバラシでお願い致します。\n 
+UID:da5f7ef0778912c53e43231e0267f7c74be0e3e918932c2e41c6e8d03725387f
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -131,11 +107,11 @@ UID:4cfde06c5d4f27674cf998b7b1b09f7176f6b88dd92255ec9bdadc21f6ccf235
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260202T160000
-DTEND;TZID=Asia/Tokyo:20260202T190000
-SUMMARY:①【Rec】ParadoxLive　"REVENGERS"勝利アルバム用Rec　※2曲
-DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子
-UID:6fb3a7daa5e3a52b90b88ca89b51893cf6465707d0f0dc56a0c6afdaa3a6450a
+DTSTART;TZID=Asia/Tokyo:20260131T100000
+DTEND;TZID=Asia/Tokyo:20260131T150000
+SUMMARY:①探偵小石は恋しない
+DESCRIPTION:【スタジオ名】\nスカーレット原宿サウンドスタジオ\n\n【制作会社名】\n株式会社スカーレット\n\n【ディレクター名】\n森本\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n■6回目、追加日程となります。
+UID:10aacf808d48f2533c818872870c647a2422837f3870101359c48b8542a00872
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -214,7 +190,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260219T000000
 DTEND;TZID=Asia/Tokyo:20260219T235900
 SUMMARY:②音楽朗読劇「成人式」RH
-DESCRIPTION:【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n衣装の件のご相談になります。\n現在、衣装担当より「リハーサル日にフィッティング、その後お直しを行い、本番当日に着用」という想定で準備を進めております。\n \nつきましては、事前にフィッティング日を設け、チェックを希望かをご相談させてください。\n \n- 現在の想定： リハ日にフィッティング・お直し → 本番当日着用\n 
+DESCRIPTION:【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n2/19(木)音楽朗読劇「成人式」リハーサル\nhttps://shiba-st.com/studio/601st/\n場所：芝浦スタジオ 601st\nーーーーーーーーーーー\n・本番はピンマイクになります。\n・本公演はイヤモニ環境での公演となります。\nご自身のイヤホンで参加されるか、こちらでご用意させていただくかお伺いできましたら幸いです。\n \n\n衣装の件のご相談になります。\n現在、衣装担当より「リハーサル日にフィッティング、その後お直しを行い、本番当日に着用」という想定で準備を進めております。\n \nつきましては、事前にフィッティング日を設け、チェックを希望かをご相談させてください。\n \n- 現在の想定： リハ日にフィッティング・お直し → 本番当日着用\n 
 UID:52112e9b49262121a08e7ef16bdc8c5ff9e099b33bfc052568d7c38289b0f7ca
 LOCATION:未指定
 END:VEVENT
