@@ -62,16 +62,16 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260120T160000
 DTEND;TZID=Asia/Tokyo:20260120T210000
 SUMMARY:うちの弟どもがすみません
-DESCRIPTION:【マネージャー名】\n加茂下 永
+DESCRIPTION:【マネージャー名】\n加茂下 永\n\n【メモ】\n▼まだ未確認でしたので念のため再送いたします。
 UID:e720a67ad4773c0c63ea46a3fb96850e9bae7b16e5c002980e64997cf8ac84e6
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260121T183000
-DTEND;TZID=Asia/Tokyo:20260121T200000
+DTSTART;TZID=Asia/Tokyo:20260120T183000
+DTEND;TZID=Asia/Tokyo:20260120T200000
 SUMMARY:①全力回避フラグちゃん!
-DESCRIPTION:【スタジオ名】\nplott本社6F（予定）\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■男性キャラの出演が少なくなるとのことで、11月以降は月1の収録となります！\n \n■10月以降、スタジオが変更になりますのでお気を付けくださいませ！\n \n（スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F）\n 
-UID:aa14423ad86fea65fdf5bde84382db2678618406e473d691e8b7fea2f12ae8a3
+DESCRIPTION:【スタジオ名】\nplott本社6F\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■台本はslackより共有いただいておりますので、ご確認くださいませ！\n 
+UID:8523ae5d11b5d627ddd8ca61bd66a23f83fcb59b68eeec4b64fb5abfaf482d3a
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -102,7 +102,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260127T160000
 DTEND;TZID=Asia/Tokyo:20260127T210000
 SUMMARY:②うちの弟どもがすみません
-DESCRIPTION:【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
+DESCRIPTION:【マネージャー名】\n加茂下 永\n\n【メモ】\n■出番ありkeep
 UID:4cfde06c5d4f27674cf998b7b1b09f7176f6b88dd92255ec9bdadc21f6ccf235
 LOCATION:未指定
 END:VEVENT
@@ -123,14 +123,6 @@ UID:e0add89b0263fa93392ba160833cbd2ab2a8d45cd1e72242d1d726d21824811d
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260204T130000
-DTEND;TZID=Asia/Tokyo:20260204T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:fe2b8c9b6c9d180d238ef7f13bdeb2c905c973da930acfc2612ca6c05a1955f8
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260207T000000
 DTEND;TZID=Asia/Tokyo:20260207T235900
 SUMMARY:①【スタジオAD】魔女と猟犬
@@ -144,14 +136,6 @@ DTEND;TZID=Asia/Tokyo:20260210T210000
 SUMMARY:②うちの弟どもがすみません
 DESCRIPTION:【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
 UID:b357095d2ec04dd2a7db4baae7995eab283b2dd13ab07443684ea0960a9e9cdb
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260211T130000
-DTEND;TZID=Asia/Tokyo:20260211T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:5cc6a67fc3111fc588f4e2029ebdf2da52bcb072aae9f8d38c712f3368b6287f
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -173,16 +157,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260218T130000
 DTEND;TZID=Asia/Tokyo:20260218T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:8301915510bdf63d7d5edf3916f34689ddad6afd4dc0d0b248da76dd34bafe9d
+UID:baee260d95b3e769a1551dcaa34b11d95d983afc5a4374079132d6a98a8ce558
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260218T183000
 DTEND;TZID=Asia/Tokyo:20260218T200000
 SUMMARY:①全力回避フラグちゃん!
-DESCRIPTION:【スタジオ名】\nplott本社6F（予定）\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■男性キャラの出演が少なくなるとのことで、11月以降は月1の収録となります！\n \n■10月以降、スタジオが変更になりますのでお気を付けくださいませ！\n \n（スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F）\n 
+DESCRIPTION:【スタジオ名】\nplott本社6F（予定）\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■男性キャラの出演が少なくなるとのことで、11月以降は月1の収録となります！\n \n■10月以降、スタジオが変更になりますのでお気を付けくださいませ！\n \n（スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F）\n 
 UID:4f2f30e7986e2f7969329cd4f0c9ce8780a15132b59f4d9e7cc45563cf7eda70
 LOCATION:未指定
 END:VEVENT
@@ -219,14 +203,6 @@ UID:aab10f017362674a10d8987f307e6739279015692326e22093665fe15d29fa57
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260225T130000
-DTEND;TZID=Asia/Tokyo:20260225T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:9ceffc0bf099d9935cf77e9792251c9c97c4bbe316dcce6e292169f733563dd2
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260302T000000
 DTEND;TZID=Asia/Tokyo:20260302T235900
 SUMMARY:④すだちの魔王城
@@ -240,14 +216,6 @@ DTEND;TZID=Asia/Tokyo:20260303T210000
 SUMMARY:②うちの弟どもがすみません
 DESCRIPTION:【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
 UID:9d1c9c02acd67b9a657c446f676daf94a0a65511573268a1abf9263755595f54
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260304T130000
-DTEND;TZID=Asia/Tokyo:20260304T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:23b5269ddb6d64d1ddcdad9c7fe61a74f658184f07f927202a4fc1d49d734d9d
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -272,14 +240,6 @@ DTEND;TZID=Asia/Tokyo:20260310T210000
 SUMMARY:②うちの弟どもがすみません
 DESCRIPTION:【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
 UID:e889bb4e500f7402fc7725f063157fa1afadbd9605b13ab1129acaa43a22cbe3
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260311T130000
-DTEND;TZID=Asia/Tokyo:20260311T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:ef980e2bdc43a2106d4e36388f9102e016309d8e9c9ed4960bb8275ea72be57e
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -309,16 +269,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260318T130000
 DTEND;TZID=Asia/Tokyo:20260318T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:862bba144f37eda759d5850147f2db271f0c4390b3ecf57bf821bd349e0067f2
+UID:ee94a7c00cdfe6ace3e67e9908d4d5fcc020710f1e7348349690b39bc804e692
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260318T183000
+DTSTART;TZID=Asia/Tokyo:20260318T160000
 DTEND;TZID=Asia/Tokyo:20260318T200000
 SUMMARY:①全力回避フラグちゃん!
-DESCRIPTION:【スタジオ名】\nplott本社6F（予定）\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■男性キャラの出演が少なくなるとのことで、11月以降は月1の収録となります！\n \n■10月以降、スタジオが変更になりますのでお気を付けくださいませ！\n \n（スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F）\n 
+DESCRIPTION:【スタジオ名】\nplott本社6F（予定）\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■男性キャラの出演が少なくなるとのことで、11月以降は月1の収録となります！\n \n■10月以降、スタジオが変更になりますのでお気を付けくださいませ！\n \n（スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F）\n 
 UID:7c079daf8388407a9a6b2da084d280d3f725c579caa1ca5d91832bd557aa0a69
 LOCATION:未指定
 END:VEVENT
@@ -344,14 +304,6 @@ DTEND;TZID=Asia/Tokyo:20260324T210000
 SUMMARY:②うちの弟どもがすみません
 DESCRIPTION:【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
 UID:42f19ed75f7a12409abcb56617d6b20a3fd8714760ea48ab6abf532b9a86597f
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260325T130000
-DTEND;TZID=Asia/Tokyo:20260325T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:cc8b3567951c964d17b7b960e22c74c4be5d1cebb247711fba0546c66c50e87e
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
