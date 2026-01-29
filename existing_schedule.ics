@@ -67,11 +67,11 @@ UID:e720a67ad4773c0c63ea46a3fb96850e9bae7b16e5c002980e64997cf8ac84e6
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260120T183000
-DTEND;TZID=Asia/Tokyo:20260120T200000
+DTSTART;TZID=Asia/Tokyo:20260121T183000
+DTEND;TZID=Asia/Tokyo:20260121T200000
 SUMMARY:①全力回避フラグちゃん!
 DESCRIPTION:【スタジオ名】\nplott本社6F\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■台本はslackより共有いただいておりますので、ご確認くださいませ！\n 
-UID:8523ae5d11b5d627ddd8ca61bd66a23f83fcb59b68eeec4b64fb5abfaf482d3a
+UID:aa14423ad86fea65fdf5bde84382db2678618406e473d691e8b7fea2f12ae8a3
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -86,24 +86,24 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260126T160000
 DTEND;TZID=Asia/Tokyo:20260126T190000
 SUMMARY:①【Rec】ParadoxLive　"REVENGERS"勝利アルバム用Rec　※2曲
-DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n※1／26で2曲まとめてお願いすることになったため、1／19、2／2はスケジュールばらしでお願い致します。\n \n\n・4ユニット合同曲「REVENGERS」\n・VISTYユニット曲「Stay Right Here（仮）」\nの２曲をお願い致します。
+DESCRIPTION:【スタジオ名】\n渋谷NWPスタジオ\n\n【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n・4ユニット合同曲「REVENGERS」\n・VISTYユニット曲「Stay Right Here（仮）」\nの２曲をお願い致します。\n※作家様お立ち会いの関係上、VISTY曲➡合同曲の順番で収録します。\n \n\n◇渋谷NWPスタジオ\nhttps://www.nwp.co.jp/studio\n東京都渋谷区南平台2-12 南平台久保ビルB1F\nJR・東急東横線・井の頭線・渋谷駅 徒歩10分\n井の頭線 神泉駅 徒歩10分
 UID:2d68e006414dbe7a858283b7ff9f55dc9f6fbb12dc6d60cd927b6320fb33f5c8
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260127T130000
+DTSTART;TZID=Asia/Tokyo:20260127T140000
 DTEND;TZID=Asia/Tokyo:20260127T150000
 SUMMARY:①ParadoxLive　"REVENGERS"合同ドラマ
-DESCRIPTION:【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n※1／27でお願いすることになったため、1／20はバラシでお願い致します。\n 
+DESCRIPTION:【スタジオ名】\nC And T本社スタジオ（5st～7st）\n\n【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n◇C And T 本社スタジオ\nhttp://www.candt.info/company/#access\n東京都港区赤坂8丁目5番41号　イースタン青山ビル 2F\n※ご到着されましたら、インターフォンにて「401」でスタッフの方をお呼び出しください。\n 
 UID:da5f7ef0778912c53e43231e0267f7c74be0e3e918932c2e41c6e8d03725387f
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260127T160000
-DTEND;TZID=Asia/Tokyo:20260127T210000
-SUMMARY:②うちの弟どもがすみません
-DESCRIPTION:【マネージャー名】\n加茂下 永\n\n【メモ】\n■出番ありkeep
-UID:4cfde06c5d4f27674cf998b7b1b09f7176f6b88dd92255ec9bdadc21f6ccf235
+DTSTART;TZID=Asia/Tokyo:20260127T161500
+DTEND;TZID=Asia/Tokyo:20260127T200000
+SUMMARY:①うちの弟どもがすみません
+DESCRIPTION:【スタジオ名】\nスタジオシエラBst　※暗証番号「8171」\n\n【ディレクター名】\n本山 哲本山\n\n【マネージャー名】\n加茂下 永\n\n【メモ】\n■暗証番号：【8171】\n■出番あり決定\n■映像差し替え＋修正台本\nhttps://drive.google.com/drive/folders/1VHA8vG3C8833hTKo6AeRVdb37p2vYQM5
+UID:b39e05a11451376bdee0f9bc3e83050b0efbbf6786bb56121d9fd418a986d66d
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -136,6 +136,14 @@ DTEND;TZID=Asia/Tokyo:20260210T210000
 SUMMARY:②うちの弟どもがすみません
 DESCRIPTION:【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
 UID:b357095d2ec04dd2a7db4baae7995eab283b2dd13ab07443684ea0960a9e9cdb
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260211T000000
+DTEND;TZID=Asia/Tokyo:20260211T235900
+SUMMARY:①ラジ友感謝祭2026　グッズ用撮影
+DESCRIPTION:【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n■メイク付き、衣装自前になります。
+UID:4539b518c7ffff76bff2eb1c75ef4d84844e467a61cf5c4011c49b4c78229482
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -190,7 +198,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260223T000000
 DTEND;TZID=Asia/Tokyo:20260223T235900
 SUMMARY:①棗いつき朗読歌唱劇　※やる
-DESCRIPTION:【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n2. 公演詳細\n公演日程：2026年2月23日（月）\n会場：飛行船シアター（〒110-0015 東京都台東区東上野４丁目２４−１１）\n \n公演回数：昼夜二部制・計2回公演\n出演者：計6名（棗いつきを含む）\nhttps://docs.google.com/document/d/1csfgrcSOLizy0xZ_MXpD9V8k3S5sMI40GsISE1g\n sRsc/edit?usp=sharing
+DESCRIPTION:【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n2. 公演詳細\n公演日程：2026年2月23日（月）\n会場：飛行船シアター（〒110-0015 東京都台東区東上野４丁目２４−１１）\n \n公演回数：昼夜二部制・計2回公演\n出演者：計6名（棗いつきを含む）\nhttps://docs.google.com/document/d/1csfgrcSOLizy0xZ_MXpD9V8k3S5sMI40GsISE1g\n sRsc/edit?usp=sharing\n・本番はピンマイクになります。\n・本公演はイヤモニ環境での公演となります。\nご自身のイヤホンをRHから持ち込みでお願い致します。
 UID:8e86fc1e02e0332a92a4d46c5792b1f04dc6ecff9f499bbd19035b622f1632da
 LOCATION:未指定
 END:VEVENT
