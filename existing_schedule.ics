@@ -3,43 +3,59 @@ VERSION:2.0
 PRODID:-//Your Organization//Your Calendar 1.0//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260202T115000
-DTEND;TZID=Asia/Tokyo:20260202T123000
+DTSTART;TZID=Asia/Tokyo:20260203T115000
+DTEND;TZID=Asia/Tokyo:20260203T123000
 SUMMARY:①イナズマイレブンV
 DESCRIPTION:【スタジオ名】\nレベルファイブ　Lスタジオ\n\n【制作会社名】\n(株)レベルファイブ\n\n【マネージャー名】\n野上 尚寿\n\n【メモ】\n■皆様同じ時間にお呼びしています。\nお待ち頂くお時間が出てしまいますがご了承頂けますと幸いです。\n \n\n【収録順予定】\n①大西 健晴さん　［ハ・ジョンピョ］\n②西嶋 陽一さん　［ガラ・マゴス］\n③望月 健一さん　［デモゴルゴン・アノー］\n④笹田 貴之さん　［ナルクル・ブーゲン］\n⑤住谷 哲栄さん　［ホ・ウンチャン］\n⑥遠藤 淳さん　　 ［ペドロ・アミダ］\n⑦目黒 北斗さん　［ソン・ミンス］\n\n■台本、キャラ表、地図添付いたします。\n※台本はメールでお送りしたものと同じです。
-UID:cc558816548a74736671d76360412a48f93e17df03b85f9eb0135abd95cbc910
+UID:2080e99150d474951d25fc1ea348159fd4a0d16d546fa07da2465057905f5e03
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260202T160000
-DTEND;TZID=Asia/Tokyo:20260202T210000
+DTSTART;TZID=Asia/Tokyo:20260203T160000
+DTEND;TZID=Asia/Tokyo:20260203T210000
 SUMMARY:うちの弟どもがすみません
 DESCRIPTION:【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【マネージャー名】\n加茂下 永\n\n【メモ】\n▼まだ未確認でしたので念のため再送させて頂きます。
-UID:3e2704dcb33c921546db6dd46704e7346235766e5cdd746ed073a5a7dec51560
+UID:c1f1dfb43fd5e764c11c6027130b00f5aa3dd36a5c0b80dab720eab971c2f262
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260210T160000
 DTEND;TZID=Asia/Tokyo:20260210T210000
-SUMMARY:②うちの弟どもがすみません
-DESCRIPTION:【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
-UID:b357095d2ec04dd2a7db4baae7995eab283b2dd13ab07443684ea0960a9e9cdb
+SUMMARY:うちの弟どもがすみません
+DESCRIPTION:【マネージャー名】\n加茂下 永
+UID:f1bb434b5ab304b9b141043962a7875385d08f6bd66d73fb72f1d18eb0605cfa
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260211T000000
-DTEND;TZID=Asia/Tokyo:20260211T235900
-SUMMARY:①ラジ友感謝祭2026　グッズ用撮影
-DESCRIPTION:【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n■メイク付き、衣装自前になります。
-UID:4539b518c7ffff76bff2eb1c75ef4d84844e467a61cf5c4011c49b4c78229482
+DTSTART;TZID=Asia/Tokyo:20260211T110000
+DTEND;TZID=Asia/Tokyo:20260211T140000
+SUMMARY:①ラジ友感謝祭2026　イベントグッズ用撮影
+DESCRIPTION:【スタジオ名】\n新ひみつきち\n\n【制作会社名】\n(株)ノワ\n\n【ディレクター名】\nご担当：ノワ　小宮さま\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n【スタジオ住所】杉並区高円寺南4-7-1　藤和シティーコープ高円寺南202号\n \n■メイク付き、衣装自前になります。（春らしい衣装でお願いできますと幸いです）\n \n■サイン・文字コメントを現場でご対応お願いいたします。\n 
+UID:90c978823978b26e499b52deec347707f6b4fbb50d22ae4a5ef8b2b3bc185b0d
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260214T100000
+DTEND;TZID=Asia/Tokyo:20260214T150000
+SUMMARY:①朗読音楽劇「成人式」読み合わせ
+DESCRIPTION:【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕
+UID:263d1efa45370f98bc2340e39fe01fd5d11dc7f1d4f1ec992dab1d3bf3ab24fc
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260217T160000
 DTEND;TZID=Asia/Tokyo:20260217T210000
-SUMMARY:②うちの弟どもがすみません
-DESCRIPTION:【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
-UID:06a716b3acd966924fb3245b0c10529c92169186133bf748e7671ff8a2f373bd
+SUMMARY:うちの弟どもがすみません
+DESCRIPTION:【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【マネージャー名】\n加茂下 永
+UID:48396de8c3c353a44ec89e1016b010637cbaab4cb3062ba11cfbce61d73db4ab
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260217T200000
+DTEND;TZID=Asia/Tokyo:20260217T230000
+SUMMARY:③今日ログ
+DESCRIPTION:【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕
+UID:34644d6bf404b98b991b74ac6965b732114d260701a3e4c4f118c6a0ef587628
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -67,6 +83,14 @@ UID:52112e9b49262121a08e7ef16bdc8c5ff9e099b33bfc052568d7c38289b0f7ca
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260220T100000
+DTEND;TZID=Asia/Tokyo:20260220T150000
+SUMMARY:①探偵小石は恋しない　リテイク
+DESCRIPTION:【制作会社名】\n株式会社スカーレット\n\n【マネージャー名】\n堤　涼子
+UID:6771cff3782ca20a93ba93840951ac6b40f638f52419f36c402b59f75a407a11
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260223T000000
 DTEND;TZID=Asia/Tokyo:20260223T235900
 SUMMARY:①棗いつき朗読歌唱劇　※やる
@@ -78,7 +102,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260224T160000
 DTEND;TZID=Asia/Tokyo:20260224T210000
 SUMMARY:②うちの弟どもがすみません
-DESCRIPTION:【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
+DESCRIPTION:【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【ディレクター名】\n本山　哲\n\n【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
 UID:aab10f017362674a10d8987f307e6739279015692326e22093665fe15d29fa57
 LOCATION:未指定
 END:VEVENT
@@ -102,7 +126,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260303T160000
 DTEND;TZID=Asia/Tokyo:20260303T210000
 SUMMARY:②うちの弟どもがすみません
-DESCRIPTION:【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
+DESCRIPTION:【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【ディレクター名】\n本山　哲\n\n【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
 UID:9d1c9c02acd67b9a657c446f676daf94a0a65511573268a1abf9263755595f54
 LOCATION:未指定
 END:VEVENT
@@ -126,7 +150,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260310T160000
 DTEND;TZID=Asia/Tokyo:20260310T210000
 SUMMARY:②うちの弟どもがすみません
-DESCRIPTION:【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
+DESCRIPTION:【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【ディレクター名】\n本山　哲\n\n【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
 UID:e889bb4e500f7402fc7725f063157fa1afadbd9605b13ab1129acaa43a22cbe3
 LOCATION:未指定
 END:VEVENT
@@ -150,7 +174,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260317T160000
 DTEND;TZID=Asia/Tokyo:20260317T210000
 SUMMARY:②うちの弟どもがすみません
-DESCRIPTION:【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
+DESCRIPTION:【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【ディレクター名】\n本山　哲\n\n【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
 UID:cef71777b9e89b4fb1c554e643c5e87112c80006587b54bdd3bcb4cdb0f9215c
 LOCATION:未指定
 END:VEVENT
@@ -190,7 +214,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260324T160000
 DTEND;TZID=Asia/Tokyo:20260324T210000
 SUMMARY:②うちの弟どもがすみません
-DESCRIPTION:【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
+DESCRIPTION:【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【ディレクター名】\n本山　哲\n\n【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
 UID:42f19ed75f7a12409abcb56617d6b20a3fd8714760ea48ab6abf532b9a86597f
 LOCATION:未指定
 END:VEVENT
@@ -214,7 +238,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260331T160000
 DTEND;TZID=Asia/Tokyo:20260331T210000
 SUMMARY:②うちの弟どもがすみません
-DESCRIPTION:【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
+DESCRIPTION:【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【ディレクター名】\n本山　哲\n\n【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
 UID:4203c74cc943f6132f8b20a5acbe9358ee607ea68b176460d1e3be20a5f0ae96
 LOCATION:未指定
 END:VEVENT
@@ -323,6 +347,14 @@ UID:c4cd55c501379bc9ff73291f2e5177f7b4af45825245ee89a6b1ddb20553837a
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260414T000000
+DTEND;TZID=Asia/Tokyo:20260414T235900
+SUMMARY:花道のゆくえ　　朗読劇
+DESCRIPTION:【マネージャー名】\n若槻 剛史
+UID:dea4afb5c5a1d6a068ee3138443dbce887f19687aa6503e51078fb48585552d0
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260415T000000
 DTEND;TZID=Asia/Tokyo:20260415T235900
 SUMMARY:④ぼくの好きな人が好きな人
@@ -347,6 +379,14 @@ UID:f62a5fe75083eef89e1341a5caed12e0681ab6e6347d7c351a3e827c8a0ea248
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260416T000000
+DTEND;TZID=Asia/Tokyo:20260416T235900
+SUMMARY:花道のゆくえ　　朗読劇
+DESCRIPTION:【マネージャー名】\n若槻 剛史
+UID:6e7eb4ae51379c2a08333b263dc70c25f9dc2f98a7edf56c6ab364ed4a7bc046
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260417T000000
 DTEND;TZID=Asia/Tokyo:20260417T235900
 SUMMARY:②すだちの魔王城
@@ -368,6 +408,22 @@ DTEND;TZID=Asia/Tokyo:20260417T210000
 SUMMARY:③ベイブレードX
 DESCRIPTION:【制作会社名】\n(株)ハーフ Ｈ・Ｐ STUDIO\n\n【マネージャー名】\n山本 愛実
 UID:af3e02f7939757082d13782b1a77dbcd10f158e2f37865f09dd94d9ded931f74
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260418T000000
+DTEND;TZID=Asia/Tokyo:20260418T235900
+SUMMARY:花道のゆくえ　　朗読劇
+DESCRIPTION:【マネージャー名】\n若槻 剛史
+UID:c5c4b7e576197d7083f308c6ef589535db6d0093a98a66ea7c22958dfbcffa62
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260419T000000
+DTEND;TZID=Asia/Tokyo:20260419T235900
+SUMMARY:花道のゆくえ　　朗読劇
+DESCRIPTION:【マネージャー名】\n若槻 剛史
+UID:3cb504bd49a9a82ddbc52e09256d573505183bab20f920e56670c9c64716296b
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
