@@ -38,7 +38,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260214T100000
 DTEND;TZID=Asia/Tokyo:20260214T150000
 SUMMARY:①朗読音楽劇「成人式」読み合わせ
-DESCRIPTION:【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕
+DESCRIPTION:【スタジオ名】\nStudio ONE LAB（飯田橋）\n\n【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n○2/14(土)\n音楽朗読劇「成人式」台本読み合わせ\n10:00-15:00(終わり次第バラシ)\n・場所：スタジオ：「Studio ONE LAB」\n〒162-0822 新宿区下宮比町2-18グランドメゾン飯田橋B1F102\n詳細↓\nhttps://www.dropbox.com/scl/fi/ghwsbk080og5ynxrd6g49/Studio-ONE-Lab-MAP3-FI\n X2.pdf?rlkey=8m0bxu04jc7rg96ycttyaq6ws&st=2zzm5pmj&dl=0\n・緊急連絡先↓\n伊礼　亮\n09086820300\nr-irei@hifumi-inc.co.jp\n※台本は事務所にございます。ピックアップをお願いできればと存じます。\n 
 UID:263d1efa45370f98bc2340e39fe01fd5d11dc7f1d4f1ec992dab1d3bf3ab24fc
 LOCATION:未指定
 END:VEVENT
@@ -56,6 +56,14 @@ DTEND;TZID=Asia/Tokyo:20260217T230000
 SUMMARY:③今日ログ
 DESCRIPTION:【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕
 UID:34644d6bf404b98b991b74ac6965b732114d260701a3e4c4f118c6a0ef587628
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260218T000000
+DTEND;TZID=Asia/Tokyo:20260218T235900
+SUMMARY:テープAD「転生魔女は滅びを告げる」
+DESCRIPTION:【メモ】\n・青二プロダクション制作「転生魔女は滅びを告げる」役：キース（担当：山本）\n 
+UID:deb70ce1d1f4c6bfa37cbff0ee58d7b656a7aa610977d348800035f511befc68
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -115,14 +123,6 @@ UID:a7f0bb97accbce2411a5b7ddc42b4068190ce82babbf3667dd885d8ce83b2d66
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260302T000000
-DTEND;TZID=Asia/Tokyo:20260302T235900
-SUMMARY:④すだちの魔王城
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山本 愛実
-UID:27732e8c1991285eb7cf69111a7eaa6e84e10b5099dde9ab13e9dce3a2333b8d
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260303T160000
 DTEND;TZID=Asia/Tokyo:20260303T210000
 SUMMARY:②うちの弟どもがすみません
@@ -131,43 +131,11 @@ UID:9d1c9c02acd67b9a657c446f676daf94a0a65511573268a1abf9263755595f54
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260306T000000
-DTEND;TZID=Asia/Tokyo:20260306T235900
-SUMMARY:②すだちの魔王城
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山本 愛実
-UID:b58e5fe6562dd507a2fc7205769d0146e9f21aa7be0f9f31caf67d36c10edda8
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260309T000000
-DTEND;TZID=Asia/Tokyo:20260309T235900
-SUMMARY:④すだちの魔王城
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山本 愛実
-UID:b39c38f7ab88164882332f817586606c10d06bdd1090f1fa6ed5c26473a48321
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260310T160000
 DTEND;TZID=Asia/Tokyo:20260310T210000
 SUMMARY:②うちの弟どもがすみません
 DESCRIPTION:【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【ディレクター名】\n本山　哲\n\n【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
 UID:e889bb4e500f7402fc7725f063157fa1afadbd9605b13ab1129acaa43a22cbe3
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260313T000000
-DTEND;TZID=Asia/Tokyo:20260313T235900
-SUMMARY:②すだちの魔王城
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山本 愛実
-UID:0839aaf446cf708f9f4b60a96e94e45d026e096d822b33cd7469c36bc3d6e87b
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260316T000000
-DTEND;TZID=Asia/Tokyo:20260316T235900
-SUMMARY:④すだちの魔王城
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山本 愛実
-UID:14f679f41ce932bff8b332951f73f3b6eeae33ce959d3156ce5c70e393715b23
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -195,43 +163,11 @@ UID:7c079daf8388407a9a6b2da084d280d3f725c579caa1ca5d91832bd557aa0a69
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260320T000000
-DTEND;TZID=Asia/Tokyo:20260320T235900
-SUMMARY:②すだちの魔王城
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山本 愛実
-UID:e809c7715f60538d7b4786fa90bddace39a91751ddfeda73d8e50859ec9f1876
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260323T000000
-DTEND;TZID=Asia/Tokyo:20260323T235900
-SUMMARY:④すだちの魔王城
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山本 愛実
-UID:2985476694a6ab8451e51f16e7eccc13f0e67b5ece371319075c100db7b5aed4
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260324T160000
 DTEND;TZID=Asia/Tokyo:20260324T210000
 SUMMARY:②うちの弟どもがすみません
 DESCRIPTION:【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【ディレクター名】\n本山　哲\n\n【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
 UID:42f19ed75f7a12409abcb56617d6b20a3fd8714760ea48ab6abf532b9a86597f
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260327T000000
-DTEND;TZID=Asia/Tokyo:20260327T235900
-SUMMARY:②すだちの魔王城
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山本 愛実
-UID:2249f4ad1cf917888885bcbae1be8bc414046ea08d5a69619543afdc2a074a71
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260330T000000
-DTEND;TZID=Asia/Tokyo:20260330T235900
-SUMMARY:④すだちの魔王城
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山本 愛実
-UID:57d4d9f76bfeeef4f733084dfe8550f2298d758613e35122adb223c9c6e065e6
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -261,14 +197,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260403T000000
 DTEND;TZID=Asia/Tokyo:20260403T235900
-SUMMARY:②すだちの魔王城
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山本 愛実
-UID:1f8ae465b3afeee428b8c9208ea19cbcd230866b75b8aceba41c16cebc0bc5f0
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260403T000000
-DTEND;TZID=Asia/Tokyo:20260403T235900
 SUMMARY:④ぼくの好きな人が好きな人
 DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n中谷希美\n\n【マネージャー名】\n山本 愛実
 UID:2c8d0f347b58e9d3536d8dd9f65c8ebfb46e313a10955de3a1c8cb12140cbe1d
@@ -280,14 +208,6 @@ DTEND;TZID=Asia/Tokyo:20260403T210000
 SUMMARY:③ベイブレードX
 DESCRIPTION:【制作会社名】\n(株)ハーフ Ｈ・Ｐ STUDIO\n\n【マネージャー名】\n山本 愛実
 UID:4c0223bd30d676c5c6f207e61b144238ac88fff91834e923ef6b80db9cec128e
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260406T000000
-DTEND;TZID=Asia/Tokyo:20260406T235900
-SUMMARY:④すだちの魔王城
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山本 愛実
-UID:56cef78860847d5b300a4d59dc865cabcffa999203a66b4d88c3912827b6ad01
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -304,14 +224,6 @@ DTEND;TZID=Asia/Tokyo:20260408T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
 UID:894568c80177ece6e82d34880e58a55096ac0bfbe67250612680f5e3c2f99f4b
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260410T000000
-DTEND;TZID=Asia/Tokyo:20260410T235900
-SUMMARY:②すだちの魔王城
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山本 愛実
-UID:619286d83e371955a2b98cb94476cbacb85f3e54de7f60da436c70e3850aeb3e
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -336,14 +248,6 @@ DTEND;TZID=Asia/Tokyo:20260411T235900
 SUMMARY:①ラジ友感謝祭2026　イベント　※昼の部のみ
 DESCRIPTION:【スタジオ名】\nセシオン杉並\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n【会場】杉並区梅里1丁目22番32号　https://www.city.suginami.tokyo.jp/shisetsu/bunka/kyouik\n u/1014907.html
 UID:bb30980de1cb392984d99f7e50fb53afe8bb0eea993a84e6b60c5dfcdcc0ca0f
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260413T000000
-DTEND;TZID=Asia/Tokyo:20260413T235900
-SUMMARY:④すだちの魔王城
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山本 愛実
-UID:c4cd55c501379bc9ff73291f2e5177f7b4af45825245ee89a6b1ddb20553837a
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -389,14 +293,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260417T000000
 DTEND;TZID=Asia/Tokyo:20260417T235900
-SUMMARY:②すだちの魔王城
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山本 愛実
-UID:23221be4143d37b774541654448908485080137c1f0dc1facf77e92777253e1a
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260417T000000
-DTEND;TZID=Asia/Tokyo:20260417T235900
 SUMMARY:④ぼくの好きな人が好きな人
 DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n中谷希美\n\n【マネージャー名】\n山本 愛実
 UID:c0a5dc220172b83fed4bbacfcd058c28f53eacc58df1f5cc917e32d8ecd85a09
@@ -427,14 +323,6 @@ UID:3cb504bd49a9a82ddbc52e09256d573505183bab20f920e56670c9c64716296b
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260420T000000
-DTEND;TZID=Asia/Tokyo:20260420T235900
-SUMMARY:④すだちの魔王城
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山本 愛実
-UID:7c512cd8fd4956c2d3baa49473c8a803f172e6e1cc1aba8877f3a486784712ff
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260422T000000
 DTEND;TZID=Asia/Tokyo:20260422T235900
 SUMMARY:④ぼくの好きな人が好きな人
@@ -453,14 +341,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260424T000000
 DTEND;TZID=Asia/Tokyo:20260424T235900
-SUMMARY:②すだちの魔王城
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山本 愛実
-UID:e86c08b620825941c4987692c3a3ffb9486863d310bbd818a1f4cb4a270e3784
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260424T000000
-DTEND;TZID=Asia/Tokyo:20260424T235900
 SUMMARY:④ぼくの好きな人が好きな人
 DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n中谷希美\n\n【マネージャー名】\n山本 愛実
 UID:b01996dbe6495be61d9dcf4bd9980dbed15ee51c45d2a3e1c0bf0a5c366950fe
@@ -472,14 +352,6 @@ DTEND;TZID=Asia/Tokyo:20260424T210000
 SUMMARY:③ベイブレードX
 DESCRIPTION:【制作会社名】\n(株)ハーフ Ｈ・Ｐ STUDIO\n\n【マネージャー名】\n山本 愛実
 UID:69f722ef19378805ba35842277e90e0bec8ed18754ac9ce516ad67eb1b5b0177
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260427T000000
-DTEND;TZID=Asia/Tokyo:20260427T235900
-SUMMARY:④すだちの魔王城
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n原口昇\n\n【マネージャー名】\n山本 愛実
-UID:54dfd5ea53a6c05afebb71228bbb37f2acae864cddaee7582b7edf772b9b34c9
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
