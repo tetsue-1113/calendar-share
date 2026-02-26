@@ -46,80 +46,72 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260217T160000
 DTEND;TZID=Asia/Tokyo:20260217T210000
 SUMMARY:うちの弟どもがすみません
-DESCRIPTION:【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【マネージャー名】\n加茂下 永
+DESCRIPTION:【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【マネージャー名】\n加茂下 永\n\n【メモ】\n■念のためですが…ARなしや出番なしでも、確認できましたら確認済みにして頂けますようお願い致します。\n 
 UID:48396de8c3c353a44ec89e1016b010637cbaab4cb3062ba11cfbce61d73db4ab
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260217T200000
 DTEND;TZID=Asia/Tokyo:20260217T230000
-SUMMARY:③今日ログ
-DESCRIPTION:【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕
-UID:34644d6bf404b98b991b74ac6965b732114d260701a3e4c4f118c6a0ef587628
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260218T000000
-DTEND;TZID=Asia/Tokyo:20260218T235900
-SUMMARY:テープAD「転生魔女は滅びを告げる」
-DESCRIPTION:【メモ】\n・青二プロダクション制作「転生魔女は滅びを告げる」役：キース（担当：山本）\n 
-UID:deb70ce1d1f4c6bfa37cbff0ee58d7b656a7aa610977d348800035f511befc68
+SUMMARY:①今日ログ
+DESCRIPTION:【スタジオ名】\nマリンエンタテインメント4F会議室オパール\n\n【制作会社名】\n(株)マリン･エンタテインメント\n\n【ディレクター名】\nご担当：西川路さま\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n■「桃鉄」生配信・音声のみ（顔出しはございません。）\n 
+UID:043cdf2053850d5291a5ffcf8168b6305e3b1c945304a51f0ce3fece758a3567
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260218T130000
 DTEND;TZID=Asia/Tokyo:20260218T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:baee260d95b3e769a1551dcaa34b11d95d983afc5a4374079132d6a98a8ce558
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n■台本は添付をご確認いたします。\n■公式SNS用写真撮影、X用宣伝音声収録入ります。
+UID:c71887be06c2d6139475e3ff1537924ebae985d0ef0757db648b7b6409e70768
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260218T163000
+DTEND;TZID=Asia/Tokyo:20260218T170000
+SUMMARY:テープAD「転生魔女は滅びを告げる」「恐怖コレクター」
+DESCRIPTION:【スタジオ名】\n松田ビル地下スタジオ\n\n【メモ】\n・青二プロダクション制作「転生魔女は滅びを告げる」役：キース（担当：山本）\n \n・グロービジョン制作「恐怖コレクター」役：相川雷太(担当：菊池)\n 
+UID:ece368e210fe08cbf461a0e0a945ddd4d4ed23bb6bcef4afe0a8bb48b2c40a57
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260218T183000
 DTEND;TZID=Asia/Tokyo:20260218T200000
 SUMMARY:①全力回避フラグちゃん!
-DESCRIPTION:【スタジオ名】\nplott本社6F（予定）\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■男性キャラの出演が少なくなるとのことで、11月以降は月1の収録となります！\n \n■10月以降、スタジオが変更になりますのでお気を付けくださいませ！\n \n（スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F）\n 
+DESCRIPTION:【スタジオ名】\nplott本社6F\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■台本：slackより共有をいただいております！
 UID:4f2f30e7986e2f7969329cd4f0c9ce8780a15132b59f4d9e7cc45563cf7eda70
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260219T000000
-DTEND;TZID=Asia/Tokyo:20260219T235900
+DTSTART;TZID=Asia/Tokyo:20260219T120000
+DTEND;TZID=Asia/Tokyo:20260219T190000
 SUMMARY:②音楽朗読劇「成人式」RH
-DESCRIPTION:【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n2/19(木)音楽朗読劇「成人式」リハーサル\nhttps://shiba-st.com/studio/601st/\n場所：芝浦スタジオ 601st\nーーーーーーーーーーー\n・本番はピンマイクになります。\n・本公演はイヤモニ環境での公演となります。\nご自身のイヤホンで参加されるか、こちらでご用意させていただくかお伺いできましたら幸いです。\n \n\n衣装の件のご相談になります。\n現在、衣装担当より「リハーサル日にフィッティング、その後お直しを行い、本番当日に着用」という想定で準備を進めております。\n \nつきましては、事前にフィッティング日を設け、チェックを希望かをご相談させてください。\n \n- 現在の想定： リハ日にフィッティング・お直し → 本番当日着用\n 
+DESCRIPTION:【スタジオ名】\n芝浦スタジオ 501st\n\n【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n2/19(木)音楽朗読劇「成人式」リハーサル\nhttps://shiba-st.com/map/\n場所：芝浦スタジオ 501st\nーーーーーーーーーーー\n・本番はピンマイクになります。\n・本公演はイヤモニ環境での公演となります。\n※台本とイヤモニを忘れずにご持参ください\n\nソロ楽曲のRHの合間で衣装フィッティングあり\n※10-15分くらいで想定しています。\n- 現在の想定： リハ日にフィッティング・お直し → 本番当日着用\n 
 UID:52112e9b49262121a08e7ef16bdc8c5ff9e099b33bfc052568d7c38289b0f7ca
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260220T100000
-DTEND;TZID=Asia/Tokyo:20260220T150000
-SUMMARY:①探偵小石は恋しない　リテイク
-DESCRIPTION:【制作会社名】\n株式会社スカーレット\n\n【マネージャー名】\n堤　涼子
-UID:6771cff3782ca20a93ba93840951ac6b40f638f52419f36c402b59f75a407a11
+DTEND;TZID=Asia/Tokyo:20260220T120000
+SUMMARY:①探偵小石は恋しない　※リテイク
+DESCRIPTION:【スタジオ名】\nスカーレット原宿サウンドスタジオ\n\n【制作会社名】\n株式会社スカーレット\n\n【ディレクター名】\n森本\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n■リテイクリスト添付いたします。\n※グレーアウトの箇所は修正しません。
+UID:e31525dfbb132f6c947e3105ac341fcef1dc4098fb792db86276b0a7e10d1cc9
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260223T000000
-DTEND;TZID=Asia/Tokyo:20260223T235900
-SUMMARY:①棗いつき朗読歌唱劇　※やる
-DESCRIPTION:【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n2. 公演詳細\n公演日程：2026年2月23日（月）\n会場：飛行船シアター（〒110-0015 東京都台東区東上野４丁目２４−１１）\n \n公演回数：昼夜二部制・計2回公演\n出演者：計6名（棗いつきを含む）\nhttps://docs.google.com/document/d/1csfgrcSOLizy0xZ_MXpD9V8k3S5sMI40GsISE1g\n sRsc/edit?usp=sharing\n・本番はピンマイクになります。\n・本公演はイヤモニ環境での公演となります。\nご自身のイヤホンをRHから持ち込みでお願い致します。
-UID:8e86fc1e02e0332a92a4d46c5792b1f04dc6ecff9f499bbd19035b622f1632da
+DTSTART;TZID=Asia/Tokyo:20260223T094000
+DTEND;TZID=Asia/Tokyo:20260223T213000
+SUMMARY:①棗いつき朗読歌唱劇　２回まわし
+DESCRIPTION:【スタジオ名】\n飛行船シアター（上野）\n\n【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n2. 公演詳細\n公演日程：2026年2月23日（月）\n会場：飛行船シアター（〒110-0015 東京都台東区東上野４丁目２４−１１）\n \n公演回数：昼夜二部制・計2回公演\n出演者：計6名（棗いつきを含む）\nhttps://docs.google.com/document/d/1csfgrcSOLizy0xZ_MXpD9V8k3S5sMI40GsISE1g\n sRsc/edit?usp=sharing\n・本番はピンマイクになります。\n・本公演はイヤモニ環境での公演となります。\nご自身のイヤホンをRHから持ち込みでお願い致します。\n\nメイク衣装全てつきます。\n台本、イヤモニをお忘れなくお持ちください。\n9時40分にJR上野駅中央改札出たところで杉山と待ち合わせでお願い致します（全員同じ入り時間です）。\n 
+UID:9742ba74fbbda359c27d34b8cc8ab7d55cc1804b6f9c9c4ad2818cea30f34825
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260224T160000
 DTEND;TZID=Asia/Tokyo:20260224T210000
-SUMMARY:②うちの弟どもがすみません
-DESCRIPTION:【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【ディレクター名】\n本山　哲\n\n【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
-UID:aab10f017362674a10d8987f307e6739279015692326e22093665fe15d29fa57
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260226T200000
-DTEND;TZID=Asia/Tokyo:20260226T220000
-SUMMARY:①今日ログ
-DESCRIPTION:【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕
-UID:a7f0bb97accbce2411a5b7ddc42b4068190ce82babbf3667dd885d8ce83b2d66
+SUMMARY:うちの弟どもがすみません
+DESCRIPTION:【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【ディレクター名】\n本山　哲\n\n【マネージャー名】\n加茂下 永
+UID:26543958a337fb16a3a4092093961dadf951c0a2228d9320ce2ff8b6ea9d7275
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -168,6 +160,14 @@ DTEND;TZID=Asia/Tokyo:20260324T210000
 SUMMARY:②うちの弟どもがすみません
 DESCRIPTION:【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【ディレクター名】\n本山　哲\n\n【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
 UID:42f19ed75f7a12409abcb56617d6b20a3fd8714760ea48ab6abf532b9a86597f
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260326T160000
+DTEND;TZID=Asia/Tokyo:20260326T210000
+SUMMARY:①今日ログ
+DESCRIPTION:【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕
+UID:79164ec7acaf8cbfab38faefeaed7ec96c3c8575f054ec7287dcbd5c355a1e3f
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
