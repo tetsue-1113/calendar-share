@@ -3,139 +3,51 @@ VERSION:2.0
 PRODID:-//Your Organization//Your Calendar 1.0//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260203T115000
-DTEND;TZID=Asia/Tokyo:20260203T123000
-SUMMARY:①イナズマイレブンV
-DESCRIPTION:【スタジオ名】\nレベルファイブ　Lスタジオ\n\n【制作会社名】\n(株)レベルファイブ\n\n【マネージャー名】\n野上 尚寿\n\n【メモ】\n■皆様同じ時間にお呼びしています。\nお待ち頂くお時間が出てしまいますがご了承頂けますと幸いです。\n \n\n【収録順予定】\n①大西 健晴さん　［ハ・ジョンピョ］\n②西嶋 陽一さん　［ガラ・マゴス］\n③望月 健一さん　［デモゴルゴン・アノー］\n④笹田 貴之さん　［ナルクル・ブーゲン］\n⑤住谷 哲栄さん　［ホ・ウンチャン］\n⑥遠藤 淳さん　　 ［ペドロ・アミダ］\n⑦目黒 北斗さん　［ソン・ミンス］\n\n■台本、キャラ表、地図添付いたします。\n※台本はメールでお送りしたものと同じです。
-UID:2080e99150d474951d25fc1ea348159fd4a0d16d546fa07da2465057905f5e03
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260203T160000
-DTEND;TZID=Asia/Tokyo:20260203T210000
-SUMMARY:うちの弟どもがすみません
-DESCRIPTION:【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【マネージャー名】\n加茂下 永\n\n【メモ】\n▼まだ未確認でしたので念のため再送させて頂きます。
-UID:c1f1dfb43fd5e764c11c6027130b00f5aa3dd36a5c0b80dab720eab971c2f262
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260210T160000
-DTEND;TZID=Asia/Tokyo:20260210T210000
-SUMMARY:うちの弟どもがすみません
-DESCRIPTION:【マネージャー名】\n加茂下 永
-UID:f1bb434b5ab304b9b141043962a7875385d08f6bd66d73fb72f1d18eb0605cfa
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260211T110000
-DTEND;TZID=Asia/Tokyo:20260211T140000
-SUMMARY:①ラジ友感謝祭2026　イベントグッズ用撮影
-DESCRIPTION:【スタジオ名】\n新ひみつきち\n\n【制作会社名】\n(株)ノワ\n\n【ディレクター名】\nご担当：ノワ　小宮さま\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n【スタジオ住所】杉並区高円寺南4-7-1　藤和シティーコープ高円寺南202号\n \n■メイク付き、衣装自前になります。（春らしい衣装でお願いできますと幸いです）\n \n■サイン・文字コメントを現場でご対応お願いいたします。\n 
-UID:90c978823978b26e499b52deec347707f6b4fbb50d22ae4a5ef8b2b3bc185b0d
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260214T100000
-DTEND;TZID=Asia/Tokyo:20260214T150000
-SUMMARY:①朗読音楽劇「成人式」読み合わせ
-DESCRIPTION:【スタジオ名】\nStudio ONE LAB（飯田橋）\n\n【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n○2/14(土)\n音楽朗読劇「成人式」台本読み合わせ\n10:00-15:00(終わり次第バラシ)\n・場所：スタジオ：「Studio ONE LAB」\n〒162-0822 新宿区下宮比町2-18グランドメゾン飯田橋B1F102\n詳細↓\nhttps://www.dropbox.com/scl/fi/ghwsbk080og5ynxrd6g49/Studio-ONE-Lab-MAP3-FI\n X2.pdf?rlkey=8m0bxu04jc7rg96ycttyaq6ws&st=2zzm5pmj&dl=0\n・緊急連絡先↓\n伊礼　亮\n09086820300\nr-irei@hifumi-inc.co.jp\n※台本は事務所にございます。ピックアップをお願いできればと存じます。\n 
-UID:263d1efa45370f98bc2340e39fe01fd5d11dc7f1d4f1ec992dab1d3bf3ab24fc
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260217T160000
-DTEND;TZID=Asia/Tokyo:20260217T210000
-SUMMARY:うちの弟どもがすみません
-DESCRIPTION:【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【マネージャー名】\n加茂下 永\n\n【メモ】\n■念のためですが…ARなしや出番なしでも、確認できましたら確認済みにして頂けますようお願い致します。\n 
-UID:48396de8c3c353a44ec89e1016b010637cbaab4cb3062ba11cfbce61d73db4ab
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260217T200000
-DTEND;TZID=Asia/Tokyo:20260217T230000
-SUMMARY:①今日ログ
-DESCRIPTION:【スタジオ名】\nマリンエンタテインメント4F会議室オパール\n\n【制作会社名】\n(株)マリン･エンタテインメント\n\n【ディレクター名】\nご担当：西川路さま\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n■「桃鉄」生配信・音声のみ（顔出しはございません。）\n 
-UID:043cdf2053850d5291a5ffcf8168b6305e3b1c945304a51f0ce3fece758a3567
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260218T130000
-DTEND;TZID=Asia/Tokyo:20260218T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n■台本は添付をご確認いたします。\n■公式SNS用写真撮影、X用宣伝音声収録入ります。
-UID:c71887be06c2d6139475e3ff1537924ebae985d0ef0757db648b7b6409e70768
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260218T163000
-DTEND;TZID=Asia/Tokyo:20260218T170000
-SUMMARY:テープAD「転生魔女は滅びを告げる」「恐怖コレクター」
-DESCRIPTION:【スタジオ名】\n松田ビル地下スタジオ\n\n【メモ】\n・青二プロダクション制作「転生魔女は滅びを告げる」役：キース（担当：山本）\n \n・グロービジョン制作「恐怖コレクター」役：相川雷太(担当：菊池)\n 
-UID:ece368e210fe08cbf461a0e0a945ddd4d4ed23bb6bcef4afe0a8bb48b2c40a57
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260218T183000
-DTEND;TZID=Asia/Tokyo:20260218T200000
-SUMMARY:①全力回避フラグちゃん!
-DESCRIPTION:【スタジオ名】\nplott本社6F\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■台本：slackより共有をいただいております！
-UID:4f2f30e7986e2f7969329cd4f0c9ce8780a15132b59f4d9e7cc45563cf7eda70
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260219T120000
-DTEND;TZID=Asia/Tokyo:20260219T190000
-SUMMARY:②音楽朗読劇「成人式」RH
-DESCRIPTION:【スタジオ名】\n芝浦スタジオ 501st\n\n【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n2/19(木)音楽朗読劇「成人式」リハーサル\nhttps://shiba-st.com/map/\n場所：芝浦スタジオ 501st\nーーーーーーーーーーー\n・本番はピンマイクになります。\n・本公演はイヤモニ環境での公演となります。\n※台本とイヤモニを忘れずにご持参ください\n\nソロ楽曲のRHの合間で衣装フィッティングあり\n※10-15分くらいで想定しています。\n- 現在の想定： リハ日にフィッティング・お直し → 本番当日着用\n 
-UID:52112e9b49262121a08e7ef16bdc8c5ff9e099b33bfc052568d7c38289b0f7ca
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260220T100000
-DTEND;TZID=Asia/Tokyo:20260220T120000
-SUMMARY:①探偵小石は恋しない　※リテイク
-DESCRIPTION:【スタジオ名】\nスカーレット原宿サウンドスタジオ\n\n【制作会社名】\n株式会社スカーレット\n\n【ディレクター名】\n森本\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n■リテイクリスト添付いたします。\n※グレーアウトの箇所は修正しません。
-UID:e31525dfbb132f6c947e3105ac341fcef1dc4098fb792db86276b0a7e10d1cc9
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260223T094000
-DTEND;TZID=Asia/Tokyo:20260223T213000
-SUMMARY:①棗いつき朗読歌唱劇　２回まわし
-DESCRIPTION:【スタジオ名】\n飛行船シアター（上野）\n\n【制作会社名】\n株式会社一二三\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n2. 公演詳細\n公演日程：2026年2月23日（月）\n会場：飛行船シアター（〒110-0015 東京都台東区東上野４丁目２４−１１）\n \n公演回数：昼夜二部制・計2回公演\n出演者：計6名（棗いつきを含む）\nhttps://docs.google.com/document/d/1csfgrcSOLizy0xZ_MXpD9V8k3S5sMI40GsISE1g\n sRsc/edit?usp=sharing\n・本番はピンマイクになります。\n・本公演はイヤモニ環境での公演となります。\nご自身のイヤホンをRHから持ち込みでお願い致します。\n\nメイク衣装全てつきます。\n台本、イヤモニをお忘れなくお持ちください。\n9時40分にJR上野駅中央改札出たところで杉山と待ち合わせでお願い致します（全員同じ入り時間です）。\n 
-UID:9742ba74fbbda359c27d34b8cc8ab7d55cc1804b6f9c9c4ad2818cea30f34825
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260224T160000
-DTEND;TZID=Asia/Tokyo:20260224T210000
-SUMMARY:うちの弟どもがすみません
-DESCRIPTION:【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【ディレクター名】\n本山　哲\n\n【マネージャー名】\n加茂下 永
-UID:26543958a337fb16a3a4092093961dadf951c0a2228d9320ce2ff8b6ea9d7275
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260303T160000
+DTSTART;TZID=Asia/Tokyo:20260303T161500
 DTEND;TZID=Asia/Tokyo:20260303T210000
-SUMMARY:②うちの弟どもがすみません
-DESCRIPTION:【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【ディレクター名】\n本山　哲\n\n【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
-UID:9d1c9c02acd67b9a657c446f676daf94a0a65511573268a1abf9263755595f54
+SUMMARY:①うちの弟どもがすみません
+DESCRIPTION:【スタジオ名】\nスタジオシエラ Bst（PW：3639）\n\n【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【ディレクター名】\n本山　哲\n\n【マネージャー名】\n加茂下 永\n\n【メモ】\n■出番あり
+UID:96eb22a0b12934a4bfee7c4a26fdc3167b6b98023c613850fb6803c76b99f20d
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260308T102000
+DTEND;TZID=Asia/Tokyo:20260308T120000
+SUMMARY:①イナズマイレブン英雄たちのヴィクトリーロード
+DESCRIPTION:【スタジオ名】\nレベルファイブ　Lスタジオ\n\n【制作会社名】\n(株)レベルファイブ\n\n【マネージャー名】\n野上 尚寿\n\n【メモ】\n■皆様同時刻にお呼びしております。\n順番に収録しますので待ち時間が出てしまいますがご了承頂けますと幸いです。\n \n\n■台本：下記よりダウンロードの上ご確認下さい。\nhttps://7.gigafile.nu/0313-c215d163148b047daa5ce49d68258031c
+UID:1ccf428a891a2c505bd6e5070e3a4f63677ca3efae11c64271306656aee2b89e
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260308T164000
+DTEND;TZID=Asia/Tokyo:20260308T180000
+SUMMARY:①イナズマイレブン英雄たちのヴィクトリーロード
+DESCRIPTION:【スタジオ名】\nレベルファイブ　Lスタジオ\n\n【制作会社名】\n(株)レベルファイブ\n\n【マネージャー名】\n野上 尚寿\n\n【メモ】\n■皆様同時刻にお呼びしております。\n順番に収録しますので待ち時間が出てしまいますがご了承頂けますと幸いです。\n \n\n■台本：下記よりダウンロードの上ご確認下さい。\nhttps://7.gigafile.nu/0313-c215d163148b047daa5ce49d68258031c
+UID:1ccf428a891a2c505bd6e5070e3a4f63677ca3efae11c64271306656aee2b89e
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260310T160000
 DTEND;TZID=Asia/Tokyo:20260310T210000
-SUMMARY:②うちの弟どもがすみません
-DESCRIPTION:【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【ディレクター名】\n本山　哲\n\n【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
-UID:e889bb4e500f7402fc7725f063157fa1afadbd9605b13ab1129acaa43a22cbe3
+SUMMARY:うちの弟どもがすみません
+DESCRIPTION:【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【ディレクター名】\n本山　哲\n\n【マネージャー名】\n加茂下 永\n\n【メモ】\n▼まだ未確認でしたので念のため再送いたします。\n翌週3/17(火)出番なしも確定しておりますのであわせてご確認下さい。\n \n宜しくお願い致します。
+UID:dba8a3d748e2936adb294487a4a9ce0e1b022d58bd5e634405e4d1d0ac553b58
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260312T000000
+DTEND;TZID=Asia/Tokyo:20260312T235900
+SUMMARY:【テープAD】ノーブルズ
+DESCRIPTION:【スタジオ名】\n松田ビル地下スタジオ\n\n【メモ】\n・クレアボイス制作「ノーブルズ」和泉潤／宮沢朔也役（杉山）\n 
+UID:647080c84df52de7a43d556a865c9319aaeee7772edb072bdabd298181b75afe
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260317T160000
 DTEND;TZID=Asia/Tokyo:20260317T210000
-SUMMARY:②うちの弟どもがすみません
-DESCRIPTION:【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【ディレクター名】\n本山　哲\n\n【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
-UID:cef71777b9e89b4fb1c554e643c5e87112c80006587b54bdd3bcb4cdb0f9215c
+SUMMARY:うちの弟どもがすみません
+DESCRIPTION:【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【ディレクター名】\n本山　哲\n\n【マネージャー名】\n加茂下 永
+UID:0b2386c4f41a7cc216acf107e794cfa960b4a892667056e4a41dd63054b7de8f
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -155,19 +67,19 @@ UID:7c079daf8388407a9a6b2da084d280d3f725c579caa1ca5d91832bd557aa0a69
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260319T200000
+DTEND;TZID=Asia/Tokyo:20260319T230000
+SUMMARY:①今日ログ
+DESCRIPTION:【スタジオ名】\nマリン・エンタテインメント４F会議室\n\n【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕\n\n【メモ】\n今日ログラジオ収録の案内です。\n■日時：３月１９日（木）２０時\n■場所：マリン・エンタテインメント４F会議室
+UID:26c1a463071082339cfd09ceae5ae035e15b1adce3f95c33a3e794ca45ee7073
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260324T160000
 DTEND;TZID=Asia/Tokyo:20260324T210000
 SUMMARY:②うちの弟どもがすみません
 DESCRIPTION:【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【ディレクター名】\n本山　哲\n\n【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
 UID:42f19ed75f7a12409abcb56617d6b20a3fd8714760ea48ab6abf532b9a86597f
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260326T160000
-DTEND;TZID=Asia/Tokyo:20260326T210000
-SUMMARY:①今日ログ
-DESCRIPTION:【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕
-UID:79164ec7acaf8cbfab38faefeaed7ec96c3c8575f054ec7287dcbd5c355a1e3f
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -179,43 +91,11 @@ UID:4203c74cc943f6132f8b20a5acbe9358ee607ea68b176460d1e3be20a5f0ae96
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260401T000000
-DTEND;TZID=Asia/Tokyo:20260401T235900
-SUMMARY:④ぼくの好きな人が好きな人
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n中谷希美\n\n【マネージャー名】\n山本 愛実
-UID:c8df031ee87324d1435f50be114c28e7ddc6a70ba522de26438d009f3ba3f681
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260401T130000
 DTEND;TZID=Asia/Tokyo:20260401T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
 UID:744b2b1d26687142168459ae17a275c263f5daf6d6b671024ddcf7bbaba2cb9e
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260403T000000
-DTEND;TZID=Asia/Tokyo:20260403T235900
-SUMMARY:④ぼくの好きな人が好きな人
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n中谷希美\n\n【マネージャー名】\n山本 愛実
-UID:2c8d0f347b58e9d3536d8dd9f65c8ebfb46e313a10955de3a1c8cb12140cbe1d
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260403T160000
-DTEND;TZID=Asia/Tokyo:20260403T210000
-SUMMARY:③ベイブレードX
-DESCRIPTION:【制作会社名】\n(株)ハーフ Ｈ・Ｐ STUDIO\n\n【マネージャー名】\n山本 愛実
-UID:4c0223bd30d676c5c6f207e61b144238ac88fff91834e923ef6b80db9cec128e
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260408T000000
-DTEND;TZID=Asia/Tokyo:20260408T235900
-SUMMARY:④ぼくの好きな人が好きな人
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n中谷希美\n\n【マネージャー名】\n山本 愛実
-UID:5258ec90224ce21b86fde6c75d6758d330c082be0a1f3886ed97562504503b8d
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -227,19 +107,11 @@ UID:894568c80177ece6e82d34880e58a55096ac0bfbe67250612680f5e3c2f99f4b
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260410T000000
-DTEND;TZID=Asia/Tokyo:20260410T235900
-SUMMARY:④ぼくの好きな人が好きな人
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n中谷希美\n\n【マネージャー名】\n山本 愛実
-UID:f0914630e7f11d2262b0f0ac8f9d3805b8ac8274c2e9c5a7a06fac35ae681624
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260410T160000
-DTEND;TZID=Asia/Tokyo:20260410T210000
-SUMMARY:③ベイブレードX
-DESCRIPTION:【制作会社名】\n(株)ハーフ Ｈ・Ｐ STUDIO\n\n【マネージャー名】\n山本 愛実
-UID:c94dc20ec565a55f144cfe45bcfacca2874cdfd3ba0a45f8c5a5c0c7f4ed272b
+DTSTART;TZID=Asia/Tokyo:20260409T120000
+DTEND;TZID=Asia/Tokyo:20260409T150000
+SUMMARY:①東京ディバンカー　追加収録　※1h
+DESCRIPTION:【制作会社名】\n(株)ジーアングル\n\n【ディレクター名】\nメーカーの方\n\n【マネージャー名】\n小林 聡華
+UID:4dbef8c777379afa1151f820794e3cc8b84de410669c29498610ef1c3274e741
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -253,17 +125,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260414T000000
 DTEND;TZID=Asia/Tokyo:20260414T235900
-SUMMARY:花道のゆくえ　　朗読劇
+SUMMARY:花道のゆくえ　　朗読劇　　※14時～　19時～
 DESCRIPTION:【マネージャー名】\n若槻 剛史
-UID:dea4afb5c5a1d6a068ee3138443dbce887f19687aa6503e51078fb48585552d0
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260415T000000
-DTEND;TZID=Asia/Tokyo:20260415T235900
-SUMMARY:④ぼくの好きな人が好きな人
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n中谷希美\n\n【マネージャー名】\n山本 愛実
-UID:2cfd9edd5f11133a7881a829fe77fe768df509f091cb9d18dd7595f06a1c4e41
+UID:6751b991af223ad58a0eb79ac3b52d8ebc5ae3a146374fa437e8ad3b2999efb1
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -277,57 +141,33 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260415T160000
 DTEND;TZID=Asia/Tokyo:20260415T200000
-SUMMARY:①全力回避フラグちゃん!
-DESCRIPTION:【スタジオ名】\nplott本社6F（予定）\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■男性キャラの出演が少なくなるとのことで、11月以降は月1の収録となります！\n \n■10月以降、スタジオが変更になりますのでお気を付けくださいませ！\n \n（スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F）\n 
-UID:f62a5fe75083eef89e1341a5caed12e0681ab6e6347d7c351a3e827c8a0ea248
+SUMMARY:全力回避フラグちゃん!
+DESCRIPTION:【スタジオ名】\nplott本社6F\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n4月の収録はイレギュラーで4/16(木)に行うことになりました。\n \n住谷さんは朗読劇が入っていることもあり、4月収録分は実施なしとなりました…申し訳ございません…（；；）どうぞよろしくお願いいたします！\n 
+UID:77f387f34708b827574bb10209f23897967cee5332f61d2c58be2668c9d08181
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260416T000000
 DTEND;TZID=Asia/Tokyo:20260416T235900
-SUMMARY:花道のゆくえ　　朗読劇
+SUMMARY:花道のゆくえ　　朗読劇　19時～
 DESCRIPTION:【マネージャー名】\n若槻 剛史
-UID:6e7eb4ae51379c2a08333b263dc70c25f9dc2f98a7edf56c6ab364ed4a7bc046
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260417T000000
-DTEND;TZID=Asia/Tokyo:20260417T235900
-SUMMARY:④ぼくの好きな人が好きな人
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n中谷希美\n\n【マネージャー名】\n山本 愛実
-UID:c0a5dc220172b83fed4bbacfcd058c28f53eacc58df1f5cc917e32d8ecd85a09
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260417T160000
-DTEND;TZID=Asia/Tokyo:20260417T210000
-SUMMARY:③ベイブレードX
-DESCRIPTION:【制作会社名】\n(株)ハーフ Ｈ・Ｐ STUDIO\n\n【マネージャー名】\n山本 愛実
-UID:af3e02f7939757082d13782b1a77dbcd10f158e2f37865f09dd94d9ded931f74
+UID:79f6091ace0bbc364fae7c8e994409faaed912abb0373844768e855c79b3c001
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260418T000000
 DTEND;TZID=Asia/Tokyo:20260418T235900
-SUMMARY:花道のゆくえ　　朗読劇
+SUMMARY:花道のゆくえ　　朗読劇　※14時～　18時～
 DESCRIPTION:【マネージャー名】\n若槻 剛史
-UID:c5c4b7e576197d7083f308c6ef589535db6d0093a98a66ea7c22958dfbcffa62
+UID:12661cff3fe12f894674cb38840daf80844343b2004e5bd3cfa13842d87f4edb
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260419T000000
 DTEND;TZID=Asia/Tokyo:20260419T235900
-SUMMARY:花道のゆくえ　　朗読劇
+SUMMARY:花道のゆくえ　　朗読劇　※14時～　19時～
 DESCRIPTION:【マネージャー名】\n若槻 剛史
-UID:3cb504bd49a9a82ddbc52e09256d573505183bab20f920e56670c9c64716296b
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260422T000000
-DTEND;TZID=Asia/Tokyo:20260422T235900
-SUMMARY:④ぼくの好きな人が好きな人
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n中谷希美\n\n【マネージャー名】\n山本 愛実
-UID:13752e7392ee259f5ed13af93f7d707f61133fec61b6bc9dff31c208fd56389a
+UID:0ca2ce0424fbe97c941f3886ea7e47eeadfc360049d45a89e024694157915016
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -339,35 +179,75 @@ UID:70211d7464cf546827f2816c3a27258dd1f3523aa3560ea57e865975674c7f5f
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260424T000000
-DTEND;TZID=Asia/Tokyo:20260424T235900
-SUMMARY:④ぼくの好きな人が好きな人
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n中谷希美\n\n【マネージャー名】\n山本 愛実
-UID:b01996dbe6495be61d9dcf4bd9980dbed15ee51c45d2a3e1c0bf0a5c366950fe
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260424T160000
-DTEND;TZID=Asia/Tokyo:20260424T210000
-SUMMARY:③ベイブレードX
-DESCRIPTION:【制作会社名】\n(株)ハーフ Ｈ・Ｐ STUDIO\n\n【マネージャー名】\n山本 愛実
-UID:69f722ef19378805ba35842277e90e0bec8ed18754ac9ce516ad67eb1b5b0177
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260429T000000
-DTEND;TZID=Asia/Tokyo:20260429T235900
-SUMMARY:④ぼくの好きな人が好きな人
-DESCRIPTION:【制作会社名】\n(株)ビットグルーヴプロモーション\n\n【ディレクター名】\n中谷希美\n\n【マネージャー名】\n山本 愛実
-UID:e7e99ed584eac62e0d8aaa26d1b4ce4249de015119b69586096690ae3064c15b
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260429T130000
 DTEND;TZID=Asia/Tokyo:20260429T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
 UID:75e49549a72d754394011a2b383dc8f860935e8c4fb8d1cdc360ac69577d4c61
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260506T130000
+DTEND;TZID=Asia/Tokyo:20260506T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:8f2d0e27da367243ebed5ede0871850313c17fabea306b23cf6d6a0aa15f1630
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260513T130000
+DTEND;TZID=Asia/Tokyo:20260513T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:3b4fb91d90b7f4ae088edb15e68820af327d55bd75621d48f4062bf6e2d25a31
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260513T160000
+DTEND;TZID=Asia/Tokyo:20260513T200000
+SUMMARY:①全力回避フラグちゃん!
+DESCRIPTION:【スタジオ名】\nplott本社6F（予定）\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■男性キャラの出演が少なくなるとのことで、11月以降は月1の収録となります！\n \n■10月以降、スタジオが変更になりますのでお気を付けくださいませ！\n \n（スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F）\n 
+UID:342268d4502d84ad515a132d4e55010e83d14aa995b387bfe9ab4d7db04550c2
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260520T130000
+DTEND;TZID=Asia/Tokyo:20260520T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:bf3468ab97d2eb4843f5bc4a64a8dbfdf8fe9555c81cba091c4cfdfff071f88b
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260527T130000
+DTEND;TZID=Asia/Tokyo:20260527T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月2回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:93574ab4ebc5393593d493559814ca779eda957ba1899e0c58d633f8b55e2faf
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260529T000000
+DTEND;TZID=Asia/Tokyo:20260529T235900
+SUMMARY:①Paradox Live／Dope show 2026（6th LIVE）
+DESCRIPTION:【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n◇会場：有明アリーナ　※仮押さえ済\n（5月28日（木）仕込み日）\n5月29日（金）リハーサル\n5月30日（土）本番①\n5月31日（日）本番②\n\n\n▼【Paradox Live／Dope show 2026】2Days／1日1回回し\n【5月30日(土)】\nメイン：BAE、cozmez、1Nm8\nサブ　：TCW、VISTY(中島様以外)\n――――――――――――――\n【5月31日(日)】\nメイン：TCW、悪漢奴等、AMPRULE、獄Luck、VISTY\nサブ　：cozmez、1Nm8\n――――――――――――――\n※メイン・・その日のメインキャストとして1ユニット3～4曲ほど歌唱\n \n※サブ・・・1～2曲ほど歌唱
+UID:d356eb7003c759ed219a8d65baededaf823c8f99b8be2902d3432d496f5fadf9
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260530T000000
+DTEND;TZID=Asia/Tokyo:20260530T235900
+SUMMARY:①Paradox Live／Dope show 2026（6th LIVE）
+DESCRIPTION:【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n◇会場：有明アリーナ　※仮押さえ済\n（5月28日（木）仕込み日）\n5月29日（金）リハーサル\n5月30日（土）本番①\n5月31日（日）本番②\n\n\n▼【Paradox Live／Dope show 2026】2Days／1日1回回し\n【5月30日(土)】\nメイン：BAE、cozmez、1Nm8\nサブ　：TCW、VISTY(中島様以外)\n――――――――――――――\n【5月31日(日)】\nメイン：TCW、悪漢奴等、AMPRULE、獄Luck、VISTY\nサブ　：cozmez、1Nm8\n――――――――――――――\n※メイン・・その日のメインキャストとして1ユニット3～4曲ほど歌唱\n \n※サブ・・・1～2曲ほど歌唱
+UID:11f98f83a6a8675ba19ca1414fa81f6b3974e3185d8bbe32f014ab3081e7b975
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260531T000000
+DTEND;TZID=Asia/Tokyo:20260531T235900
+SUMMARY:①Paradox Live／Dope show 2026（6th LIVE）
+DESCRIPTION:【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n◇会場：有明アリーナ　※仮押さえ済\n（5月28日（木）仕込み日）\n5月29日（金）リハーサル\n5月30日（土）本番①\n5月31日（日）本番②\n\n\n▼【Paradox Live／Dope show 2026】2Days／1日1回回し\n【5月30日(土)】\nメイン：BAE、cozmez、1Nm8\nサブ　：TCW、VISTY(中島様以外)\n――――――――――――――\n【5月31日(日)】\nメイン：TCW、悪漢奴等、AMPRULE、獄Luck、VISTY\nサブ　：cozmez、1Nm8\n――――――――――――――\n※メイン・・その日のメインキャストとして1ユニット3～4曲ほど歌唱\n \n※サブ・・・1～2曲ほど歌唱
+UID:87c7d465cb60efa2456386801f7fb25735eeedbeade69c4e6090e87e2a987f6c
 LOCATION:未指定
 END:VEVENT
 END:VCALENDAR
