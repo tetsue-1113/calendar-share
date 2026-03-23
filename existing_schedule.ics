@@ -53,16 +53,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260318T130000
 DTEND;TZID=Asia/Tokyo:20260318T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
-DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:ee94a7c00cdfe6ace3e67e9908d4d5fcc020710f1e7348349690b39bc804e692
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【ディレクター名】\nご担当：ノワ　小宮さま\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n■公式X用宣伝音声、収録後写真撮影が入ります。
+UID:112ea32ba25ed0cef1de3b0a2ca8420fbcf9de2ec898a858eccbf0c0c1e77084
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260318T160000
-DTEND;TZID=Asia/Tokyo:20260318T200000
+DTEND;TZID=Asia/Tokyo:20260318T173000
 SUMMARY:①全力回避フラグちゃん!
-DESCRIPTION:【スタジオ名】\nplott本社6F（予定）\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■男性キャラの出演が少なくなるとのことで、11月以降は月1の収録となります！\n \n■10月以降、スタジオが変更になりますのでお気を付けくださいませ！\n \n（スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F）\n 
+DESCRIPTION:【スタジオ名】\nplott本社6F\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■台本はslackよりご共有頂いております\n\n■いつもと入り時間が異なりますので、お気を付けくださいませ！\n \n【時間】\n前半：保住さん、住谷さん、相良さん　16時〜17時半\n後半：武田さん、梶川さん、岡村さん　18時〜20時半
 UID:7c079daf8388407a9a6b2da084d280d3f725c579caa1ca5d91832bd557aa0a69
 LOCATION:未指定
 END:VEVENT
@@ -77,33 +77,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260324T160000
 DTEND;TZID=Asia/Tokyo:20260324T210000
-SUMMARY:②うちの弟どもがすみません
-DESCRIPTION:【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【ディレクター名】\n本山　哲\n\n【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
-UID:42f19ed75f7a12409abcb56617d6b20a3fd8714760ea48ab6abf532b9a86597f
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260325T100000
-DTEND;TZID=Asia/Tokyo:20260325T180000
-SUMMARY:①※朗読劇リハーサル
-DESCRIPTION:【マネージャー名】\n若槻 剛史
-UID:33059c7a2574381449ea3c414662c6cd2dbc3d012916ed425913aad77c8f78d2
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260326T100000
-DTEND;TZID=Asia/Tokyo:20260326T180000
-SUMMARY:①※朗読劇リハーサル
-DESCRIPTION:【マネージャー名】\n若槻 剛史
-UID:36b9723760f6f948725714d645ac72d319376de253725df84dacbe7349a084fa
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260327T100000
-DTEND;TZID=Asia/Tokyo:20260327T180000
-SUMMARY:①※朗読劇リハーサル
-DESCRIPTION:【マネージャー名】\n若槻 剛史
-UID:fbb1a7f4ff64f59a3b44e04d155fcc8f21b701ab79ba12947538f7cf7a3dfe1a
+SUMMARY:【以降バラシ】うちの弟どもがすみません
+DESCRIPTION:【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【ディレクター名】\n本山　哲\n\n【マネージャー名】\n加茂下 永\n\n【メモ】\n■以降、最終回（＃24）までお出番なくバラシとなりました。\n 
+UID:bda6fdea843214fa8f87d1b0bee6f5de284af5e09840eb17f2299282ba354086
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -128,14 +104,6 @@ DTEND;TZID=Asia/Tokyo:20260330T210000
 SUMMARY:【打ち上げ】悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。S2
 DESCRIPTION:【制作会社名】\n(株)ダックスプロダクション\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n▼打ち上げ開催概要\n\n日程：2026年3月30日（月）\n時間：19:00～21:00（※受付開始：18:30～）\n形式：立食ブッフェ＆フリードリンク\n場所：アプローズスクエア 東京迎賓館\n住所：〒162-0064　東京都新宿区市谷仲之町3‐5\n交通：都営新宿線「曙橋」A2出口より徒歩3分\n都営大江戸線「牛込柳町」より徒歩7分\nhttps://www.bestbridal.co.jp/tokyo/applause_ichigaya/access/
 UID:c8a89053beb6b4e2ea6fbd86a9e4b2cf48c332401e7cf1ea5ce7272ad8b0a368
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260331T160000
-DTEND;TZID=Asia/Tokyo:20260331T210000
-SUMMARY:②うちの弟どもがすみません
-DESCRIPTION:【制作会社名】\n(株)ＩＮＳＰＩＯＮ　ＥＤＧＥ\n\n【ディレクター名】\n本山　哲\n\n【マネージャー名】\n加茂下 永\n\n【メモ】\n・#15～の出番予定のキャラになります。以降26年3月末までレギュラーキープをお願いいたします。\n 
-UID:4203c74cc943f6132f8b20a5acbe9358ee607ea68b176460d1e3be20a5f0ae96
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
