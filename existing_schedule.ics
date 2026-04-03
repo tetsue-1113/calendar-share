@@ -5,33 +5,17 @@ CALSCALE:GREGORIAN
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260404T140000
 DTEND;TZID=Asia/Tokyo:20260404T190000
-SUMMARY:①※朗読劇リハーサル
-DESCRIPTION:【マネージャー名】\n若槻 剛史
-UID:ca40f0bd6109247a7f18e9a8a3116ba5fdc02aadba3028d5a95eac04bf3a491d
+SUMMARY:朗読劇『花道のゆくえ』リハーサル
+DESCRIPTION:【スタジオ名】\n稽古場BOX-01\n\n【制作会社名】\n株式会社　style office\n\n【マネージャー名】\n若槻 剛史\n\n【メモ】\n※稽古場BOX-01　東京都中野区中野3-3-1 中野オリーブ3丁目ビルB1\n 
+UID:c32bc056e2dad1d67f74705d6628afd5f4cddeaa46a88aa168fb3ce5c32ea43a
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260405T100000
-DTEND;TZID=Asia/Tokyo:20260405T180000
+DTSTART;TZID=Asia/Tokyo:20260405T140000
+DTEND;TZID=Asia/Tokyo:20260405T190000
 SUMMARY:①※朗読劇リハーサル
 DESCRIPTION:【マネージャー名】\n若槻 剛史
 UID:bb6c79dce62ed2d50c8271dadbc1d48146859366ccd00edde3fbc3afc75e4b60
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260406T100000
-DTEND;TZID=Asia/Tokyo:20260406T180000
-SUMMARY:①※朗読劇リハーサル
-DESCRIPTION:【マネージャー名】\n若槻 剛史
-UID:6708ba0a10fb02e6598399d7cb4c14d342d7e63fdaa75296ff6c8bb5d3119734
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260407T100000
-DTEND;TZID=Asia/Tokyo:20260407T180000
-SUMMARY:①※朗読劇リハーサル
-DESCRIPTION:【マネージャー名】\n若槻 剛史
-UID:982688638658b9e4c24f4d5451382ab155c6482e307451a6d42629de25fd8955
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -69,9 +53,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260416T000000
 DTEND;TZID=Asia/Tokyo:20260416T235900
-SUMMARY:花道のゆくえ　　朗読劇　19時～
+SUMMARY:花道のゆくえ　　朗読劇　19時～ ※アフタートーク有
 DESCRIPTION:【マネージャー名】\n若槻 剛史
-UID:79f6091ace0bbc364fae7c8e994409faaed912abb0373844768e855c79b3c001
+UID:6520dc6a102355ecb5843048890d4dec9301110554a2460f027001b3786683c6
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -115,10 +99,18 @@ UID:d4a68d84b0ee749145bb5d8f66241375d91f92c6e9d9513682051a23a0b02c58
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260525T160000
+DTEND;TZID=Asia/Tokyo:20260525T190000
+SUMMARY:①東京ディバンカー　追加収録
+DESCRIPTION:【制作会社名】\n(株)ジーアングル\n\n【ディレクター名】\nメーカーの方\n\n【マネージャー名】\n小林 聡華
+UID:694d8c25652362e2453fc6d34ef7c26cd57e12f0f55e46af35649d79b6fdefd5
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260529T000000
 DTEND;TZID=Asia/Tokyo:20260529T235900
 SUMMARY:①Paradox Live／Dope show 2026（6th LIVE）
-DESCRIPTION:【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n◇会場：有明アリーナ　※仮押さえ済\n（5月28日（木）仕込み日）\n5月29日（金）リハーサル\n5月30日（土）本番①\n5月31日（日）本番②\n\n\n▼【Paradox Live／Dope show 2026】2Days／1日1回回し\n【5月30日(土)】\nメイン：BAE、cozmez、1Nm8\nサブ　：TCW、VISTY(中島様以外)\n――――――――――――――\n【5月31日(日)】\nメイン：TCW、悪漢奴等、AMPRULE、獄Luck、VISTY\nサブ　：cozmez、1Nm8\n――――――――――――――\n※メイン・・その日のメインキャストとして1ユニット3～4曲ほど歌唱\n \n※サブ・・・1～2曲ほど歌唱
+DESCRIPTION:【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n◇会場：有明アリーナ　※仮押さえ済\n（5月28日（木）仕込み日）\n5月29日（金）リハーサル\n5月30日（土）本番①\n5月31日（日）本番②\n\n\n▼【Paradox Live／Dope show 2026】2Days／1日1回回し\n【5月30日(土)】\nメイン：BAE、cozmez、1Nm8\nサブ　：TCW、VISTY(中島様以外)\n――――――――――――――\n【5月31日(日)】\nメイン：TCW、悪漢奴等、AMPRULE、獄Luck、VISTY\nサブ　：cozmez、1Nm8\n――――――――――――――\n※メイン・・その日のメインキャストとして1ユニット3～4曲ほど歌唱\n \n※サブ・・・1～2曲ほど歌唱\n\n【5月30日（土）】\n1. Stay Right Here (新曲)\n2. Linger\n3. NEVER END\n4. Endress Dream\n\n【5月31日（日）】\n1. Stay Right Here (新曲)\n2. Linger\n3. NEVER END\n4. Endress Dream\n5. Revengers合同曲（悪漢奴等／VISTY／AMPRULE／cozmez）
 UID:d356eb7003c759ed219a8d65baededaf823c8f99b8be2902d3432d496f5fadf9
 LOCATION:未指定
 END:VEVENT
@@ -126,7 +118,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260530T000000
 DTEND;TZID=Asia/Tokyo:20260530T235900
 SUMMARY:①Paradox Live／Dope show 2026（6th LIVE）
-DESCRIPTION:【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n◇会場：有明アリーナ　※仮押さえ済\n（5月28日（木）仕込み日）\n5月29日（金）リハーサル\n5月30日（土）本番①\n5月31日（日）本番②\n\n\n▼【Paradox Live／Dope show 2026】2Days／1日1回回し\n【5月30日(土)】\nメイン：BAE、cozmez、1Nm8\nサブ　：TCW、VISTY(中島様以外)\n――――――――――――――\n【5月31日(日)】\nメイン：TCW、悪漢奴等、AMPRULE、獄Luck、VISTY\nサブ　：cozmez、1Nm8\n――――――――――――――\n※メイン・・その日のメインキャストとして1ユニット3～4曲ほど歌唱\n \n※サブ・・・1～2曲ほど歌唱
+DESCRIPTION:【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n◇会場：有明アリーナ　※仮押さえ済\n（5月28日（木）仕込み日）\n5月29日（金）リハーサル\n5月30日（土）本番①\n5月31日（日）本番②\n\n\n▼【Paradox Live／Dope show 2026】2Days／1日1回回し\n【5月30日(土)】\nメイン：BAE、cozmez、1Nm8\nサブ　：TCW、VISTY(中島様以外)\n――――――――――――――\n【5月31日(日)】\nメイン：TCW、悪漢奴等、AMPRULE、獄Luck、VISTY\nサブ　：cozmez、1Nm8\n――――――――――――――\n※メイン・・その日のメインキャストとして1ユニット3～4曲ほど歌唱\n \n※サブ・・・1～2曲ほど歌唱\n\n【5月30日（土）】\n1. Stay Right Here (新曲)\n2. Linger\n3. NEVER END\n4. Endress Dream\n\n【5月31日（日）】\n1. Stay Right Here (新曲)\n2. Linger\n3. NEVER END\n4. Endress Dream\n5. Revengers合同曲（悪漢奴等／VISTY／AMPRULE／cozmez）
 UID:11f98f83a6a8675ba19ca1414fa81f6b3974e3185d8bbe32f014ab3081e7b975
 LOCATION:未指定
 END:VEVENT
@@ -134,48 +126,88 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260531T000000
 DTEND;TZID=Asia/Tokyo:20260531T235900
 SUMMARY:①Paradox Live／Dope show 2026（6th LIVE）
-DESCRIPTION:【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n◇会場：有明アリーナ　※仮押さえ済\n（5月28日（木）仕込み日）\n5月29日（金）リハーサル\n5月30日（土）本番①\n5月31日（日）本番②\n\n\n▼【Paradox Live／Dope show 2026】2Days／1日1回回し\n【5月30日(土)】\nメイン：BAE、cozmez、1Nm8\nサブ　：TCW、VISTY(中島様以外)\n――――――――――――――\n【5月31日(日)】\nメイン：TCW、悪漢奴等、AMPRULE、獄Luck、VISTY\nサブ　：cozmez、1Nm8\n――――――――――――――\n※メイン・・その日のメインキャストとして1ユニット3～4曲ほど歌唱\n \n※サブ・・・1～2曲ほど歌唱
+DESCRIPTION:【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n◇会場：有明アリーナ　※仮押さえ済\n（5月28日（木）仕込み日）\n5月29日（金）リハーサル\n5月30日（土）本番①\n5月31日（日）本番②\n\n\n▼【Paradox Live／Dope show 2026】2Days／1日1回回し\n【5月30日(土)】\nメイン：BAE、cozmez、1Nm8\nサブ　：TCW、VISTY(中島様以外)\n――――――――――――――\n【5月31日(日)】\nメイン：TCW、悪漢奴等、AMPRULE、獄Luck、VISTY\nサブ　：cozmez、1Nm8\n――――――――――――――\n※メイン・・その日のメインキャストとして1ユニット3～4曲ほど歌唱\n \n※サブ・・・1～2曲ほど歌唱\n\n【5月30日（土）】\n1. Stay Right Here (新曲)\n2. Linger\n3. NEVER END\n4. Endress Dream\n\n【5月31日（日）】\n1. Stay Right Here (新曲)\n2. Linger\n3. NEVER END\n4. Endress Dream\n5. Revengers合同曲（悪漢奴等／VISTY／AMPRULE／cozmez）
 UID:87c7d465cb60efa2456386801f7fb25735eeedbeade69c4e6090e87e2a987f6c
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260513T160000
-DTEND;TZID=Asia/Tokyo:20260513T200000
-SUMMARY:①全力回避フラグちゃん!
-DESCRIPTION:【スタジオ名】\nplott本社6F（予定）\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■男性キャラの出演が少なくなるとのことで、11月以降は月1の収録となります！\n \n■10月以降、スタジオが変更になりますのでお気を付けくださいませ！\n \n（スタジオ住所：〒101-0054　東京都千代田区神田錦町2-4　ダヴィンチ小川町5F）\n 
-UID:342268d4502d84ad515a132d4e55010e83d14aa995b387bfe9ab4d7db04550c2
+DTSTART;TZID=Asia/Tokyo:20260601T000000
+DTEND;TZID=Asia/Tokyo:20260601T235900
+SUMMARY:③前日入るようならOFF
+DESCRIPTION:
+UID:4556816d19e999bb08e328ce31d0f7e761afcac191b2f6adce5315196757ea92
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260520T130000
-DTEND;TZID=Asia/Tokyo:20260520T150000
-SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
+DTSTART;TZID=Asia/Tokyo:20260603T000000
+DTEND;TZID=Asia/Tokyo:20260603T235900
+SUMMARY:②ユニバーサル・モンスターズ
+DESCRIPTION:【制作会社名】\n(株)Studio Sound Bee\n\n【マネージャー名】\n堤　涼子
+UID:c8e73f5b8880a2c278fe2a5b5ef92181786a4f7599d2dcb546ff7e704af077e5
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260603T130000
+DTEND;TZID=Asia/Tokyo:20260603T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回、1か月前に日程絞られます
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:d4a68d84b0ee749145bb5d8f66241375d91f92c6e9d9513682051a23a0b02c58
+UID:0613607d0afcd01687a80b3f5686948da2f92909647cfbda17c998dd63df874b
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260529T000000
-DTEND;TZID=Asia/Tokyo:20260529T235900
-SUMMARY:①Paradox Live／Dope show 2026（6th LIVE）
-DESCRIPTION:【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n◇会場：有明アリーナ　※仮押さえ済\n（5月28日（木）仕込み日）\n5月29日（金）リハーサル\n5月30日（土）本番①\n5月31日（日）本番②\n\n\n▼【Paradox Live／Dope show 2026】2Days／1日1回回し\n【5月30日(土)】\nメイン：BAE、cozmez、1Nm8\nサブ　：TCW、VISTY(中島様以外)\n――――――――――――――\n【5月31日(日)】\nメイン：TCW、悪漢奴等、AMPRULE、獄Luck、VISTY\nサブ　：cozmez、1Nm8\n――――――――――――――\n※メイン・・その日のメインキャストとして1ユニット3～4曲ほど歌唱\n \n※サブ・・・1～2曲ほど歌唱
-UID:d356eb7003c759ed219a8d65baededaf823c8f99b8be2902d3432d496f5fadf9
+DTSTART;TZID=Asia/Tokyo:20260610T000000
+DTEND;TZID=Asia/Tokyo:20260610T235900
+SUMMARY:②ユニバーサル・モンスターズ
+DESCRIPTION:【制作会社名】\n(株)Studio Sound Bee\n\n【マネージャー名】\n堤　涼子
+UID:988debeafbe7baf51141fe3dbe1aaa2ffe4f1fd9ffe39d6c987aab9ef8b2fce9
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260530T000000
-DTEND;TZID=Asia/Tokyo:20260530T235900
-SUMMARY:①Paradox Live／Dope show 2026（6th LIVE）
-DESCRIPTION:【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n◇会場：有明アリーナ　※仮押さえ済\n（5月28日（木）仕込み日）\n5月29日（金）リハーサル\n5月30日（土）本番①\n5月31日（日）本番②\n\n\n▼【Paradox Live／Dope show 2026】2Days／1日1回回し\n【5月30日(土)】\nメイン：BAE、cozmez、1Nm8\nサブ　：TCW、VISTY(中島様以外)\n――――――――――――――\n【5月31日(日)】\nメイン：TCW、悪漢奴等、AMPRULE、獄Luck、VISTY\nサブ　：cozmez、1Nm8\n――――――――――――――\n※メイン・・その日のメインキャストとして1ユニット3～4曲ほど歌唱\n \n※サブ・・・1～2曲ほど歌唱
-UID:11f98f83a6a8675ba19ca1414fa81f6b3974e3185d8bbe32f014ab3081e7b975
+DTSTART;TZID=Asia/Tokyo:20260610T130000
+DTEND;TZID=Asia/Tokyo:20260610T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:52109a391b72ff0dbd81c10cd803ed301ab901ddcd91fc8474e4e95d6527d11a
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260531T000000
-DTEND;TZID=Asia/Tokyo:20260531T235900
-SUMMARY:①Paradox Live／Dope show 2026（6th LIVE）
-DESCRIPTION:【制作会社名】\navex\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n◇会場：有明アリーナ　※仮押さえ済\n（5月28日（木）仕込み日）\n5月29日（金）リハーサル\n5月30日（土）本番①\n5月31日（日）本番②\n\n\n▼【Paradox Live／Dope show 2026】2Days／1日1回回し\n【5月30日(土)】\nメイン：BAE、cozmez、1Nm8\nサブ　：TCW、VISTY(中島様以外)\n――――――――――――――\n【5月31日(日)】\nメイン：TCW、悪漢奴等、AMPRULE、獄Luck、VISTY\nサブ　：cozmez、1Nm8\n――――――――――――――\n※メイン・・その日のメインキャストとして1ユニット3～4曲ほど歌唱\n \n※サブ・・・1～2曲ほど歌唱
-UID:87c7d465cb60efa2456386801f7fb25735eeedbeade69c4e6090e87e2a987f6c
+DTSTART;TZID=Asia/Tokyo:20260610T160000
+DTEND;TZID=Asia/Tokyo:20260610T173000
+SUMMARY:④全力回避フラグちゃん！
+DESCRIPTION:【スタジオ名】\n株式会社Plott本社\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n6月以降の収録スケジュールが出ました！
+UID:8cd2b93090e275013f75cbeed4c6490941413e474bdeb26842a053a894b24a2c
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260617T000000
+DTEND;TZID=Asia/Tokyo:20260617T235900
+SUMMARY:②ユニバーサル・モンスターズ
+DESCRIPTION:【制作会社名】\n(株)Studio Sound Bee\n\n【マネージャー名】\n堤　涼子
+UID:4bb4c9115d54434fe1daa102f151b2d85ad5b6f8bf042a9311c248c5dc91fd59
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260617T130000
+DTEND;TZID=Asia/Tokyo:20260617T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:b47087e61eb2cbd448bc90a59142e6311ece3b10eb542d7255a7784dff9521cc
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260624T000000
+DTEND;TZID=Asia/Tokyo:20260624T235900
+SUMMARY:②ユニバーサル・モンスターズ
+DESCRIPTION:【制作会社名】\n(株)Studio Sound Bee\n\n【マネージャー名】\n堤　涼子
+UID:adf76da007f19c8b9d39837e2075cf8927d6c54550895ba4de3dd87ed9c1dd77
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260624T130000
+DTEND;TZID=Asia/Tokyo:20260624T150000
+SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回、1か月前に日程絞られます
+DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
+UID:1c751f174ca65c090780e8f27626738a751474fc59d55704df1ea4561f1c6902
 LOCATION:未指定
 END:VEVENT
 END:VCALENDAR
