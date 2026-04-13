@@ -13,9 +13,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260405T140000
 DTEND;TZID=Asia/Tokyo:20260405T190000
-SUMMARY:①※朗読劇リハーサル
-DESCRIPTION:【マネージャー名】\n若槻 剛史
-UID:bb6c79dce62ed2d50c8271dadbc1d48146859366ccd00edde3fbc3afc75e4b60
+SUMMARY:花道のゆくえ　朗読劇リハーサル
+DESCRIPTION:【スタジオ名】\n稽古場BOX-01\n\n【マネージャー名】\n若槻 剛史\n\n【メモ】\n稽古場BOX-01\n〒164-0001\n東京都中野区中野3-3-1 中野オリーブ3丁目ビルB1\n＜MAP＞\nhttps://x.gd/pKh4A
+UID:a29fd7e8811dc8baca92b9c771bb45a43a24c3c5d8508f98020507619efb5f19
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -27,19 +27,27 @@ UID:a84d8ed4947f19ec2bf811d9735846a9a4e9ede38e91f034dd1f6e3aa50f59db
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260411T000000
-DTEND;TZID=Asia/Tokyo:20260411T235900
-SUMMARY:①ラジ友感謝祭2026　イベント　※昼の部のみ
-DESCRIPTION:【スタジオ名】\nセシオン杉並\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n【会場】杉並区梅里1丁目22番32号　https://www.city.suginami.tokyo.jp/shisetsu/bunka/kyouik\n u/1014907.html
-UID:bb30980de1cb392984d99f7e50fb53afe8bb0eea993a84e6b60c5dfcdcc0ca0f
+DTSTART;TZID=Asia/Tokyo:20260410T143000
+DTEND;TZID=Asia/Tokyo:20260410T223000
+SUMMARY:花道のゆくえ　※リハーサル※
+DESCRIPTION:【スタジオ名】\n赤坂レッドシアター\n\n【マネージャー名】\n若槻 剛史\n\n【メモ】\n4月10日(金)\n\n劇場オープン： 10:00\n\n\n【ヘアセット香盤】\n※ヘアセット時間には始められるように、各自劇場にお入りください。\n \n10:15-　紡木様\n\n10:35-　矢野様\n\n10:50-　岩田様\n\n11:00-　助川様：紡木様へ動きの写し\n※11:00-11:30で紡木様へゆき役の動きの写しをお願いできますと幸いです。\n \n※11:00 ヘアセット完了した状態でお願いいたします。\n\n11:05-　伊東様\n\n11:20-　湯本様\n※11:30- ヘアメイクの途中ですが、お時間になりましたら舞台説明のため舞台集合をお願いします。\n \n\n11:20　最終着到\n※以下のキャスト様は11:20までにお入りください。\n坂口様、松島様、卯野様\n\n11:30-　舞台説明＆場当たり＆通し(芸能教室)\n\n\n\n\n\n16:00-　輝馬様\n\n16:15-　八代様(場当たりのみ)\n\n16:30-　久保田様\n\n16:45-　和久井様\n※17:00- ヘアメイクの途中ですが、お時間になりましたら舞台説明のため舞台集合をお願いします。\n \n\n16:50　最終着到　健人様(通しのみ)\n※健人様：場当たりは客席から見学していただき、必要事項は舞台上で確認、その後通しに入るをお願いできますと幸いです。\n \n\n17:00-　舞台説明＆場当たり＆通し(音楽教室)\n\n\n\n\n▽22:30　完全退館\n\n\nーーーーーーーーーーーー
+UID:d0a20b9a048a4950b1d8c7156fb5945b824484ffe8dc05beac880eb948efe477
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260414T000000
-DTEND;TZID=Asia/Tokyo:20260414T235900
+DTSTART;TZID=Asia/Tokyo:20260411T093000
+DTEND;TZID=Asia/Tokyo:20260411T160000
+SUMMARY:①ラジ友感謝祭2026　イベント（昼の部のみ）
+DESCRIPTION:【スタジオ名】\nセシオン杉並\n\n【制作会社名】\n(株)ノワ\n\n【ディレクター名】\nご担当：ノワ小宮さま\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n※9：30に会場楽屋口でMg小林と待ち合わせでお願いいたします。\n \n※朗読台本をご持参ください！！\n\n【会場】杉並区梅里1丁目22番32号　https://www.city.suginami.tokyo.jp/shisetsu/bunka/kyouik\n u/1014907.html\n■メイク付き、衣装自前になります。\n■公式SNS用写真撮影入ります。アニメイトタイムズ、4Gamerのイベントレポート入ります。\n \n\n▼資料一式\nhttps://drive.google.com/drive/folders/1iWRjEWPf8VgcSEvSXmGGVE8D1sCLK0us?us\n p=drive_link
+UID:dfa713f2405d5ad437ad27f333cd10e5c6da4376e38517ba91a1e933017806e5
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260413T112000
+DTEND;TZID=Asia/Tokyo:20260413T220000
 SUMMARY:花道のゆくえ　　朗読劇　　※14時～　19時～
-DESCRIPTION:【マネージャー名】\n若槻 剛史
-UID:6751b991af223ad58a0eb79ac3b52d8ebc5ae3a146374fa437e8ad3b2999efb1
+DESCRIPTION:【スタジオ名】\n赤坂レッドシアター\n\n【制作会社名】\n株式会社　style office\n\n【マネージャー名】\n若槻 剛史\n\n【メモ】\n4月14日(火)\n劇場オープン： 10:30\n11:00-　駒田様\n※ヘアメイク時間には始められるように、劇場にお入りください。\n \n\n11:20　最終着到\n※以下のキャスト様は11:20までにお入りください。\n伊東様、住谷様、輝馬様、岩田様、八巻様、助川様、松島様、卯野様\n \n\n\n11:30-　場当たり\n※場当たり以降のヘアメイク香盤は添付をご確認ください。\n \n\n14:00-　開演【音楽教室】\n\n\n\n16:00-　矢野様\n※ヘアメイク時間には始められるように、劇場にお入りください。\n \n\n16:30-　髙橋様\n※ヘアメイク時間には始められるように、劇場にお入りください。\n \n\n16:50　最終着到\n※以下のキャスト様は16:50までにお入りください。\n優希様\n\n17:00-　場当たり\n※場当たり開始時間が以前お送りしたスケジュールより、30分変更となっております。\n \n※場当たり以降のヘアメイク香盤は添付をご確認ください。\n \n\n19:00-　開演【芸能教室】\n\n\n▽終演後1時間　完全退館\n\n\nーーーーーーーーーーーー
+UID:4a160ad23ddd19057d672a865e3c5534d7aa672ba58d9f59b2b5a8ed48443913
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -56,6 +64,14 @@ DTEND;TZID=Asia/Tokyo:20260416T235900
 SUMMARY:花道のゆくえ　　朗読劇　19時～ ※アフタートーク有
 DESCRIPTION:【マネージャー名】\n若槻 剛史
 UID:6520dc6a102355ecb5843048890d4dec9301110554a2460f027001b3786683c6
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260416T000000
+DTEND;TZID=Asia/Tokyo:20260416T235900
+SUMMARY:テープAD「悪祓士のキヨシくん」「乗っ取られ悪女」
+DESCRIPTION:【メモ】\n・ビットグルーヴ制作「悪祓士のキヨシくん」役：三途川涅槃（担当：山本）\n \n・ビットグルーヴ制作「10年間身体を乗っ取られ悪女になっていた私に、二度と顔を見せるなと婚約破棄してきた騎士様が今日も縋ってくる」役：ニール・バッセル\n （担当：山本）
+UID:1e3a739c430ffe49f23ed5673bfc041ed3c335e28a08c5923bd497a0186bd972
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
