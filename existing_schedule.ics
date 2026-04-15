@@ -43,27 +43,19 @@ UID:dfa713f2405d5ad437ad27f333cd10e5c6da4376e38517ba91a1e933017806e5
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260413T112000
-DTEND;TZID=Asia/Tokyo:20260413T220000
+DTSTART;TZID=Asia/Tokyo:20260414T112000
+DTEND;TZID=Asia/Tokyo:20260414T220000
 SUMMARY:花道のゆくえ　　朗読劇　　※14時～　19時～
 DESCRIPTION:【スタジオ名】\n赤坂レッドシアター\n\n【制作会社名】\n株式会社　style office\n\n【マネージャー名】\n若槻 剛史\n\n【メモ】\n4月14日(火)\n劇場オープン： 10:30\n11:00-　駒田様\n※ヘアメイク時間には始められるように、劇場にお入りください。\n \n\n11:20　最終着到\n※以下のキャスト様は11:20までにお入りください。\n伊東様、住谷様、輝馬様、岩田様、八巻様、助川様、松島様、卯野様\n \n\n\n11:30-　場当たり\n※場当たり以降のヘアメイク香盤は添付をご確認ください。\n \n\n14:00-　開演【音楽教室】\n\n\n\n16:00-　矢野様\n※ヘアメイク時間には始められるように、劇場にお入りください。\n \n\n16:30-　髙橋様\n※ヘアメイク時間には始められるように、劇場にお入りください。\n \n\n16:50　最終着到\n※以下のキャスト様は16:50までにお入りください。\n優希様\n\n17:00-　場当たり\n※場当たり開始時間が以前お送りしたスケジュールより、30分変更となっております。\n \n※場当たり以降のヘアメイク香盤は添付をご確認ください。\n \n\n19:00-　開演【芸能教室】\n\n\n▽終演後1時間　完全退館\n\n\nーーーーーーーーーーーー
-UID:4a160ad23ddd19057d672a865e3c5534d7aa672ba58d9f59b2b5a8ed48443913
+UID:6751b991af223ad58a0eb79ac3b52d8ebc5ae3a146374fa437e8ad3b2999efb1
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260415T160000
-DTEND;TZID=Asia/Tokyo:20260415T200000
+DTSTART;TZID=Asia/Tokyo:20260414T160000
+DTEND;TZID=Asia/Tokyo:20260414T200000
 SUMMARY:全力回避フラグちゃん!
 DESCRIPTION:【スタジオ名】\nplott本社6F\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n4月の収録はイレギュラーで4/16(木)に行うことになりました。\n \n住谷さんは朗読劇が入っていることもあり、4月収録分は実施なしとなりました…申し訳ございません…（；；）どうぞよろしくお願いいたします！\n 
-UID:77f387f34708b827574bb10209f23897967cee5332f61d2c58be2668c9d08181
-LOCATION:未指定
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20260416T000000
-DTEND;TZID=Asia/Tokyo:20260416T235900
-SUMMARY:花道のゆくえ　　朗読劇　19時～ ※アフタートーク有
-DESCRIPTION:【マネージャー名】\n若槻 剛史
-UID:6520dc6a102355ecb5843048890d4dec9301110554a2460f027001b3786683c6
+UID:8683f326e918295d85d493866c76c667f4e1b180643062018c5f5c0154b52846
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -72,6 +64,14 @@ DTEND;TZID=Asia/Tokyo:20260416T235900
 SUMMARY:テープAD「悪祓士のキヨシくん」「乗っ取られ悪女」
 DESCRIPTION:【メモ】\n・ビットグルーヴ制作「悪祓士のキヨシくん」役：三途川涅槃（担当：山本）\n \n・ビットグルーヴ制作「10年間身体を乗っ取られ悪女になっていた私に、二度と顔を見せるなと婚約破棄してきた騎士様が今日も縋ってくる」役：ニール・バッセル\n （担当：山本）
 UID:1e3a739c430ffe49f23ed5673bfc041ed3c335e28a08c5923bd497a0186bd972
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260416T163500
+DTEND;TZID=Asia/Tokyo:20260416T220000
+SUMMARY:花道のゆくえ　　朗読劇　19時～ ※アフタートーク有
+DESCRIPTION:【スタジオ名】\n赤坂レッドシアター\n\n【制作会社名】\n株式会社　style office\n\n【マネージャー名】\n若槻 剛史\n\n【メモ】\n※終演後アフタトークが入ります。若槻\n\n【キャスト】お弁当1食、ご用意がございます。\n\nーーーーーーーーーー\n4月16日(木)\n劇場オープン： 15:30\n16:00-　矢野様\n※ヘアメイク時間には始められるように、劇場にお入りください。\n \n\n16:30-　岩田様\n※ヘアメイク時間には始められるように、劇場にお入りください。\n \n\n16:30-16:45　動き写し\n※16:30から始められるように、劇場にお入りください。\n八巻様、助川様\n\n16:35　最終着到\n※以下のキャスト様は16:35までにお入りください。\n伊東様、住谷様、湯本様、松島様、卯野様\n\n16:45-　場当たり、アフタートーク段取り\n※場当たり以降のヘアメイク香盤は添付をご確認ください。\n \n\n19:00-　開演【芸能教室】：終演後アフタートーク有\n\n\n▽終演後1時間　完全退館\n\n\nーーーーーーーーーーーー
+UID:6520dc6a102355ecb5843048890d4dec9301110554a2460f027001b3786683c6
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -99,6 +99,14 @@ UID:dd65388d1c74179cf53b17a50d374346a224c05e96ffcaf4667a29a7418fe7b7
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260423T160000
+DTEND;TZID=Asia/Tokyo:20260423T210000
+SUMMARY:①今日ログ　ラジオ
+DESCRIPTION:【制作会社名】\n(株)マリン･エンタテインメント\n\n【マネージャー名】\n杉山　裕
+UID:01e825ccb250093f79beb82472250680c24b08e8f240a1374fe59df84a808ee9
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260513T160000
 DTEND;TZID=Asia/Tokyo:20260513T200000
 SUMMARY:①全力回避フラグちゃん!
@@ -112,6 +120,14 @@ DTEND;TZID=Asia/Tokyo:20260520T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
 UID:d4a68d84b0ee749145bb5d8f66241375d91f92c6e9d9513682051a23a0b02c58
+LOCATION:未指定
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20260520T160000
+DTEND;TZID=Asia/Tokyo:20260520T170000
+SUMMARY:①H74（遗忘之海 Sea of Remnants）ゲーム
+DESCRIPTION:【制作会社名】\n株式会社ソノロジックデザイン\n\n【マネージャー名】\n野上 尚寿
+UID:e74f8db0792d2659643a038d21825d1fec57c7799c6637a8378d5495a1b1f92a
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
