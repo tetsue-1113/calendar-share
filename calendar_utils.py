@@ -1,5 +1,4 @@
 import os
-import base64
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
@@ -24,12 +23,6 @@ def authorize_calendar(credentials_path=None):
             token.write(creds.to_json())
     return build("calendar", "v3", credentials=creds)
 
-def generate_uid(schedule):
-    raw = f"{schedule['title']}:{schedule['date'].isoformat()}"
-    uid_bytes = raw.encode("utf-8")
-    safe_uid = base64.urlsafe_b64encode(uid_bytes).decode("ascii").rstrip("=")
-    return safe_uid
-
 def insert_event(service, title, start_dt, end_dt, calendar_id="primary", uid=None):
     event = {
         "summary": title,
@@ -50,3 +43,41 @@ def insert_event(service, title, start_dt, end_dt, calendar_id="primary", uid=No
                 print(f"❌ insert 失敗: {insert_error}")
         else:
             print(f"❌ update 失敗: {e}")
+
+
+def list_event_ids_in_range(service, calendar_id, time_min, time_max):
+    event_ids = set()
+    page_token = None
+
+    while True:
+        response = service.events().list(
+            calendarId=calendar_id,
+            timeMin=time_min.isoformat(),
+            timeMax=time_max.isoformat(),
+            singleEvents=True,
+            showDeleted=False,
+            pageToken=page_token,
+        ).execute()
+
+        for event in response.get("items", []):
+            event_id = event.get("id")
+            if event_id:
+                event_ids.add(event_id)
+
+        page_token = response.get("nextPageToken")
+        if not page_token:
+            break
+
+    return event_ids
+
+
+def delete_events_by_ids(service, calendar_id, event_ids):
+    for event_id in sorted(event_ids):
+        try:
+            service.events().delete(calendarId=calendar_id, eventId=event_id).execute()
+            print(f"🗑️ 削除完了: {event_id}")
+        except HttpError as e:
+            if e.status_code == 404:
+                print(f"ℹ️ 既に存在しません: {event_id}")
+            else:
+                print(f"❌ 削除失敗: {event_id} / {e}")
