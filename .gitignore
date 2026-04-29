@@ -5,3 +5,4 @@ __pycache__/
 *.pyc
 log.txt
 log 2.txt
+.venv/
