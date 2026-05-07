@@ -65,10 +65,22 @@ def parse_time_with_overflow(date, time_str):
 
 
 def parse_time_range(time_range):
-    try:
-        return time_range.split(" - ", 1)
-    except ValueError:
+
+    if not time_range:
         return "00:00", "23:59"
+
+    time_range = time_range.strip()
+    
+    if " - " in time_range:
+        start, end = time_range.split(" - ", 1)
+        return start.strip(), end.strip()
+
+    if "-" in time_range:
+        start, end = time_range.split("-", 1)
+        return start.strip(), end.strip()
+    
+    print(f"⚠️ 時間形式が不明のため終日扱いにします: {time_range}")
+    return "00:00", "23:59"
 
 
 def extract_event_date(schedule, year, month):
