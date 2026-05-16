@@ -260,7 +260,17 @@ try:
         print("⚠️ 取得スケジュールが0件だったため、誤削除防止で削除同期をスキップします。")
 
 except Exception as e:
-    print(f"❌ エラー発生: {e}")
+    print(f"❌ エラー発生: {type(e).__name__}")
+    print(str(e))
+
+    try:
+        driver.save_screenshot("error_screenshot.png")
+        print("📸 error_screenshot.png を保存しました")
+    except:
+        pass
+
+    raise
+
 finally:
     driver.quit()
     print("🛑 ブラウザを閉じます。")

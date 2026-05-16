@@ -38,6 +38,11 @@ echo "$(date '+%Y-%m-%d %H:%M:%S') 実行中..."
 # -----------------------
 "$PYTHON_PATH" "$PROJECT_DIR/$SCRIPT_NAME"
 
+if [ $? -ne 0 ]; then
+    echo "❌ Python処理でエラーが発生したため、Git更新を中止します。"
+    exit 1
+fi
+
 # -----------------------
 #  Git管理（.icsのみコミット）
 # -----------------------
