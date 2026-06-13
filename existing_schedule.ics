@@ -7,7 +7,7 @@ DTSTART;TZID=Asia/Tokyo:20260601T000000
 DTEND;TZID=Asia/Tokyo:20260601T235900
 SUMMARY:③前日入るようならOFF
 DESCRIPTION:
-UID:aeb052e66f77cc21add0c826df880cbc95f44878f4fa33fdf5c192eb26b16109
+UID:838ff594e70148921049b5d59e7be5e0817eb0fa310c3f25b84d95bf9b096b75
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -15,7 +15,7 @@ DTSTART;TZID=Asia/Tokyo:20260603T160000
 DTEND;TZID=Asia/Tokyo:20260603T163000
 SUMMARY:①Paradox Live　4thシーズンプロローグCD　ボイス収録
 DESCRIPTION:【スタジオ名】\nC And T本社スタジオ（5st～7st）\n\n【制作会社名】\n合同会社シーアンドティー\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n◇C And T 本社スタジオ\nhttp://www.candt.info/company/#access\n東京都港区赤坂8丁目5番41号　イースタン青山ビル 2F\n※ご到着されましたらインターフォンにて「401」でスタッフの方をお呼び出しください。\n \n\n■ボイス収録資料\n▼住谷哲栄様【ParadoxLive／4thシーズンプロローグCD】ご収録資料一式\n \nhttps://drive.google.com/drive/folders/1NE62Am-iGXQUPjc1AqhRdNfZXobeoVfe?us\n p=sharing\n※収録分量：7w
-UID:57c22bb23a23850431c7aeba10adcd055107acdc4175090854da93c2543b4cfb
+UID:1fb8a456185c1aa96304d230325fc137b7f0f356cffb9a3570104da44e6bc6ff
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -23,7 +23,7 @@ DTSTART;TZID=Asia/Tokyo:20260610T160000
 DTEND;TZID=Asia/Tokyo:20260610T173000
 SUMMARY:①全力回避フラグちゃん！
 DESCRIPTION:【スタジオ名】\n株式会社Plott本社\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n■台本はslackよりご共有いただいております！\n\n【時間】\n前半：保住さん、住谷さん、相良さん　16時〜17時半\n後半：武田さん、梶川さん、岡村さん　18時〜20時半
-UID:a7b969d9c4454062479d1f3aff97e60c2d5a9a7ed37061017050cd33bc01183e
+UID:24932eaca119fa64ef81361c3a4664e11cde0820094290e1e81046805f6a88e8
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -31,7 +31,7 @@ DTSTART;TZID=Asia/Tokyo:20260611T200000
 DTEND;TZID=Asia/Tokyo:20260611T230000
 SUMMARY:①今日ログ　ラジオ
 DESCRIPTION:【スタジオ名】\nマリン・エンタテインメント4F会議室A（アメジスト）\n\n【制作会社名】\n(株)マリン･エンタテインメント\n\n【ディレクター名】\nご担当：西川路さま\n\n【マネージャー名】\n杉山　裕
-UID:26ffdf47fc3ca17edc31b8e26b26868d18646f5242efa080d27c71a128485aeb
+UID:7961f55cba33ae8e4f94e541a79344ae41500dcccbf729f19e2a99ccb4be83c7
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -39,15 +39,15 @@ DTSTART;TZID=Asia/Tokyo:20260615T173000
 DTEND;TZID=Asia/Tokyo:20260615T210000
 SUMMARY:①PSYREN
 DESCRIPTION:【スタジオ名】\nスタジオサウンドビー（PW：9592467）\n\n【制作会社名】\n(株)Studio Sound Bee\n\n【ディレクター名】\n本山　哲\n\n【マネージャー名】\n堤　涼子\n\n【メモ】\n・念のため地図添付しましたので再送いたします。
-UID:302bcb8e6ad91b2ef0df62c1b1ed7ab80e9e5646e474d1c6d1cae6052148248b
+UID:e80a8e93772142fed572b1de53bc66a0e2027c12cebaed4beee5ae8e30dd5014
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20260616T100000
 DTEND;TZID=Asia/Tokyo:20260616T103000
-SUMMARY:①H74（遗忘之海 Sea of Remnants）
-DESCRIPTION:【制作会社名】\n株式会社ソノロジックデザイン\n\n【マネージャー名】\n野上 尚寿
-UID:6e358c66898deece2a3a4ef121ddb67aeaa24b5dc432804ffcd3f354e06cedba
+SUMMARY:①H74（遗忘之海 Sea of Remnants）　追加収録
+DESCRIPTION:【スタジオ名】\nre:voix studio Bst\n\n【制作会社名】\n株式会社ソノロジックデザイン\n\n【マネージャー名】\n野上 尚寿\n\n【メモ】\n▼re:voix Studio B\n東京都渋谷区恵比寿4-12-12 ダイナックスビル 1F）\n※スタジオ入口の案内については下記をご確認ください。\n \nhttps://drive.google.com/file/d/1MmsYG1gFxvbEMXJdKzUDYzKU9ZaaKPbq/view?usp=\n sharing\n\n・画面にタッチ\n・左下のアスタリスク（＊）を押す\n・番号を入力（8410）\n・右下のシャープ（＃）を押す
+UID:d5e0fdc57114fd7212415d5e828610ab66cfe056d9d2783eea781ac7584cc3ab
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -55,7 +55,7 @@ DTSTART;TZID=Asia/Tokyo:20260617T130000
 DTEND;TZID=Asia/Tokyo:20260617T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n◆6月分は、6/17で収録しますので他日程はバラシでお願いします！\n 
-UID:f165b17e7b990f68492e688f93ff6e637958b34a7f03a76ee26492f61bb2e8b4
+UID:286c39be902ffb9e456429d6076506f58e2f86aa787fb6ed8b3b9b8006441d41
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -63,7 +63,7 @@ DTSTART;TZID=Asia/Tokyo:20260708T160000
 DTEND;TZID=Asia/Tokyo:20260708T173000
 SUMMARY:④全力回避フラグちゃん！
 DESCRIPTION:【スタジオ名】\n株式会社Plott本社\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n6月以降の収録スケジュールが出ました！
-UID:a1545d35201fc210db4e22539e4e737fb37080791938483b5a3c365288142202
+UID:512e8b2fd9163c8656672efd481f923a8408f9477d6ca12c31848c3a3c4dd48f
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -71,7 +71,7 @@ DTSTART;TZID=Asia/Tokyo:20260722T130000
 DTEND;TZID=Asia/Tokyo:20260722T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※実施
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華\n\n【メモ】\n◆7月分は、7/22で収録となりますので他日程はバラシでお願いします！\n 
-UID:accfd9c9712a5fcd439e88e555047be2ab2834a4dad56f2c0876fae6c374436b
+UID:b0d3410ca5a1a8beaafc56f6ba23031684d146d8dd388887e4c79b1a7140213d
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -79,7 +79,7 @@ DTSTART;TZID=Asia/Tokyo:20260805T130000
 DTEND;TZID=Asia/Tokyo:20260805T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回、1か月前に日程絞られます
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:60c7035514c42eba350f2a1593ced09ce2526bd0929fbb347f41327cf1e87912
+UID:9ec7e0daca9f63202aa40f72ca80fa990a481b31b3a2cf3d293b5d44005874fb
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -87,7 +87,7 @@ DTSTART;TZID=Asia/Tokyo:20260805T160000
 DTEND;TZID=Asia/Tokyo:20260805T173000
 SUMMARY:④全力回避フラグちゃん！
 DESCRIPTION:【スタジオ名】\n株式会社Plott本社\n\n【制作会社名】\n株式会社　Plott\n\n【マネージャー名】\n兼丸 なな弥\n\n【メモ】\n6月以降の収録スケジュールが出ました！
-UID:207e0a888c136027355e9403d8d62ccc493e4bd9e68af05ea964ce29209bf90d
+UID:1706bf445666d597616197cb43a9ad7d56cf8a21aabde2dc02fb68627aab15c2
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -95,7 +95,7 @@ DTSTART;TZID=Asia/Tokyo:20260812T130000
 DTEND;TZID=Asia/Tokyo:20260812T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回、1か月前に日程絞られます
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:f3eaccd36e79ec241978c44ef505dd54731642a86aadc18376bea670908c0e58
+UID:bbdbd56be7ae7fab11653b8bb53729223ef9c084a0c2f5909659e80e448d9095
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -103,7 +103,7 @@ DTSTART;TZID=Asia/Tokyo:20260819T130000
 DTEND;TZID=Asia/Tokyo:20260819T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回、1か月前に日程絞られます
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:e99ce9b5e0c3eb9319cf115909cfd06c448fd698b510e7d3bd966dcd57c826ba
+UID:9158f6b2eb910f0f5073dfba02d7acb91abeb8dc49e4995e4cb7b4bbc38d5ff8
 LOCATION:未指定
 END:VEVENT
 BEGIN:VEVENT
@@ -111,7 +111,7 @@ DTSTART;TZID=Asia/Tokyo:20260826T130000
 DTEND;TZID=Asia/Tokyo:20260826T150000
 SUMMARY:①wel&come どれみふぁ～む　ラジオ収録　※月1回、1か月前に日程絞られます
 DESCRIPTION:【スタジオ名】\n高円寺スタジオトロン　オレンジ\n\n【制作会社名】\n(株)ノワ\n\n【マネージャー名】\n小林 聡華
-UID:17f4952531e569d76b13207b355b1a92a34c3b26604cc9a6c41b6989830017ce
+UID:5e2cff3bfc6c7fb91bc1b6ba3fc905ae9b5c1f05ca3cf13c9617e9d17832ac57
 LOCATION:未指定
 END:VEVENT
 END:VCALENDAR
